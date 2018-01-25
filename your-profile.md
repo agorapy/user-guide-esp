@@ -1,199 +1,159 @@
-# Enterprise Settings
+# Configuración de la Empresa
 
-Enterprise Setting is where you can manage details relating to your profile and shopfront.
+Configuración de la Empresa es donde puede administrar los detalles relacionados con su perfil y su tienda en línea.
 
-This video will show you how to access, edit and add information to your profile at any time. 
+Este video le mostrará cómo acceder, editar y agregar información a su perfil en cualquier momento.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCxfNiLxwDk" frameborder="0" allowfullscreen></iframe>
 
+### Acceda a la configuración de su empresa
+1. Haga clic en 'Empresa' en el menú horizontal azul
+2. Haga clic en 'Administrar' al lado de su empresa
 
-### Access your Enterprise Settings
-1. Click on 'Enterprise' in the blue horizontal menu
-2. Click on 'Manage' next to your enterprise
+Cada sección del menú Configuración de la Empresa se explica a continuación:
 
-Each section of the Enterprise Configuration menu is explained below:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* ##### [Primary Details](#primary-details)
-* ##### [Users](#users)
-* ##### [Address](#adress)
-* ##### [Contact](#contact)
+* ##### [Detalles primarios](#detalles-primarios)
+* ##### [Usuarios](#usuarios)
+* ##### [Dirección](#dirección)
+* ##### [Contacto](#contacto)
 * ##### [Social](#social)
-* ##### [About](#about)
-* ##### [Business details](#business-details)
-* ##### [Images](#images)
-* ##### [Properties](#properties) (producers only)
+* ##### [Acerca de](#acerca-de)
+* ##### [Detalles del Negocio](#detalles-del-negocio)
+* ##### [Imágenes](#imágenes)
+* ##### [Propiedades](#propiedades) (sólo para productores)
 
-Shops only sections:
-* ##### [Inventory Settings](#inventory-settings)
-* ##### [Shipping Methods, Payment Methods and Enterprise Fees](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
-* ##### [Tag Rules](#tag-rules)
-* ##### [Shop Preferences](#shop-preferences)
+Secciones solo para vendedores:
+* ##### [Configuración de inventario](#inventory-settings)
+* ##### [Métodos de Envío, Métodos de Pago y Tarifas de Empresa](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
+* ##### [Reglas de Etiqueta](#tag-rules)
+* ##### [Preferencias de la tienda](#shop-preferences)
  
-
->_Reminder: when editing, click the Update button **within each section** to save your changes. It’s on the bottom of the page. _
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Primary Details
-
-**Name: **This is the name of your enterprise. It will be the title of your profile and store.
-
-**Primary Producer: **Select the producer box if you are a producer. If your organisation is involved in the local food movement in another capacity, don't select this box \(e.g. food hub, coop, farmer's market, advocacy group\).
-
-\*_Note: only enterprises marked as producers can add products to OFN. Hubs only need to select this option when they sell mixed boxes which they pack, that include items from multiple producers._
-
-**Visible in Search: **If your profile is ready to go public, select visible, and it will show in the OFN's directory and map. If you’re still making adjustments, select not visible, until you are ready.
-
-**Permalink: **You can customise part of the web address which will host to your shop.
-
-**Link to Shop Front: **This is the web address of your shop on the OFN \(only visible if you've chosen a package with shopfront\). You can customise the URL above.
+> Recordatorio: al editar, haga clic en el botón Actualizar **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
 
 ---
 
-#### Users
+#### Detalles primarios
 
-**Owner: **This is the primary user responsible for this enterprise.
+**Nombre:** Este es el nombre de su empresa. Será el título de su perfil y tienda.
 
-**Notifications:** This is the email address where OFN system correspondence will be directed, i.e. order confirmations etc. If this email differs from your login email, you will need to confirm the email address. Upon confirmation this email will be added as a manager \(see below\).
+**Productor principal:** Seleccione el cuadro productor si es un productor. Si su organización está involucrada en el movimiento local de alimentos en otra manera, no seleccione esta casilla \(por ejemplo, vendedores, centro de alimentos, cooperativa, mercado de agricultores, grupo de consumo\).
 
-**Manager: **Other OFN users who have been granted permission to manage this account. If they don’t already have an OFN account, you can type in the new manager’s email as the notification email \(see above\), this will prompt them to get a confirmation email, and upon confirmation they will become a manager. If they’re already a OFN user, type their full email in the manager field, and select them from the dropdown list.
+> Nota: solo las empresas marcadas como productoras pueden agregar productos a la Red Ágora. Los vendedores solo necesitan seleccionar esta opción cuando venden cajas mixtas que empaquetan, que incluyen artículos de múltiples productores.
+
+**Visible en la búsqueda:** Si su perfil está listo para ser público, seleccione visible, y se mostrará en el directorio y mapa de la Red Ágora. Si todavía está haciendo ajustes, seleccione no visible, hasta que esté listo.
+
+**Enlace permanente:** Puede personalizar parte de la dirección web que alojará su tienda.
+
+**Enlace a Shop Front:** Esta es la dirección web de su tienda en Red Ágora \(esta opción solo está visible si ha elegido un paquete con tienda en línea\). Puedes personalizar la URL arriba.
 
 ---
 
-#### Address
+#### Usuarios
 
-This information is used to map your enterprise the OFN map.
+**Propietario:** Este es el usuario principal responsable de esta empresa.
+
+**Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
+
+**Administrador:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
+
+#### Dirección
+
+Esta información se utiliza para asignar a su empresa el mapa de Red Ágora.
 
 ---
 
-#### Contact
+#### Contacto
 
-**Contact Name: **We ask for a contact name for the OFN’s records. This name will not be displayed on your profile, but will be included in order confirmation emails if you're running a shop.
+**Nombre de contacto:** Solicitamos un nombre de contacto para los registros de Red Ágora. Este nombre no se mostrará en su perfil, pero se incluirá en los correos electrónicos de confirmación de pedido si está ejecutando una tienda.
 
-**Email and Phone and Website: **These contact points will be listed on your OFN profile and shopfront, as a means for others to make contact with you.
+**Correo electrónico, teléfono y sitio web:** Estos puntos de contacto se incluirán en su perfil de Red Ágora y su tienda, como medio para que otros se comuniquen con usted.
 
 ---
 
 #### Social
 
-**Facebook address, Instagram, LinkedIn, Twitter: **Links to these pages will be created on your profile and shopfront.
+**Dirección de Facebook, Instagram, LinkedIn, Twitter:** Los enlaces a estas páginas se crearán en su perfil y tienda.
 
 ---
 
-#### About
+#### Acerca de
 
-**Short description: **This will be displayed when your profile is viewed in the list. It should be under 1-2 sentences which briefly describe what you do.
+**Breve descripción:** Esto se mostrará cuando su perfil sea visto en la lista. Debe ser de 1 a 2 oraciones que describan brevemente lo que hace.
 
-**About Us: **This is a longer description of your enterprise. It will be shown when your profile is viewed in full. It should be half to one page long.
-
----
-
-#### Business Details
-
-**ABN:**  this will not be displayed publicly. It is required for shop users who want to print invoices.
-
-**ACN:** this will not be displayed publicly.
-
-**Charge GST?**– If you wish to charge GST for your products select ‘yes’.
+**Acerca de nosotros:** Esta es una descripción más larga de su empresa. Se mostrará cuando su perfil se vea completo. Debe ser de media a una página de largo.
 
 ---
 
-#### Images
+#### Detalles del Negocio
 
-**Logo image: **This will be visible when your profile is viewed in brief, as a pop up window. It will also show on your profile. This image must be square, or it will be cropped/warped.
+**RUC:** esto no se mostrará públicamente. Se requiere para los usuarios de tiendas que desean imprimir facturas.
 
-**Promo image: **This image will run horizontally along the top of your profile page. It should be 1200 x 260 pixels in size.
-
-An example profile is shown below.![](/assets/Demo profile.png)
+**¿Cargar IVA?** - Si desea cargar IVA para sus productos, seleccione 'sí'.
 
 ---
 
-#### Properties \(visible to producers only\)
+#### Imágenes
 
-You can apply properties \(such as free range or certified organic\) to your enterprise. These properties will then be automatically applied to all of your products. For an in depth discussion of properties click [here](/product-properties.md).
+** Imagen del logotipo: ** Esto estará visible cuando su perfil se vea brevemente, como una ventana emergente. También se mostrará en tu perfil. Esta imagen debe ser cuadrada, o será recortada / deformada.
 
----
+** Imagen promocional: ** Esta imagen se ejecutará horizontalmente en la parte superior de su página de perfil. Debe tener un tamaño de 1200 x 260 píxeles.
 
-_\* Note: The following fields are only visible to users who’ve opted to have an online shop. This includes producer run shops, and hub run shops._
+Un perfil de ejemplo se muestra a continuación.
 
----
-
-#### Inventory Settings
-
-_\* not visible to profile-only users_
-
-Simple users can use the recommended setting. Advanced users who need greater flexibility with product management should consult the [Inventory](/inventory.md) page of this guide before changing the settings.
+![](/assets/Demo profile.png)
 
 ---
 
-#### Shipping Methods, Payment Methods and Enterprise Fees
+#### Properties \(visible solo para productores\)
 
-_\* not visible to profile-only users_
-
-The [Shipping](/shipping-methods.md) and [Payment Methods](/payment-methods-2.md) and [Enterprise Fees](/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su empresa. Estas propiedades se aplicarán automáticamente a todos sus productos. Para una discusión en profundidad de las propiedades, haga clic en [aquí](/product-properties.md).
 
 ---
 
-#### Tag Rules
-
-_\* not visible to profile-only users_
-
-You can control the setting for customer tags by creating tag rules. For more information about this see [customer accounts and tagging](/customer-accounts-and-tagging.md).
+> Nota: Los siguientes campos solo están visibles para los usuarios que han optado por tener una tienda en línea. Esto incluye las tiendas de producción de productores y las tiendas de ejecución central.
 
 ---
 
-#### Shop Preferences
+#### Configuración de inventario
 
-_\* not visible to profile-only users_
+> Esta sección no es visible para usuarios que no tienen una tienda virtual
 
-**Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
+Los usuarios simples pueden usar la configuración recomendada. Los usuarios avanzados que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [Inventario](/inventory.md) de esta guía antes de cambiar la configuración.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png "Shopfront Message")
+---
 
-**Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+#### Métodos de envío, métodos de pago y tarifas empresariales
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png "store closed")
+> Esta sección no es visible para usuarios que no tienen una tienda virtual
 
-**Publicly visible shopfront?**: If you select ‘public’, any shopper will be able to see your shopfront. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop.
+Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.md) y [Tarifas de Empresa](/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este documento de manual de usuario.
 
-**Guest Orders?**: If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you. If you want shoppers to login before they can place their order, select ‘require login to order’. Note the Guest Orders setting is not applicable if you have chosen ‘visible to registered customers only’ in the setting above.
+---
 
-**Shopfront Category Ordering**: The products within your store are arranged alphabetically, within their product category. You can order the product categories as you’d like them to appear, from top to bottom in your store. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preseves appearing further down the shopfront.
+#### Reglas de etiqueta
 
-**Sort order cycles on shopfront by: **If your shopfront will have [more than one order cycle open at the same time](/opening-more-than-one-order-cycle.md) you can select which order they appear in the shopfront. You may sorted them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+> Esta sección no es visible para usuarios que no tienen una tienda virtual
 
+Puede controlar la configuración de las etiquetas de los clientes creando reglas de etiquetas. Para obtener más información al respecto, consulte [Cuentas de Clientes y Etiquetado](/customer-accounts-and-tagging.md).
+
+---
+
+#### Preferencias de la tienda
+
+> Esta sección no es visible para usuarios que no tienen una tienda virtual
+
+**Shopfront Message**: este mensaje es opcional. Se mostrará en la parte superior de su tienda en línea, encima de las listas de productos. Es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo se estructuran sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o la oportunidad de promocionar especiales. Un ejemplo a continuación:
+
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png "Mensaje de Tienda")
+
+**Mensaje cerrado de Shopfront**: este mensaje se mostrará cuando su tienda virtual esté cerrado \(sin ciclos de pedidos abiertos\). Es una oportunidad para contarles a los clientes cómo funcionan sus pedidos y cuándo se abrirá la tienda y aceptarán pedidos.
+
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png "tienda cerrada")
+
+**¿Tienda en línea visible?**: si selecciona "público", cualquier comprador podrá ver su tienda. Si selecciona 'visible solo para clientes registrados', se les pedirá a los compradores que accedan a su tienda que inicien sesión, y solo aquellos usuarios que estén en su lista de clientes tendrán acceso a su tienda.
+
+**Pedidos de invitados?**: si selecciona "permitir pedidos de invitados", los compradores no necesitarán iniciar sesión en el Red Ágora para comprar de su tienda. Si desea que los compradores inicien sesión antes de que puedan realizar su pedido, seleccione 'requerir inicio de sesión para hacer pedido'. Tenga en cuenta que la configuración de Pedidos Invitados no es aplicable si ha elegido 'visible solo para clientes registrados' en la configuración anterior.
+
+**Ordenamiento de categoría de la tienda**: los productos dentro de su tienda están ordenados alfabéticamente, dentro de su categoría de producto. Puede ordenar las categorías de productos como desee que aparezcan, de arriba a abajo en su tienda. Por ejemplo, es posible que desee que sus productos de carne y pescado aparezcan en la parte superior, con sus Pickles & Conservas menos importantes apareciendo al final de la lista.
+
+**Ordenar ciclos de pedido en la tienda en línea:** Si su shopfront tendrá [más de un ciclo de pedido abierto al mismo tiempo](/opening-more-than-one-order-cycle.md) puede seleccionar el orden en el que aparecen en la tienda. Puede ordenarlos por fecha de cierre \(primero los que cierran más pronto\) o fecha de apertura \(primero los que abrieron más pronto\).

@@ -1,110 +1,113 @@
-# Orders
+# Pedidos
 
-You can interact with orders via two pages within the OFN, the Lisitng Orders page, and the Bulk Order Managment page. The features of these two pages will be discussed below.
+Puede interactuar con pedidos a través de dos páginas dentro de la Red Ágora, la página Listado de Pedidos y la página de Gestión de Pedidos Masivos. Las características de estas dos páginas se analizarán a continuación.
 
-## Listing orders
+## Listado de Pedidos
 
-The listing order page shows a list view of all orders placed through your shop\(s\). From here you can access details of individual orders, edit orders and track the status of their payment and shipping. For details of how to create a new order see [here](/create-an-order.md).
+La página de orden de listado muestra una vista de lista de todos los pedidos realizados a través de su(s) tienda(s). Desde aquí puede acceder a detalles de pedidos individuales, editar pedidos y rastrear el estado de su pago y envío. Para detalles sobre cómo crear un nuevo pedido, vea [aquí](/create-an-order.md).
 
-The page has filters which allow you to select which orders you want to view. You can filter by date, status or the email and name of the customer.
+La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Puede filtrar por fecha, estado o el correo electrónico y el nombre del cliente.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listing orders page")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listado de Pedidos")
 
-**Distributor:**This is the enterprise whose shop the order was placed through
+**Distribuidor:** Esta es la empresa desde cuya tienda se realizó el pedido.
 
-**Completed at:**This is the date that the order was placed.
+**Completado el:** Esta es la fecha en que se realizó el pedido.
 
-**Number:**This is an arbitrarily assigned order number. An exclamation mark symbol will show if the customer included a note with their order at checkout. Hover you mouse above the exclamation mark to view the note.
+**Código:** este es un número de orden asignado arbitrariamente.
 
-**State:**
+**Estado:**
 
-* Complete- the customer has finished checkout
-* Cancelled- if admin edits the order and chooses to ‘cancel it’
-* Cart- The customer is in the process of shopping, but hasn’t checked out
+* Completo: el cliente finalizó la compra
+* Cancelado: si el administrador edita el pedido y elige 'cancelarlo'
+* Carro: El cliente está en proceso de compra, pero no se confirmado aún.
 
-**Payment State:**
+Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su pedido al momento del pago. Pase el mouse sobre el signo de exclamación para ver la nota.
 
-* Balance Due- if it’s cash, or bank transfer or eftpos, then the order will be ‘balance due’ by default, until admin indicates that payment has been received.
-* Paid- If paying by paypal or pin payment then this will automatically update to ‘paid’ after payment. If payment has been manually indicated as having occurred, state will also be ‘paid’.
-* Credit Owed- If someone has paid for their order, but then you edit their order, and remove an item, the cost of that item becomes ‘credit owed’.
+**Estado de Pago:**
 
-**Shipment state:**
+* Pago Pendiente: si se trata de efectivo, o transferencia bancaria o EFTPOS, el pedido será 'saldo adeudado' por defecto, hasta que el administrador indique que se ha recibido el pago.
+* Pagado: si se paga mediante algún medio de pago electrónico, esto se actualizará automáticamente a 'pagado' después del pago. Si el pago se ha indicado manualmente como si hubiera ocurrido, el estado también será 'pagado'.
+* Crédito adeudado: si alguien ha pagado su pedido, pero luego edita su pedido y elimina un artículo, el costo de ese artículo se convierte en "crédito adeudado".
 
-* Pending- When the payment state is ‘balance due’ the shipping state will be pending, meaning that until payment is received, shipping should not commence.
-* Ready- When payment has been received \(paid, or credit owed status\) the shipping state becomes ‘ready’.
-* Shipped- When the product has been edited and the ‘ship’ button clicked, the status becomes shipped.
+**Estado de entrega:**
 
-_Note: You cannot set an order to ‘shipped’ unless that order’s Payment State is ‘Paid’._
+* Pendiente: cuando el estado de pago es 'Pago pendiente', el estado de envío estará pendiente, lo que significa que hasta que se reciba el pago, el envío no debe comenzar.
+* Listo: cuando se ha recibido el pago (estado pagado o acreditado), el estado de envío se convierte en "listo".
+* Enviado: cuando el producto ha sido editado y se ha hecho clic en el botón 'enviar', el estado se vuelve "Enviado".
 
-**Customer email:**The customer’s contact email. A full list of customer emails can be extracted in the ‘mailing list’[report](/reports.md).
+> Nota: No puede configurar un pedido para 'enviado' a menos que el estado de pago del pedido sea 'Pagado'.
 
-**Total:**The total value of the customer’s order
+**Correo electrónico del cliente:** el correo electrónico de contacto del cliente. Se puede extraer una lista completa de los correos electrónicos de los clientes en el informe de la [lista de correo](/reports.md).
 
-##### Changing the payment and shipping state of an order
+**Total:** el valor total de la orden del cliente
 
-On the right hand side of the listing view you can update the payment/shipping state of an order.
+#### Cambiar el estado de pago y envío de un pedido
 
-Click on the tick icon to indicate that payment has been received \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)\).  
-Click on the road icon to indicate that the order has been shipped \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png "Shipped button")\).  
-Click on the edit icon \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png "Edit order button")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)\) to edit an order and view more detailed information about it \(discussed below\).
+En el lado derecho de la vista de listado puede actualizar el estado de pago/envío de un pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png "Tracking and editing orders")
+Haga clic en el ícono de marcar para indicar que se recibió el pago \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "Pagado")\).  
+Haga clic en el ícono de la carretera para indicar que la orden se envió \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png "Botón de Entrega")\).  
+Haga clic en el ícono editar \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png "Botón de editar pedido")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)\) para editar un pedido y ver información más detallada al respecto (ver más abajo).
 
-##### Editing an order
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png "Seguimiento y edición de pedidos")
 
-After clicking the edit button on the right hand side of an order \(see image above\) you’ll be taken to a detailed view of the order \(below\). Functionalities within this page will be discussed below.
+#### Editar un pedido
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png "View Order")
+Después de hacer clic en el botón de edición en el lado derecho de un pedido (ver imagen arriba) se le dirigirá a una vista detallada del pedido (abajo). Las funcionalidades dentro de esta página serán discutidas a continuación.
 
-**Adding and removing products from an order**
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png "Ver Pedido")
+
+**Agregar y eliminar productos de un pedido**
 
 You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
+Puede seleccionar un producto para agregar al pedido. Para eliminar un producto, haga clic en el icono de cubo de basura en el lado derecho de un producto. También puede cambiar la cantidad ordenada. Recuerde hacer clic en el botón **actualizar y recalcular tarifas** para guardar los cambios.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png "Order actions")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png "Acciones de Pedidos")
 
-**Resend confirmation email**
+**Reenviar el correo electrónico de confirmación**
 
-If you make changes to a customer’s order, you might wish to resend an updated order confirmation email to the customer.
+Si realiza cambios en el pedido de un cliente, es posible que desee volver a enviar un correo electrónico de confirmación de pedido actualizado al cliente.
 
-**Print Invoice**
+**Imprimir factura**
 
-Clicking this will give you the option to print an invoice as a PDF or by sending to a printer.
+Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF o enviarla a una impresora.
 
-**Send invoice**
+**Enviará la factura**
 
-To send an invoice to the customer, click the ‘send invoice’ button. This will email the customer with an attached PDF file. Invoice layout shown below.
+Para enviar una factura al cliente, haga clic en el botón 'enviar factura'. Esto enviará un correo electrónico al cliente con un archivo PDF adjunto. El diseño de la factura se muestra a continuación.
 
-**Cancel an order**
+**Cancelar una orden**
 
-Click the cancel button to cancel an order.
+Haga clic en el botón cancelar para cancelar un pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Invoice example")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Ejemplo de factura")
 
-**Mark an order as paid**
+**Marcar una orden como pagada**
 
-To mark an order as paid, click the tick icon on the listing order page. Or click on ‘Payments’ in the menu on the right and then click the tick icon \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png)\).
+Para marcar un pedido como pagado, haga clic en el ícono de marcar en la página de lista de pedidos. O haga clic en 'Pagos' en el menú a la derecha y luego haga clic en el ícono de marcar \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")\).
 
-**Mark an order as shipped**
+**Marque un pedido como enviado**
 
-After payment has been received the Ship button will be visible at the top of the page \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png "Ship")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png)\). Click this to record that shipment has occurred.
+Una vez recibido el pago, el botón Enviar estará visible en la parte superior de la página \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png "Entrega")\). Haga clic para registrar que el envío ha ocurrido.
 
-**View customer details**
+**Ver detalles del cliente**
 
-Clicking on customer details \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png "customer details")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)\) in the right hand menu will take you to a complete view of the customer’s details.
+Al hacer clic en los detalles del cliente \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png "Detalles del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)\) en el menú de la derecha, accederá a una vista completa de los detalles del cliente.
 
-**Add or subtract from the order balance**
+**Sumar o restar del saldo de la orden**
 
-Clicking on adjustments \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png "Adjustments")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)\). From here you can remove fees that are already on an order, or add/subtract from the order total by clicking on + New Adjustment. You also have the capacity to select the tax setting of the adjustment. Remember, for a fee to include tax, the enterprise must be set to charge tax in its profile settings.
+Al hacer clic en los ajustes \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png "Ajustes")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)\). Desde aquí puede eliminar las tarifas que ya están en un pedido, o sumar/restar del total del pedido haciendo clic en + Nuevo ajuste. También tiene la capacidad de seleccionar la configuración de impuestos del ajuste. Recuerde, para que una tarifa incluya impuestos, la empresa debe estar configurada para cobrar impuestos en su configuración de perfil.
 
-##### Customer’s View
+#### Vista del cliente
 
-Your customers can view a list of their orders when they login to the OFN, and click on their account \(see below\).
+Sus clientes pueden ver una lista de sus pedidos cuando inician sesión en la Red Ágora, y hacen clic en su cuenta (ver a continuación).
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png "Customer account login")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
+[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png "Login de la cuenta del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
 
-Here your customers will be able to see the past orders and payments as well as a running balance at your shop. This should be kept up to date so customers can view an accurate balance.
+Aquí sus clientes podrán ver los pedidos y pagos pasados, así como un saldo corriente en su tienda. Esto debe mantenerse actualizado para que los clientes puedan ver un balance preciso.
 
-[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png "Customer Account")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
+[![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png "Cuenta del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
 
 ## Bulk order management
 

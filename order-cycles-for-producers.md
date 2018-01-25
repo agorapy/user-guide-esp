@@ -1,55 +1,59 @@
 # Order cycles (for Producers)
 
-_*Not a producer? Go to [Order Cycles for hubs](/order-cycles.md).
-_
+> ¿No eres un productor/a, si no un Vendedor/a? Go to [Ciclos de pedidos para Vendedores](/order-cycles.md).
 
+Muchos productores, que están vendiendo pequeñas cantidades de productos, pueden encontrar útil tener un ciclo de pedidos perpetuamente abierto y cumplir con los pedidos individualmente a medida que llegan. A otros productores, que venden grandes cantidades de productos, a múltiples clientes, les resulta útil establecer ciclos periódicos de pedidos, que se cumplen colectivamente al final de un período. Por ejemplo, un agricultor puede tener un ciclo de pedido abierto (aceptando pedidos) durante dos semanas. Al final de este ciclo de pedido, todos los pedidos se empaquetan, ordenan y distribuyen al mismo tiempo. Una vez que se ha cumplido este lote de pedidos, se abre un nuevo ciclo de pedido. La estructuración de ciclos de órdenes de esta manera puede hacer que las tareas de empaque y entrega sean más eficientes.
 
-Many producers, who are selling small quantities of products, may find it useful to have an order cycle that is perpetually open, and to fulfill orders individually, as they are placed. Other producers, who sell large quantities of products, to multiple customers, find it useful to establish periodic order cycles, which are collectively fulfilled at the end of a period. For instance, a farmer may have an order cycle which is open (accepting orders) for two weeks. At the end of this order cycle, all of the orders are packed, sorted and distributed at the same time. Once this batch of orders has been fulfilled, a new order cycle is opened. Structuring order cycles in this way can make the tasks of packing and delivering orders more efficient.
+## 1. Acceso a los Ciclos de Pedido
+Acceda a Ciclos de pedido desde el menú horizontal en la parte superior de la página.
 
-## 1. Access Order Cycles
-Access Order Cycles from the horizontal menu at the top of the page.
+## 2. Crear un nuevo ciclo de pedido
+> Tenga en cuenta que no puede crear un ciclo de pedido hasta que haya configurado los métodos de [entrega](/shipping-methods.md) y [pago](/payment-methods.md).
 
-## 2. Create a New Order Cycle
-* Note you cannot create an order cycle until you have set up [shipping ](/shipping-methods.md)and [payment methods](/payment-methods.md).
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png "Acceder a Ciclos de Pedidos")
 
-IMAGE
-**
-Name: **Choose a name for this order cycle. This will only be visible to you, so it can be named anything which is meaningful for you. We recommend that you follow a consistent naming protocol e.g FoodHub_Week27_2014.
+**Nombre:** Escriba un nombre para el ciclo de pedido que sea significativo para usted. Le recomendamos que siga un protocolo de nombres consistente, por ejemplo, MiTienda_Semana27_2018. También le recomendamos que incluya el nombre de su tienda en el nombre del ciclo de pedido, de modo que la asistencia de Red Ágora pueda identificar sus ciclos de pedido si necesita ayuda.
 
-**Orders Open:** This is the date at which your OFN store will be open, and start to accept orders.
+**Apertuda de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
 
-**Orders Close:** This is the date when your OFN store will close, and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Cierre de los pedidos:** Esta es la fecha en que su tienda OFN se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Ready for (ie Date/Time):** This box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. You can also put information about your delivery methods in your ‘shopfront message’. The example below shows how ‘Friday 9th’ is displayed in a store.
+El cuadro **Listo para (fecha/hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Friday 9th' en una tienda.
 
-IMAGE
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "Campo 'Listo para'")
 
-The note is also shown at check out, when the customer selects their shipping method (see below) and is included in the order confirmation email.
+La nota también se muestra al momento de confirmar el pedido, cuando el cliente selecciona su método de envío (ver a continuación) y se incluye en el correo electrónico de confirmación del pedido.
 
-IMAGE
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "'Listo para' en email")
 
-**Customer Instructions (Pick-Up Instructions):** This message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method (see below). This note is designed to only be visible to customers, so you can include more sensitive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico de confirmación del pedido del cliente, debajo del mensaje que corresponde al método de envío elegido (ver más abajo). Esta nota está diseñada para que solo sea visible para los clientes, por lo que puede incluir información más sensible, como direcciones o números de teléfono, etc. Ver más abajo para un ejemplo del correo electrónico de confirmación de pedido.
 
-IMAGE
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png "Mensaje de los detalles de recogida")
 
-**Products:** You must select the products which will be visible in your online store during this order cycle. Remember, if you add new products after an order cycle is underway, you will need to select them here.
+**Productos:** debe seleccionar los productos que serán visibles en su tienda en línea durante este ciclo de pedido. Recuerde, si agrega productos nuevos después de que un ciclo de pedido está en curso, deberá seleccionarlos aquí.
 
 **Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
 
-## 3. Open the shopfront
+**Tarifas:** Existe la opción de agregar una tarifa de coordinador. Aquí puede aplicar una tarifa de empresa que se haya creado para su empresa. Esta función es más relevante para productores y vendedores que trabajan en asociación. Permite que se distribuya una tarifa de administración a la parte que es responsable de coordinar los pedidos. Muy a menudo, esto no es relevante para productores individuales que venden sus propios productos.
 
-Click Create to save this order cycle.
+## 3. Abra su tienda en línea
 
-*Note When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past (this can be edited when you are ready to open).
+Haga clic en Crear para guardar este ciclo de orden.
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+![](http://openfoodfoundation.org/sites/default/files/create.png).
 
-IMAGE
+> Cuando crea un ciclo de pedido, y el rango de fechas de apertura y cierre incluyen la fecha actual, se abrirá una tienda en línea en la página de inicio de la tienda. Si no está listo para abrir su tienda, coloque temporalmente las fechas de apertura y cierre en el pasado (esto se puede editar cuando esté listo para abrir).
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+Para ciclos de pedidos periódicos y repetitivos, puede copiar un ciclo de pedido existente y cambiar las fechas para agilizar el proceso. Vea abajo.
 
-**Advanced Settings
-**These settings are relevant for multi distributor order cycles. See [Inventory ](/inventory.md)for details of these settings.
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "Duplicar Ciclo de Pedido")
 
-### Related advanced features:
-- [Creating ‘display only’ order cycles](/creating-display-only-order-cycles.md)
+Los ciclos de pedido se mostrarán en verde cuando estén activos, amarillos cuando se programen para una fecha futura y gris cuando se hayan cerrado. Cuando un ciclo de pedido se cierra hace más de un mes, ya no aparecerá en esta lista. Para ver todos sus ciclos de pedidos pasados, haga clic en 'mostrar más' en la parte superior de la lista.
+
+#### Configuraciones avanzadas
+
+Estas configuraciones son relevantes para ciclos de pedido de múltiples distribuidores. Ver [Inventario](/inventory.md) para detalles de estas configuraciones.
+
+#### Funciones avanzadas relacionadas:
+
+* [Creación de ciclos de pedido de "solo visualización"](/creating-display-only-order-cycles.md)

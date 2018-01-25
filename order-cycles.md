@@ -1,120 +1,127 @@
 # Order Cycles for Hubs
 
-_*Not a Hub, but a producer? See [Order Cycles for producers](/order-cycles-for-producers.md)._
+ > *No eres un vendedor/a si no un productor/a? Ve a [Ciclo de Pedidos para productores](/order-cycles-for-producers.md).
 
-You open you shop by creating an Order Cycle. When you make an order cycle you select when you shop is open (from and until), which products will go into the shop, and any fees that you'll apply.
+Usted abre su tienda al público creando un Ciclo de Pedido. Cuando realiza un Ciclo de Pedido, selecciona cuándo está abierto (desde y hasta), qué productos estarán disponibles para la venta y las tarifas que aplicarán.
 
-**Why Order Cycles?
-**Some hubs may wish to have an online store which is perpetually open, and to fulfill orders on a one by one basis, as they are received. However, many hubs operate on a periodic ordering system, which allows them to process orders in bulk, making their packing and distribution activities more efficient. Let’s use an example to illustrate a common periodic ordering cycle structure.
+**Por qué Ciclos de Pedidos?**
 
-For instance, each Monday morning a hub might assess the availability of their stock for the week. Based on this information they will create an order cycle by Monday afternoon and open their store. Customers can then place orders in their store, until the order cycle closes on Wednesday at midnight. On Thursday all of the orders can be packed by the hub and prepared for delivery on Friday. The following week the cycle will begin again, and with the creation of a new order cycle. By structuring order cycles in this way, and dealing with orders in bulk, hubs can make their ordering, sorting, packing and transport activities much more efficient than if they process orders individually as they are placed.
+Algunos centros pueden desear tener una tienda en línea que esté abierta permanentemente, y cumplir órdenes uno a uno a medida que se reciben. Sin embargo, muchas tiendas operan en un sistema de pedidos periódico, lo que les permite procesar pedidos en grupos, haciendo que sus actividades de empaque y distribución sean más eficientes. Usemos un ejemplo para ilustrar una estructura de ciclo de ordenamiento periódico común.
 
-## 1. Access Order Cycles
+Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de sus productos para la semana. En base a esta información, crearán un ciclo de pedido para el lunes por la tarde y abrirán su tienda. Los clientes pueden hacer pedidos en su tienda hasta que el ciclo de pedidos se cierre el miércoles a la medianoche. El jueves, todos los pedidos pueden ser empacados por la tienda y preparados para la entrega el viernes. La semana siguiente el ciclo comenzará de nuevo y con la creación de un nuevo Ciclo de Pedidos. Al estructurar los ciclos de pedidos de esta manera, y al tratar con pedidos en grupos, las tiendas pueden hacer que sus actividades de ordenamiento, clasificación, embalaje y transporte sean mucho más eficientes que si procesaran las órdenes individualmente a medida que se colocan.
 
-You can create an order cycle, and view previous order cycles by clicking on **Manage Order Cycles **on your dashboard.
+## 1. Aceder a Ciclos de Pedidos
+
+Puede crear un ciclo de pedido y ver ciclos de pedido anteriores haciendo clic en **Administrar ciclos de pedido** en su panel principal.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-Cycle.png)
 
-Or from the horizontal menu at the top of the page.
+O desde el menú horizontal en la parte superior de la página.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png "Access order cycle")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-order-cycle.png "Acceder a Ciclos de Pedidos")
 
-## 2. Create a New Order Cycle
+## 2. Crear un nuevo Ciclo de Pedido
 
-Below is the first stage in creating an order cycle.
+A continuación se muestra la primera etapa para crear un ciclo de pedido.
 
-\*Remember, you cannot create an order cycle until you have set up [shipment](/shipping-methods.md) and [payment](/payment-methods-2.md) methods.
+* Recuerde, no puede crear un ciclo de pedido hasta que haya configurado los métodos de [entrega](/shipping-methods.md) y [pago](/payment-methods-2.md).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png "Set order cycle coordinator")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png "Establecer el Coordinador del Ciclo de Pedido")
 
-Select the coordinator of the order cycle. The enterprise which coordinates an order cycle has full powers and permissions to edit and manage an order cycle. Other enterprises involved in the order cycle \(such as suppliers or distributors\) have restricted abilities to edit an order cycle \(for more information click here\). After the coordinator is selected, the subsequent order cycle will be restricted according to who has granted this coordinator permission to add them to an order cycle \(P-OC\).For more information about Enterprise to Enterprise permissions go here.
+Seleccione el coordinador del ciclo de pedido. La empresa que coordina un ciclo de pedido tiene plenos poderes y permisos para editar y administrar un ciclo de pedido. Otras empresas involucradas (como proveedores o distribuidores) tienen capacidades restringidas para editar un ciclo de pedido (para obtener más información, haga clic [aquí](/permissions-in-multi-enterprise-order-cycles.md)). Después de seleccionar al coordinador, el ciclo de pedido se restringirá según quién haya otorgado permiso a este coordinador para agregarlos a un ciclo de orden (P-OC). Para obtener más información sobre los permisos de Empresa a Empresa, vaya [aquí](/enterprise-to-enterprise-permissions-e2es.md).
 
-**Name:**Give your order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
+**Nombre:** Escriba un nombre para el ciclo de pedido que sea significativo para usted. Le recomendamos que siga un protocolo de nombres consistente, por ejemplo, MiTienda_Semana27_2018. También le recomendamos que incluya el nombre de su tienda en el nombre del ciclo de pedido, de modo que la asistencia de Red Ágora pueda identificar sus ciclos de pedido si necesita ayuda.
 
-**Orders Open:** This is the date at when your OFN store will be open, visible and start to accept orders from customers.
+**Apertuda de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
 
-**Order Close: **This is the date when your OFN store will close and stop accepting orders. If you intend to have an order cycle which is continuously open, select a close date which is well into the future.
+**Cierre de los pedidos:** Esta es la fecha en que su tienda OFN se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Add Coordinator Fee:**As a hub, the coordinator is most likely you. Here you can apply your Enterprise Fee which acts as the markup. The fee will be calculated according to the calculator selected in [Enterprise Fees](/enterprise-fees.md). You can only apply an enterprise fee which has previously been created.
+**Añadir cargos de coordinador:** Como tienda, lo más probable es que usted sea el coordinador. Aquí puede aplicar su Tarifa de Empresa para cobrar tarifas que guarden relación con la coordinación. La tarifa se calculará de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md). Solo puede aplicar una tarifa empresarial que se haya creado previamente.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "New order cycle fields")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "Campos para un Nuevo Ciclo de Pedido")
 
-### Incoming: select producer and produce
+### Entrante: seleccione productor y productos
 
-The incoming section is where you can select the producers, and their produce, which will be available in this order cycle. In the dropdown menu you will see all producers who have granted you permission to add their produce to your order cycle \(See _Relationships with Producers_ section for details\). After selecting a supplier and clicking **Add Supplier** all of the products associated with that supplier will be visible. Check those products you wish to add to the store, or click **select all. **Note: Products which have an ‘on hand’ value of zero \(no stock available\) will still be visible, so be careful to check that you have adequate on hand inventory for the products selected.
+La sección **Entrante** es donde puede seleccionar los productores y sus productos, que estarán disponibles en este ciclo de pedido. En el menú desplegable, verá a todos los productores que le han otorgado permiso para agregar sus productos a su ciclo de pedido (consulte la sección _Relaciones con productores_ para obtener más información). Después de seleccionar un proveedor y hacer clic en **Agregar proveedor**, todos los productos asociados con ese proveedor estarán visibles. Verifique los productos que desea agregar a la tienda o haga clic en **Seleccionar Todo**. 
+> Nota: Los productos que tienen un valor "a mano" de cero (sin stock disponible) seguirán siendo visibles, por lo que debe asegurarse de tener un inventario adecuado de los productos seleccionados.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png "Incoming")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png "Entrante")
 
-The **Receival Details **fields are optional. If you wish to use the **Notify Produers**button, to send orders to your supplying producers, you should write your stock receival instructions here. \(more info in the Notify Producers section at the bottom of this page\).
+Los campos **Detalles de recepción** son opcionales. Si desea utilizar el botón **Notificar a Productores** , para enviar pedidos a sus productores proveedores, debe escribir sus instrucciones de recibo de stock aquí (más información en la sección **Notificar Productores** en la parte inferior de esta página).
 
-The **Add Fee **button is where you can apply an enterprise fee, belonging to that supplier. Select the name of the enterprise in the first dropdown box, then click the name of the enterprise fee in the second dropdown box. In the example below, an enterprise fee named OrderAdmin is applied to the Producer of Fruit.
+El botón **Agregar tarifa** es donde puede aplicar una tarifa de empresa, perteneciente a ese proveedor. Seleccione el nombre de la empresa en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de empresa en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa corporativa llamada OrderAdmin al Producer of Fruit.
 
-This fee will be applied to all of the Producer of Fruit’s products which are purchased. The fee is calculated according to the fee calculator which was selected when the [Enterprise Fee](/enterprise-fees.md) was created.
+Esta tarifa se aplicará a todos los productos del Productor de fruta que se compran. La tarifa se calcula de acuerdo con la calculadora de tarifas que se seleccionó cuando se creó la [Tarifa de Empresa](/enterprise-fees.md).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png "Apply enterprise fee to incoming supplier")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png "Aplicar tarifas de empresa a proveedores entrantes")
 
-### 4. Outgoing: select distributor
+### 4. Saliente: seleccionar distribuidor
 
-The distributor\(s\) selected in the outgoing section, will have a shopfront created from this order cycle. In simple hub models, there is only one distributor, the hub. So select the hub in the distributor column, and then select all products that should be visible in the online store during this order cycle. More complex hubs might have buying groups, in which case each is selected as a distributor, and will consequently have their own shopfront created. You then have the capacity to select specific products to be available in each buying group’s shop.
+Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda virtual creada a partir de este ciclo de pedido. Los productos que son seleccionados serán visibles para el público y podrán hacerse pedidos desde su tienda. En modelos de tiendas simples, solo hay un distribuidor, la tienda en sí. Por lo tanto, seleccione la tienda en la columna del distribuidor y luego seleccione todos los productos que deberían estar visibles en la tienda virtual durante este ciclo de pedido. Los modelos de tiendas más complejos pueden tener varios distribuidores, en cuyo caso cada uno se selecciona como distribuidor y, en consecuencia, en cada uno se creará un tienda virtual con los productos seleccionados que estarán visibles para recibir pedidos.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Outgoing Section")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Sección Saliente")
 
-The **tags **column is where you can tag your order cycle \(see [Customer Accounts and Tagging](/customer-accounts-and-tagging.md)\).The**‘ready for \(ie Date/Time\)’**box tells the customer when their order will be ready for either collection or delivery. If your order cycle is a perpetual one, which fulfills orders on an individual basis rather then in bulk, you should enter something like ‘Two days after order is received’. The example below shows how ‘Friday 9th’ is displayed in a store.
+La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Friday 9th' en una tienda.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "ready for field")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "Campo 'Listo para'")
 
-The note is also shown at check out, when the customer selects their shipping method \(see below\) and is included in the order confirmation email.
+La nota también se muestra al momento de confirmar el pedido, cuando el cliente selecciona su método de envío (ver a continuación) y se incluye en el correo electrónico de confirmación del pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "Ready for info in email")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "'Listo para' en email")
 
-The **Pick-Up Instructions **message will be included in the customer’s order confirmation email, below the message that corresponds to their chosen shipping method \(see below\). This note is designed to only be visible to customers, so you can include more sensetive information like addresses, or phone numbers etc. See below for an example of the order confirmation email.
+El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico de confirmación del pedido del cliente, debajo del mensaje que corresponde al método de envío elegido (ver más abajo). Esta nota está diseñada para que solo sea visible para los clientes, por lo que puede incluir información más sensible, como direcciones o números de teléfono, etc. Ver más abajo para un ejemplo del correo electrónico de confirmación de pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png "collection details message")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png "Mensaje de los detalles de recogida")
 
-**Add Fee: **Again, a previously created enterprise fee can be assigned to this distributor.
+**Agregar tarifa:** Nuevamente, se puede asignar una tarifa de empresa previamente creada a este distribuidor.
 
-### 5. Open the shopfront
+### 5. Abra su tienda en línea
 
-Click Create to save this order cycle.![](http://openfoodfoundation.org/sites/default/files/create.png).
+Haga clic en Crear para guardar este ciclo de orden.
 
-**\*\* When you create an order cycle, and the opening and closing dates fall either side of the present, a shopfront will become live on the homepage. If you are not ready to have your store open, temporarily put the opening and closing dates in the past \(this can be edited when you are ready to open\).**
+![](http://openfoodfoundation.org/sites/default/files/create.png).
 
-For periodic, repetitive order cycles, you can copy an existing order cycle and change the dates, to make the process quicker. See below.
+> Cuando crea un ciclo de pedido, y el rango de fechas de apertura y cierre incluyen la fecha actual, se abrirá una tienda en línea en la página de inicio de la tienda. Si no está listo para abrir su tienda, coloque temporalmente las fechas de apertura y cierre en el pasado (esto se puede editar cuando esté listo para abrir).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "duplicate an order cycle")
+Para ciclos de pedidos periódicos y repetitivos, puede copiar un ciclo de pedido existente y cambiar las fechas para agilizar el proceso. Vea abajo.
 
-Order cycles will display as green when they are active, yellow when schedules for a future date, and grey when they have closed. When an order cycle close over one month ago, it will no longer display on this list. To view all of your past order cycles click ‘show more’ at the top of the list.
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "Duplicar Ciclo de Pedido")
 
-##### ‘Notify Producers’ Button
+Los ciclos de pedido se mostrarán en verde cuando estén activos, amarillos cuando se programen para una fecha futura y gris cuando se hayan cerrado. Cuando un ciclo de pedido se cierra hace más de un mes, ya no aparecerá en esta lista. Para ver todos sus ciclos de pedidos pasados, haga clic en 'mostrar más' en la parte superior de la lista.
 
-Some hubs use this tool as a way to notify their suppliers of which items have been ordered, in what quantities and also to give them receival instructions. Clicking this button will send the following email to the contact email of the producer’s profile. It is sent to all producers included in this order cycle and will sum all of the orders placed in that order cycle.
+#### Botón 'Notificar Proveedores'
 
-Dear**&lt;Producer’s Name&gt;**,
+Algunos centros utilizan esta herramienta como una forma de notificar a sus proveedores qué artículos se han pedido, en qué cantidades y también para darles instrucciones de recepción. Al hacer clic en este botón, se enviará el siguiente correo electrónico al correo electrónico de contacto del perfil del productor. Se envía a todos los productores incluidos en este ciclo de pedido y sumará todos los pedidos realizados en ese ciclo de pedido.
 
-We now have all the consumer orders for next food drop.
+```
+Estimado <Nombre del Proveedor>,
 
-Stock pickup/delivery instructions: **&lt;Receival instructions&gt;**.
+Ahora tenemos todos los pedidos de los consumidores para este periodo.
 
-# Orders summary
+Instrucciones de entrega/recogida: **Instrucciones**.
 
-Here is a summary of the orders for your products:
+Resumen de pedidos
+==================
 
-**&lt;Total products orders in this order cycle \(example below\)&gt;**  
-– Producer of Meat – Leg of Lamb \(Frozen\) \(1.5kg\) \(QTY: 1\) @ $22.50 = $22.50  
-– Producer of Meat – Sausages \(100g\) \(QTY: 3\) @ $3.00 = $9.00
+Aquí hay un resumen de los pedidos de sus productos:
 
-Thanks and best wishes,
+<Total de pedidos de productos en este ciclo de pedidos (ejemplo a continuación)> 
+- Productor de carne - Pierna de cordero (congelada) (1,5 kg) (CANT .: 1) @ Gs 22.500 = $ 22.500 
+- Productor de carne - Embutidos (100 g) (CANT .: 3 ) @ $ 3.000 = $ 9.000
 
-**&lt;Hub Name, address, phone number, email&gt;**
+Gracias y mis mejores deseos
 
-##### Advanced Settings
+<Nombre del Hub, dirección, número de teléfono, correo electrónico>
+```
 
-These settings are relevant for multi distributor order cycles. See [Inventory](/inventory.md) for details of these settings.
+##### Configuraciones avanzadas
 
-#### Related advanced features:
+Estas configuraciones son relevantes para ciclos de pedido de múltiples distribuidores. Ver [Inventario](/inventory.md) para detalles de estas configuraciones.
 
-* [Creating ‘display only’ order cycles](/creating-display-only-order-cycles.md)
-* [Permissions in multi-enterprise order cycles](/permissions-in-multi-enterprise-order-cycles.md)
+#### Funciones avanzadas relacionadas:
+
+* [Creación de ciclos de pedido de "solo visualización"](/creating-display-only-order-cycles.md)
+* [Permisos en ciclos de orden multi-empresa](/permissions-in-multi-enterprise-order-cycles.md)
 
 
 

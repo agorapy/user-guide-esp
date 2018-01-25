@@ -1,86 +1,90 @@
-# Products
+# Productos
 
-## Adding products
+## Agregar productos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen></iframe>
 
-1. Click on **Products **on the horizontal blue menu, and then click **+ New Product**.
+1. Haga clic en **Productos** en el menú azul horizontal, y luego haga clic en **+ Nuevo Producto**.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png "Add new product")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png "Añadir nuevo producto")
 
-This will take you to the New Product page.
+Esto lo llevará a la página para crear un Producto nuevo.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png "New product page") **Supplier **
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png "Página de Nuevo Producto")
 
-2. Select the enterprise who produces and supplies the product. 
+2. Seleccione la empresa que produce y suministra el producto.
 
-> If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile.
+> Si eres un productor, éste serás tú. Si es un vendedor, recuerde que solo podrá agregar productos de productores que usted haya creado sus perfiles, o si el productor le ha otorgado permiso para administrar los productos de su perfil.
 
-**Product name: **
+**Nombre del producto:**
 
-3. Add a title. This is how the product will be displayed in the store.
+3. Añade el nombre del producto. Tal como se mostrará en la tienda.
 
-**Units: **
+**Unidad:**
 
-4. Choose what unit the product is sold in? \(g, kg, L… or itme \(bunch, bag, packet\)\)
+4. ¿En qué unidad de medida se vende el producto? (g, kg, L, o item (unidad, docena, paquete))
 
-**Value**
+**Valor**
 
-5. Choose in what value the product is sold in \( ie 100g, 2L, 1 bunch\)
+5. Elija en qué valor se vende el producto (es decir, 100g, 2L, 1 paquete)
 
-**Display As**
+**Mostrar como**
 
-This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
+Este campo muestra automáticamente cómo se mostrarán los campos de Unidad y Valor, una vez que los haya completado (por ejemplo, Unidad = kg, Valor = 2, Mostrar como = 2kg).
 
-Note: If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. \(i.e. jar, bottle, or bunch\)
+Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambiará a **Nombre de Item** . Complete esto con el tipo de artículo que es (por ejemplo, docena, unidad o paquete).
 
-**Product category**
+**Categoría del producto**
 
-6. Select the most appropriate category for this product.
+6. Seleccione la categoría más apropiada para este producto (Fruta, Verdura, Bebida, etc).
 
-**Price** 
+**Precio** 
 
-7. Enter the price for the value noted above. 
+7. Ingrese el precio del valor indicado arriba.
 
 > Remember, this is the cost price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
 
-**On hand**
+> Recuerde, este es el precio de costo cobrado por el productor. Los recargos y las tarifas se agregan Tarifas de Empresa, Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
 
-8. State how much/many of this product you have available and ready for sale. 
+**En Stock**
 
-> Use this field if you want to track your stock /inventory levels. As customers place orders, the stock level will reduce, and when the on hand amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
+8. Indique cuánto de este producto tiene disponible y listo para la venta.
 
-**On demand**
+> Use este campo si desea rastrear sus niveles de inventario. A medida que los clientes hacen pedidos, el nivel de stock se reducirá, y cuando la cantidad disponible llegue a cero, el producto ya no será visible en su tienda. Si no desea rastrear el inventario de esta manera, haga clic en 'Bajo demanda'.
 
-If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+**Bajo demanda**
 
-**Product description** 
+Si selecciona esta casilla, indicará que este producto está siempre disponible. Esto evita que el software rastree los niveles de inventario para los productos y, en cambio, siempre mostrará que el producto está en stock.
 
-9. Tell your customers a little bit about this product.
+**Descripción del producto** 
 
-**Photo**
+9. Cuéntales a tus clientes un poco acerca de este producto.
 
-10. Upload a photo of this product. 
+**Foto**
 
-> We strongly recommend to take clear, accurate images of your products. It will increase selling chances.
+10. Cargue una foto de este producto. 
+
+> Recomendamos encarecidamente tomar imágenes claras y precisas de sus productos. Evitar en lo posible utilizar imágenes que comúnmente se encuentran en Intenet. Esto aumentará las posibilidades de venta.
 
 **Tax category**
 
-11. If you would like the price of this product to include GST, select **GST **from the drop-down menu. The producer enterprise must be set to charge GST in the profile settings to do this. If you leave this field blank, or select **none**, or not set the enterprise as being GST registered, the price will not include GST.
+11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. La empresa productora debe estar configurada para cargar IVA en la configuración de perfil para hacer esto. Si deja este campo en blanco, o selecciona **ninguno** , o no configura la empresa como registrada legalmente, el precio no incluirá IVA.
 
-### Listing similar products
+### Listado de productos
 
-Note: If you are listing two products which are very similar, but only vary on price, or size, or flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. For example, if you sell lemons for 60c each, or 5 for $2.50, you can create two variants for your ‘lemons’ product, one for each price/quantity combination. Or you might sell two flavours of lamb sausages, rosemary, or chili. Each flavour should be a ‘variant’ of the general product. Creating product variants is discussed in greater depth [here](/product-variants.md).
+Nota: Si tienes dos o más productos que son muy similares, pero que solo varían en cuanto a precio, tamaño o sabor, lo mejor es crear una "variante" para ese producto, en lugar de crear productos múltiples y separados. Por ejemplo, si vende limones por Gs 500 cada uno, o 5 por Gs 2.000, puede crear dos variantes para su producto 'limones', uno para cada combinación de precio / cantidad. O puede vender dos sabores de mermelada: de frutilla o durazno. Cada sabor debe ser una 'variante' del producto general. La creación de variantes de productos se analiza con mayor profundidad [aquí](/product-variants.md).
 
-Once you have completed a product, click **create**, or if you’d like to add more, click **create and add another**.
+Una vez que haya completado un producto, haga clic en **Crear** , o si desea agregar más, haga clic en **Crear y agregar otro**.
 
 When you click **create**,  you will be taken to your **Bulk Edit Product **page, where you will see a summary of all of your products.
 
-## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png "Bulk Edit Products")Examples
+Cuando haga clic en crear , irá a su página **Editar varios productos**, donde verá un resumen de todos sus productos.
 
-Some examples of how to list different types of products, and how these listing will present in your online store are provided below.
+## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png "Editar varios productos")
 
-> Note: For products usually sold by the kg, it’s best to list the product for sale in increments, of 100g or higher, depending on the product. This makes it easier to list and prepare the order.
+Algunos ejemplos de cómo listar diferentes tipos de productos, y cómo estos listados se presentarán en su tienda en línea se proporcionan a continuación.
+
+> Nota: Para los productos que generalmente se venden por kg, es mejor incluir el producto en venta en incrementos de 100g o más, dependiendo del producto. Esto hace que sea más fácil listar y preparar el pedido.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png "Green Beans example")
 
@@ -88,12 +92,12 @@ Some examples of how to list different types of products, and how these listing 
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs1.png "Carton of Eggs example")
 
-#### Related advanced features:
+#### Funciones avanzadas relacionadas:
 
-* [Product variants](/product-variants.md)
-* [Pricing irregular, indivisible meat items](/pricing-irregular-indivisible-meat-items.md)
-* [Product properties \(i.e. certified organic, free range, etc\)](/product-properties.md)
-* [Group buy](/group-buy.md) for items stocked in bulk sizes.
+* [Variantes de producto](/product-variants.md)
+* [Precios de artículos de carne irregulares e indivisibles](/pricing-irregular-indivisible-meat-items.md)
+* [Propiedades del producto (es decir, orgánico certificado, agricultura familiar, etc.)](/product-properties.md)
+* [Comprar en grupo](/group-buy.md) para artículos almacenados en cantidad.
 
 
 
