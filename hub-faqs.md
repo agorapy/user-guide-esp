@@ -1,115 +1,109 @@
-# Hub FAQs
+# Preguntas frecuentes para los Vendedores
 
-## General FAQs
+## Preguntas frecuentes generales
 
-#### Does the OFN operate hubs?
+#### ¿Opera la Red Ágora las tiendas?
 
-No the OFN doesn’t actually operate hubs, we just provide the software for enterprises such as food hubs, and producers to use. We do have lots of experience in running food hubs though, so understand the unique challenges and needs facing food distribution enterprises.
+No, la Red Ágora en realidad no opera las tiendas, solo proporcionamos el software para que empresas vendedoras y productoras lo usen. Sin embargo, tenemos mucha experiencia en la administración de centros de distribución de alimentos, así que comprendemos los desafíos únicos y las necesidades que enfrentan las empresas de distribución de alimentos. Podemos ayudarle con asistencia y capacitaciones.
 
-#### What is involved in being a food hub?
+#### ¿Qué implica ser un Vendedor?
 
-Food hubs come in many different shapes and sizes, and include food coops, buying groups, farm gate stalls, CSA schemes and more. You can chose how you want to run your hub, but essentially a food hub sources and sells to its community. Each hub is configured differently, and each chooses who they will source from, who their customers will be, how delivery or collection will be organised, payment methods, mark ups, fees etc.
+Los vendedores vienen en diferentes formas y tamaños, e incluyen vendedores, una asociaciones de productores, cooperativas, distribuidores, grupos de voluntarios o cualquier organización que brinde canales justos de venta a los productores. Puede elegir cómo quiere ejecutar su tienda, pero esencialmente un Vendedor se abastece y vende a su comunidad. Cada Vendedor se configura de forma diferente, y cada uno elige de quién se originarán, quiénes serán sus clientes, cómo se organizará la entrega o la recolección, los métodos de pago, los recargos, las tarifas, etc.
 
-#### What's the difference between the OFN and other online store options?
+#### ¿Cuál es la diferencia entre Red Ágora y otras opciones de la tienda en línea?
 
-We think the OFN is pretty great, and unique to other options out there!
+Creemos que la Red Ágora es especial en los siguientes aspectos:
 
-* **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Food hubs stock the produce of multiple producers and customers can always see where their food has come from.
-* **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating enterprises exposure to a wider customer base.
-* **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
-* **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
-* **Room to grow-**
-   Hubs can start with a profile, and easily build up to start selling to others, opening their own online store and starting to connect with growing numbers of suppliers. Once you have a profile, you can easily open your own store, and link with other groups, like customer buying groups, something that most software options cannot offer.
-* **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
+* **Trabajamos en Red**
+Red Ágora difiere de las tiendas privadas en línea en el hecho que puede conectarse en red con otras empresas. Los Vendedores almacenan los productos de múltiples productores y los clientes siempre pueden ver de dónde provienen sus productos.
+* **Exposición**
+Red Ágora tiene una funcionalidad de directorio, por lo que los clientes que accedan a nuestro sitio web pueden llegar a su tienda si sus ofertas coinciden con sus términos de búsqueda, o si usted se encuentra cerca de ellos. Red Ágora es un lugar único para las personas que buscan acceder a excelentes productos locales, lo que otorga a las empresas participantes la exposición a una base de clientes más amplia.
+* **Específico de la empresa alimentaria**
+Las funcionalidades de tiendas en línea de Red Ágora también están diseñadas especialmente para empresas de alimentos (y por extensión de artesanías e insumos agrícolas), por lo que le ahorra tener que desarrollar su propio software desde cero \(lo cual puede ser un proceso largo y costoso, ¡créanos!\).
+* **Flexible**
+Red Ágora funciona para cualquier tipo de negocio, desde pequeños vendedores hasta grandes organizaciones con múltiples proveedores y sistemas de distrubución. Puede configurar todo tipo de entrega y métodos de pago. Puede establecer tarifas por administración y por entregas. Puede indicar toda la información que quiera de su tienda o sus productos. Todas las funcionalidades están especialmente diseñadas para operar sin limitaciones.
+* **Espacio para crecer**
+Los vendedores pueden comenzar con un perfil y luego ir creciendo fácilmente para comenzar a vender a otros, abrir su propia tienda en línea y comenzar a conectarse con un número creciente de proveedores. Una vez que tenga un perfil, puede abrir fácilmente su propia tienda y vincularse con otros grupos, como grupos de compra de clientes, algo que la mayoría de las opciones de software no pueden ofrecer.
+* **Tenemos alma**
+Red Ágora es una empresa social, de código abierto y por lo tanto de propiedad de todos y todas. Trabajamos continuamente para mejorar nuestro sistema alimentario, haciendolo más sencillo, justo y eficiente. Los ingresos se reinvierten en el software, en promocionar el servicio, en afianzar nuestra relación con nuestros clientes, en crear nuevas redes de comercialización en diferentes zonas del territorio nacional. ¡Puedes sentirte bien al formar parte de la Red!
 
-#### What is an OFN profile? What is an OFN shopfront? What's the difference?
+#### ¿Qué es un perfil? ¿Qué es una tienda en línea? ¿Cual es la diferencia?
 
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
+Red Ágora funciona como un directorio, una plataforma publicitaria y un mercado en línea. Las personas pueden elegir qué funcionalidades desean usar, de acuerdo con sus necesidades.
 
-1. A Profile.
+1. Un perfil.
 
-A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
+Un perfil en Red Ágora es la opción más simple, y ofrece una manera para que las empresas se promocionen. El perfil se puede utilizar para promocionar sus productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otras empresas que deseen comerciar con usted.
 
-1. A Shopfront
+2. Una tienda
 
-You have the option of adding an OFN shop onto your profile, giving you all the functions needed to run an online store. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN works as a network, so all hubs are connected to the profiles of their supplying producers. It’s also designed to accommodate all different hub models, from the small and simple, to the large and complex.
+También tiene usted la opción de agregar una tienda en línea en su perfil, brindándole todas las funciones necesarias para vender sus productos desde internet. Esto incluye la tienda en línea con capacidades de pago completo, así como herramientas detrás de escena para ayudar en la administración, como informes de pagos e inventario. Red Ágora funciona como una red, por lo que todos las tiendas están conectados a los perfiles de sus productores proveedores. También está diseñada para adaptarse a todos los diferentes modelos de vendedores, desde pequeños y simples hasta grandes y complejos.
 
-#### I am already selling my products directly via an online store I have created. How could I get involved with the OFN?
+#### Ya estoy vendiendo mis productos directamente a través de una tienda en línea que he creado. ¿Cómo podría formar parte de la Red Ágora?
 
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your enterprise and allows you to connect with the audience on the OFN.
+Puede crear un perfil en Red Ágora que enlace con su tienda existente. Esto aumentará la visibilidad de su empresa y le permitirá conectarse con la audiencia en nuestra Red.
 
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
+Consulte en nuestra página de lista de funciones, que describe las funcionalidades completas de una tienda en línea en Red Ágora. Nuestras funciones y nuestros precios son competitivos, por lo que quizás considere cambiarse a nuestra plataforma y ser parte de nuestra Red.
 
-#### How is payment received in an OFN store?
+También puede utilizar su mismo dominio para insertar su tienda de Red Ágora en su sitio web, de tal modo que sus clientes puedan hacer sus pedidos desde su dominio, además de poder hacerlo desde el nuestro. Para más información sobre esta posibilidad, contáctese con nosotros a redagorapy@gmail.com. 
 
-The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+#### ¿Cómo se recibe el pago en una tienda de Red Ágora?
 
-#### There's no OFN in our country, are we able to get involved with the OFN?
+La Red Ágora no impone un método de pago y puede usar cualquier método que funcione para usted. Las opciones de pago manejados actualmente incluyen Efectivo, Giros, Cheque y Transferencia. Estamos en proceso de incluir métodos de pago electrónicos, como tarjetas de crédito.
 
-The OFN is operational in Australia and the UK and we have partner organisations getting local OFN’s set-up in the France, Norway, South Africa and Canada. We’re always looking for like-minded and capable international partner organisations to help spread the OFN to more users around the world. Talk to your local food movement about the OFN to see if it could be a solution for producers and enterprises in your region.
+#### ¿Los vendedores solo venden productos orgánicos/agroecológicos?
 
-#### Do hubs only source organic produce?
+Los vendedores son libres de eligir de quiénes se proveen y a quiénes venden. Pueden elegir solo proveedores orgánicos, o pueden elegir convencionales, o un poco de ambos, dependiendo de las necesidades de sus clientes.
 
-Hubs choose who they source from and who they sell to. They may chose to only source and supply organics, or they may choose conventional, or a bit of both, depending on their customers’ needs.
+#### ¿Qué agricultores proveen a un vendedor?
 
-#### Which farmers will supply a hub?
+Red Ágora no impone ningún conjunto predefinido de agricultores de quienes proveerse. Tampoco nos encargamos de establecer los contratos entre productores y vendedores. Más bien hacemos que la conexión sea más fácil, al hacer posible que los grupos se encuentren, conecten y comercialicen. Consulte el mapa de la Red Ágora para encontrar productores en su área y vea sus perfiles para conocer quiénes son, qué producen, cómo trabajan y para contactarse con ellos.
 
-The OFN doesn’t ‘match-make’ hubs with farmers. Rather we make connecting easier, by making it possible for groups to find one another and connect and trade. Check out the OFN map to find producers in your area, and view their profiles to find contact details.
+#### ¿Podemos incrustar una tienda de Red Ágora a un sitio web existente?
 
-#### Can we embed the OFN in an existing website?
+Con respecto a la integración de un escaparate OFN en su sitio web existente, en este momento puede vincular a los clientes con su escaparate OFN desde su sitio web, y luego redirigirlos a su sitio web después de finalizar la compra. Con muchas funciones para desarrollar, la incorporación adicional no ha sido una prioridad.
+Sí. Puede utilizar su mismo dominio para insertar su tienda de Red Ágora en su sitio web, de tal modo que sus clientes puedan hacer sus pedidos desde su dominio, además de poder hacerlo desde el nuestro. Para más información sobre esta posibilidad, contáctese con nosotros a redagorapy@gmail.com.
 
-In regards to embedding an OFN shopfront into your existing website, at the moment you can link customers to your OFN shopfront from your website, and then redirect them back to your website after checkout. With lots of features to develop, further embedding hasn’t been a top priority.
+#### Soy mayorista, ¿puedo participar?
 
-#### I'm a wholesaler, can I get involved?
+¡Sí, claro que puede! De hecho Red Ágora tiene funciones especiales que le ayudará a vender al por mayor. Podrá crear un perfil y una tienda en línea. En Red Ágora clasificamos las empresas que distribuyen/venden productos producidos por otros como "vendedores". Esto incluye a los mayoristas, así como a muchos otros tipos de empresas, como grupos de compra, cooperativas de alimentos y minoristas.
 
-As a wholesaler you could certainly get set up on the OFN with a profile, and an online shopfront if that’s what you’re looking for. On the OFN we class enterprises that distribute/sell produce produced by others as “hubs”. This includes wholesalers, as well as lots of other kinds of enterprises, like buying groups, food coops and retailers.
+#### Somos un Colectivo de Alimentos que busca una solución de comercio electrónico para agilizar el procesamiento de nuestros pedidos. ¿Cómo nos puede ayudar la Red Ágora?
 
-#### We are a Food Collective seeking an ecommerce solution to streamline our order processing, could the OFN help us?
+Sí, Red Ágora está diseñada para facilitar los procesos de toma y gestión de pedidos y stock. Un Colectivo de Alimentos se establecería como un Vendedor, con su propia tienda. A diferencia del pedido a través de correo electrónico o formularios en línea, el proceso de hacer pedidos en Red Ágora es muy fácil de usar para los clientes y tiene la ventaja adicional de generar informes de pedidos, gestión de inventarios, pedidos y clientes, lo cual reduce las tareas administrativas para el vendedor.
 
-Yes, the OFN is designed to make the processes of taking and managing orders and stock easier.  A food collective would be established as a hub on the OFN, with its own shopfront. In contrast to taking order through email or online forms, the OFN’s checkout process is very easy to use for customers, and has the added advantage of generating order reports, which reduces the administration burden for the hub.
+#### ¿Cuánto tiempo lleva crear mi tienda en Red Ágora?
 
-#### How long does it take to set up a hub on the OFN?
+Cada Vendedor es diferente y los tiempos de configuración dependerán de si el concentrador es nuevo o simplemente está en transición. También dependerá de la complejidad de sus actividades de abastecimiento, ventas y distribución. Crear perfiles para sus proveedores que no están en Red Ágora puede llevar algo de tiempo, así como también crear tu catálogo de productos. Pero estas son tareas que se realizan una vez al principio, y una vez completadas, la administración diaria de actividades en el OFN es muy eficiente. Las funciones están documentadas en nuestra Guía de Usuario, de modo que allí pueda encontrar toda la información necesaria para crear y operar su tienda. En caso que necesite, también puede comunicarse con nosotros.
 
-Each hub is different and set up times will depend on whether they hub is new, or simply transitioning to the OFN. It will also depend on the complexity of their sourcing, sales and distribution activities. Creating profiles for your suppliers who are not on the OFN can take some time, as can adding in your product range. But these are once off tasks, and once complete, administering day to day activities on the OFN is very efficient.
+#### ¿Proporciona la plataforma de Red Ágora datos sobre ventas y pedidos?
 
-#### Does the OFN provide stores with data about their sales and orders?
+Sí, los operadores de tiendas de Red Ágora recibirán un correo electrónico cada vez que se realice un pedido. Además, se podrán descargar de su tienda varios informes diferentes sobre las ventas. Incluye gestión de inventario, catálogos, pedidos, clientes y más.
 
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales will be downloadable from your store. Including stock management \(inventory, variants, descriptions\), order management and more.
+## Preguntas frecuentes técnicas
 
-## Technical FAQs
+#### ¿Por qué no puedo ver todos mis productos en mi tienda?
 
-#### Why can't I see all of my products in my shopfront?
+Aquí hay algunas cosas para verificar:
 
-Here’s a few things to check:
+* ¿Se ha agregado el producto al ciclo de pedido? Abra el ciclo de pedido y vuelva a verificar que se hayan seleccionado todas las casillas de verificación junto a sus productos.
+* ¿Hay suficiente inventario 'disponible'? Si el valor de inventario 'disponible' es cero para un producto, ya no aparecerá en su tienda. Si tiene productos que están siempre 'disponibles', puede marcar el recuadro 'bajo demanda' correspondiente a ese producto; entonces, nunca se agotará.
 
-* Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
-* Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
+#### Quiero que sólo mis clientes actuales puedan comprar de mi tienda, ¿puedo hacer que mi tienda sea solo para "miembros"?
 
-#### I only want my existing customers to be able to shop in my shop, can I make my shop 'member only'?
+Sí puedes. Cuando configura su tienda como privada, solo los clientes en su lista de clientes podrán iniciar sesión para ver sus productos y realizar pedidos. Aquí algunos detalles:
 
-Yes you can. When you set your shop to private, only customers on your customer list will be able to login to see your shopfront and place orders.Details here.
+* También puedes hacer que tu tienda sea invisible. De esta forma, solo las personas a las que se les haya proporcionado la URL a su tienda podrán verla. Esto se puede hacer seleccionando "no visible" en su configuración de perfil.
+* Puede poner un mensaje en su perfil \(instrucciones [aquí](/your-prifile.md)\) para que los visitantes de su tienda sepan que necesitan ser miembros para comprar de su tienda, o necesitan contactarse con usted primero.
 
-* You can also make your shopfront invisible. This way only people who have been given the URL to your shop will be able to see it. This can be done by selecting ‘not visible’ in your
-  profile settings
-  .
-* You can use the shopfront message \(instructions
-  here
-  \) to let visitors to your store know that they need to be members to shop with you, or need to make contact with you first.
+#### ¿Puedo controlar el orden en que se muestran los productos en tienda?
 
-#### Can I control the order that products are displayed in my shopfront?
+Sí, puede seleccionar el orden en que se mostrará cada categoría de productos en su tienda, luego dentro de cada categoría los productos se mostrarán alfabéticamente. Por ejemplo, si la carne y el pescado son sus productos más importantes, puede seleccionar que aparezcan primero, con sus productos secundarios como aceites y especias al final. Puede hacerlo en la configuración de su perfil, en "[Pedidos de categorías de tiendas directas](/your-prifile.md)".
 
-Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
+#### ¿Cómo puedo decirle a los clientes cómo funciona mi tienda? Incluyendo mis restricciones de entrega, etc.
 
-#### How can I tell customers about how my shop works? Including my delivery restrictions etc.
+Existe la opción de agregar un "mensaje de compra" a su tienda. Este mensaje es claramente visible para los clientes cuando visitan su tienda y puede agregar tanto o tan poco detalle como lo desee. Las instrucciones para insertar un 'mensaje de compras' se pueden encontrar [aquí](/your-prifile.md).
 
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
+#### ¿Puedo establecer un monto mínimo de compra en mi tienda?
 
-#### Can I set a minimum spend amount in my shopfront?
-
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
-
+Actualmente la opción de bloquear la confirmación del pedido de un cliente alcance un monto definido no está disponible. Una opción alternativa es agregar una tarifa de envío con la calculadora de tarifas 'Depósito de precio'. Esta calculadora aplicará un valor de tarifa si el total está por debajo de un nivel dado y otro valor de tarifa \(posiblemente Gs 0\) si la orden supera ese nivel. Consulte [aquí](/shipping-methods.md).
