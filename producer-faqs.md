@@ -6,9 +6,9 @@
 
 Red Ágora funciona como un directorio, una plataforma publicitaria y un mercado en línea. Las personas pueden elegir qué funcionalidades desean usar, de acuerdo con sus necesidades.
 
-1. Un perfil: Un perfil en Red Ágora es la opción más simple, y ofrece una manera para que los productores se promocionen a sí mismos. El perfil se puede utilizar para promocionar sus productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otras empresas que deseen comerciar con usted. Los productores con un perfil también pueden agregar productos, que los Centros de Venta pueden almacenar en sus tiendas.
+1. **Un perfil:** Un perfil en Red Ágora es la opción más simple, y ofrece una manera para que los productores se promocionen a sí mismos. El perfil se puede utilizar para promocionar sus productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otras empresas que deseen comerciar con usted. Los productores con un perfil también pueden agregar productos, que los Centros de Venta pueden almacenar en sus tiendas.
 
-1. Una tienda: Una tienda en Red Ágora, es como un perfil, pero también incluye todas las funciones necesarias para que los productores vendan directamente a los clientes en línea. Esto incluye una tienda en línea con capacidades para hacer pedidos, así como herramientas detrás de escena para ayudar en la administración, como informes de pagos e inventario. El Red Ágora es una red, por lo que permite que las tiendas se conecten con otras tiendas. De esta forma, un productor puede almacenar sus productos en su propia tienda independiente, así como a través de varias tiendas de venta.
+2. **Una tienda:** Una tienda en Red Ágora, es como un perfil, pero también incluye todas las funciones necesarias para que los productores vendan directamente a los clientes en línea. Esto incluye una tienda en línea con capacidades para hacer pedidos, así como herramientas detrás de escena para ayudar en la administración, como informes de pagos e inventario. El Red Ágora es una red, por lo que permite que las tiendas se conecten con otras tiendas. De esta forma, un productor puede almacenar sus productos en su propia tienda independiente, así como a través de varias tiendas de venta.
 
 #### ¿Cómo pueden los agricultores hacer uso de Red Ágora?
 
@@ -47,7 +47,7 @@ Consulte en nuestra página de lista de funciones, que describe las funcionalida
 
 También puede utilizar su mismo dominio para insertar su tienda de Red Ágora en su sitio web, de tal modo que sus clientes puedan hacer sus pedidos desde su dominio, además de poder hacerlo desde el nuestro. Para más información sobre esta posibilidad, contáctese con nosotros a redagorapy@gmail.com. 
 
-#### Tenemos stock excedentes infrecuentes e impredecibles que nos gustaría vender, ¿cómo podríamos hacer esto a través de Red Ágora?
+#### Tenemos stock excedentes, infrecuentes e impredecibles que nos gustaría vender, ¿cómo podríamos hacer esto a través de Red Ágora?
 
 Los productores con un perfil OFN pueden agregar productos, que los Centros de Venta pueden luego vender a través de sus tiendas en línea. Si tiene excedentes irregulares, puede hablar con los centros para organizar que almacenen sus productos cuando los tenga a mano.
 
