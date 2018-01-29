@@ -1,60 +1,59 @@
-# Customer FAQs
+# Preguntas frecuentes de los consumidores
 
-####  Is the OFN a fruit and vegetable box delivery service?
+#### ¿Red Ágora es un servicio de entrega de canastas de frutas y verduras?
 
-Not exactly. The OFN itself is a website which provides an online directory and ecommerce software to food enterprises. All of the shops on the OFN are independently owned and operated and offer unique products and services to customers. While, some shops might offer mixed fruit and vegetable box deliveries, others might take custom orders, or ask that you collect your purchase from their farm, or market. To find details of how a specific shop operates and what products/services they offer, check out their profile.
+No exactamente. Red Ágora es un sitio web que proporciona un directorio en línea y un software de comercio electrónico para las empresas de alimentos. Todas las tiendas en Red Ágora son de propiedad y operación independientes y ofrecen productos y servicios únicos a los clientes. Si bien algunas tiendas pueden ofrecer entregas mixtas de canastas de frutas y verduras, otras pueden tomar pedidos personalizados, o pedir que recoja su pedido de su granja o local. Para encontrar detalles sobre cómo funciona una tienda específica y qué productos y servicios ofrecen, consulte su perfil.
 
-#### What are order cycles?
+#### ¿Qué son ciclos de pedido?
 
-Some shops operate their ordering and delivery in ‘order cycles’, as opposed to shops which are perpetually open and process orders on a one-by-one basis. Order cycles are a way for enterprises to process orders in bulk, which makes their business more efficient, so they can pass on savings to you \(think how inefficient it would be for a farmer to harvest a lettuce each time an order is placed\).
+Algunas tiendas operan sus pedidos y entregas en 'ciclos de pedido', a diferencia de las tiendas que están abiertas permanentemente y procesan los pedidos uno por uno. Los ciclos de pedido son una forma para que las empresas procesen sus pedidos en grupos, lo que hace que su negocio sea más eficiente, por lo que pueden transferirle ahorros a usted \(piense en lo ineficiente que sería para un agricultor cosechar una lechuga cada vez que realiza un pedido\).
 
-An order cycle starts with a period of time when the shop is open and accepts orders. Then it will close, and the shop will process \(harvest, pack and deliver\) all of the orders that were placed. This process will then repeat itself. A full order cycle might take 2 weeks \(e.g. the shop is open for 10 days, and then orders are harvested, packed and delivered in 4 days\). For customers, this can mean that you will place your order a few days to a week before your order is delivered. Once you get used to ordering in advance like this, and planning your shopping ahead, the system works well, and brings you the freshest goodies!
+Un ciclo de pedido comienza con un período de tiempo cuando la tienda está abierta y acepta pedidos. Luego se cerrará y la tienda procesará \(cosechar, empaquetar y entregar\) todas las órdenes que se colocaron. Este proceso luego se repetirá. Un ciclo de pedido completo puede llevar 2 semanas \(por ejemplo, la tienda está abierta durante 10 días, y luego los pedidos se cosechan, empaquetan y entregan en 4 días\). Para los clientes, esto puede significar que hará su pedido de unos días a una semana antes de que se entregue su pedido. ¡Una vez que se acostumbre a hacer pedidos por adelantado de esta manera y planifique sus compras con anticipación, el sistema funciona bien y le ofrece los mejores productos, frescos y naturales!
 
-If you see that a shop is closed, just return back when their next order cycle is open to start shopping with them.
+Si ve que una tienda está cerrada, simplemente regrese cuando su próximo ciclo de pedido esté abierto para comenzar a comprar con ellos.
 
-#### How are orders delivered?
+#### ¿Cómo se envían los pedidos?
 
-All online shops on the ONF are independently operated and offer different shipping methods. Some shops offer more conventional shipping methods like home delivery, or postage. Others will have more creative ways for getting the food from the farmer to plate, such as collection from a central location \(like a school, farmer’s market or workplace\), collection from a neighbourhood grocer or butcher or distribution through a buying group \(group of customers\).
+Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o franqueo. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central \(como una escuela, ferias o lugar de trabajo\), colección de un despensa del barrio o distribución a través de un grupo de compra \(grupo de clientes\).
 
-#### What are the payment options?
+#### ¿Cuáles son las opciones de pago?
 
-All online shops on the OFN are independently operated and have different payment methods available. Visit a shop to see what options are offered. Most shops with use a mixture of Paypal, EFTPOS, Pin Payments, banks transfer or cash on delivery.
+La Red Ágora no impone un método de pago y puede usar cualquier método que funcione para usted. Las opciones de pago manejados actualmente incluyen Efectivo, Giros, Cheque y Transferencia. Estamos en proceso de incluir métodos de pago electrónicos, como tarjetas de crédito.
 
-#### What are the OFN's transparency features?
+#### ¿Cuáles son las funciones de transparencia de Red Ágora?
 
-Traditional grocery supply chains are shrouded in mystery, making it difficult for customers to know where their food is coming from, how it has been produced, and where their grocery dollar will end up. Transparency is central to the OFN, because we believe that visible supply chains are healthier than those which are hidden. On the OFN, customers can always see where their food has come from and what proportion of the price goes to the farmer.
+Las cadenas de suministro tradicionales de alimentos están envueltas en misterio, lo que dificulta que los clientes sepan de dónde provienen sus alimentos, cómo han sido producidos y dónde terminará su dinero. La transparencia es central para la Red Ágora, porque creemos que las cadenas de suministro visibles son más saludables que las ocultas. En la Red Ágora, los clientes siempre pueden ver de dónde vienen sus alimentos y qué proporción del precio le corresponde al productor.
 
-In an online shop, the  pricing pie chart will show you how the price is allocated between the producer and other players like the hub or retailer. You can also see the product properties \(such as certified organic, free range etc\) to know more about how the food was produced.
+En una tienda en línea, el gráfico circular de precios le mostrará cómo se asigna el precio entre el productor y el centro de venta (por ejemplo, 10% del precio queda para el centro de venta y 90% va para el productor). También puede ver las propiedades del producto \(como certificado orgánico, agroecológico, convencional, etc.) para saber más sobre cómo se produjo la comida. También tendrá información acerca de los productores y centros de venta, para conocer sus historias, sus datos de contacto, su zona de operación, etc.
 
-#### How does shopping on the OFN bring benefits to farmers, the environment and my local community?
+#### ¿De qué manera las compras en la Red Ágora traen beneficios a los agricultores, el medio ambiente y mi comunidad local?
 
-The OFN makes producers visible again, giving them recognition and a fair price, for their hard work. A food system with more direct trading between farmers and local community enterprises \(instead of multinational corporations\) keeps food dollars in the community’s hands and builds ties and understanding. Shopping local also brings benefits to the environment through lower food miles and more seasonal consumption.
+Red Ágora vuelve a hacer visibles a los productores, otorgándoles reconocimiento y un precio justo por su arduo trabajo. Un sistema alimentario con un comercio más directo entre los agricultores y las empresas comunitarias locales (en lugar de las grandes cadenas de supermercados, o mercados centralizados de alimentos) mantiene las ganancias en manos de la comunidad y construye lazos de confianza y comprensión. El consumo de productos locales también brinda beneficios al medio ambiente, gracias a que se disminuyen las distancias que deben recorrer los productos hasta llegar al consumidor y se aumenta el consumo de productos de estación.
 
-#### How is the OFN different to other online food delivery services?
+#### ¿En qué se diferencia la Red Ágora de otros servicios en línea de entrega de alimentos?
 
-The OFN is not for profit and committed to building a better and fairer food system. Some online stores still source through conventional supply chains which are shrouded in mystery, but on the OFN you can always see where your food has come from.  The OFN is also contributing to something bigger. The code for the OFN software is free for others to use, so is contributing improving food systems all over the world.
+La mayoría de los servicios en línea todavía se abastecen a través de cadenas de suministro convencionales que están envueltas en misterio, pero en Red Ágora siempre se puede ver de dónde provienen los alimentos. Red Ágora está contribuyendo a algo más grande: un mercado más sencillo, justo y eficiente. Para ello trabaja con varios productores y centros de venta de direfentes lugares para formar una red de comercio en todo el territorio nacional.
 
-#### How can customers make the OFN convenient to them?
+#### ¿Cómo pueden los clientes hacer que la Red Ágora sea conveniente para ellos?
 
-The OFN hosts a diversity of different shops, offering different products and services. Check out the product ranges and shipping options of enterprises in your area- you’re bound to find one which fits with your budget, preferences and routine!
+Red Ágora alberga una diversidad de tiendas diferentes, que ofrecen diferentes productos y servicios. Vea las gamas de productos y las opciones de envío de las empresas en su área. ¡Seguro que encontrará una que se ajuste a su presupuesto, preferencias y rutina!
 
-Many of us who have grown used to shopping in supermarkets can find shopping at local markets, or shopping online a bit of an adjustment. But once you get into the swing of it and start enjoying all of the other benefits of buying through alternative, local food enterprises, you’ll soon find you don’t miss the weekly trip to the supermarket.
+Muchos de los que nos hemos acostumbrado a comprar en los supermercados nos puede parecer que las compras en los mercados locales o las compras en línea no es para nosotros. Pero una vez que te acostumbras y comienzas a disfrutar de todos los demás beneficios de comprar a través de mercados locales alternativas, pronto descubrirás que no te pierdes el viaje semanal al supermercado.
 
-#### Is the OFN affordable?
+#### ¿Me conviene económicamente realizar mis compras desde la Red Ágora?
 
-The OFN strives to make good food accessible and affordable to all. By shortening supply chains and bringing transparency back to the table, customers can see where their food is coming from and know they’re getting value for money.
+Red Ágora se esfuerza por hacer que la buena comida sea accesible para todos. Al acortar las cadenas de suministro y devolver la transparencia a la mesa, los clientes pueden acceder a precios más justos, ver de dónde vienen sus alimentos y saber que están obteniendo una buena relación calidad-precio.
 
-#### What are buying groups and how can I join or establish one?
+#### ¿Qué son los grupos de compra y cómo puedo unirme o establecer uno?
 
-A buying group is a collective of customers, who place a bulk order through a shop, then receive and distribute the order amongst members. This might take place in someone’s back shed, or local community space. Buying groups are often not for profit and run by members. By ordering in bulk, and taking on the task of packing and distributing individual orders, members of a buying group can access great produce at lower prices. Joining or starting a buying group with your neighbours or community group can be a great way to access affordable produce and also build  sense of community.
+Un grupo de compra es un colectivo de consumidores, que realiza un pedido en cantidad a través de una tienda y luego recibe y distribuye el pedido entre los miembros. Esto podría tener lugar en la casa particular de un miembro o en algún espacio de la comunidad local. Los grupos de compra a menudo no tienen fines de lucro y los administran los miembros. Al realizar un pedido en cantidad y asumir la tarea de empaquetar y distribuir pedidos individuales, los miembros de un grupo de compra pueden acceder a grandes productos a precios más bajos. Unirse o comenzar un grupo de compra con sus vecinos o grupo comunitario puede ser una excelente manera de acceder a productos asequibles y también crear sentido de comunidad.
 
-If a shop delivers to a buying group, ask them about how you can join. Or if you want to start a new buying group, get in touch with a shop to see if it can be accommodated, and talk with your community to get others involved.
+Si una tienda ofrece a un grupo de compra, pregúnteles cómo puede unirse. O si desea comenzar un nuevo grupo de compras, póngase en contacto con una tienda para ver si se puede adaptar y hable con su comunidad para involucrar a otros.
 
-#### All of the shops on the OFN are different, how do I know which one is right for me?
+#### Todas las tiendas en el OFN son diferentes, ¿cómo sé cuál es el adecuado para mí?
 
-The OFN shops are wonderfully diverse, which means that you’re sure to find one which suits your needs. You can use the OFN map feature on your local OFN site to find enterprises located near to you. Then, check out the profiles of shops to see if the product range and the payment and shipping methods meet your needs. Each shop has links to the profiles of supplying producers, so you can learn about where the food is coming from, and how it was produced. If production characteristics such as organic certification, or free range is important to you, you can choose see which products and shops meet these standards. The OFN is transparent in pricing as well, so you can see how your food dollar is distributed.
+Las tiendas en la Red Ágora son maravillosamente diversas, lo que significa que seguramente encontrará una que se adapte a sus necesidades. Puede utilizar la función de mapa para encontrar empresas ubicadas cerca de usted. Luego, consulte los perfiles de las tiendas para ver si la gama de productos y los métodos de pago y envío satisfacen sus necesidades. Cada tienda tiene enlaces a los perfiles de los proveedores, para que pueda conocer de dónde viene la comida y cómo se produjo. Si las características de producción como orgánica o la agricultura familiar campesina son importantes para usted, puede elegir qué productos y tiendas cumplen con estos estándares.
 
-#### Can I see a record of my past orders?
+#### ¿Puedo ver un registro de mis pedidos anteriores?
 
-You can view your past orders by logging in at the homepage, clicking the cog in the top right hand corner and selecting Account. Here you will see a summary of your orders at each shop and be able to view details of each unique order.
-
+Puede ver sus pedidos anteriores iniciando sesión en la página de inicio, haciendo clic en el engranaje en la esquina superior derecha y seleccionando Cuenta. Allí verá un resumen de sus pedidos en cada tienda y podrá ver los detalles de cada pedido único.
