@@ -1,6 +1,1 @@
 # Languages
-
-* [French](fr/)
-
-
-
