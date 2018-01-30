@@ -70,113 +70,89 @@ Los productores con un perfil en la Red Ágora pueden agregar productos, que los
 %/accordion%
 
 
-%accordion%We deliver weekly veggie boxes to customers and our orders are currently placed by email.%accordion%
+%accordion%Entregamos canastas de verduras semanales a los clientes y nuestros pedidos se realizan actualmente por correo electrónico. ¿Sería Red Ágora adecuada para nosotros?%accordion%
 
-Yes! With an online store, customers can place their order for your veggie box online. This makes it easier for the customer, and also for you. The reporting functionality of the OFN makes the administration tasks of running a store straightforward, by helping you to track orders, payment and inventory. You can easily view reports summarising the total orders, individual orders and the payment status of each order.
-
-%/accordion%
-
-###Creating a producer account
-%accordion%What is the difference between a profile and a shopfront on the OFN?%accordion%
-
-The OFN functions as a directory, advertising platform, and an online marketplace. People can choose which functionalities of the OFN they want to use, according to their needs.
-
-1. A Profile.
-
-A profile on the OFN is the simplest option, and offers a way for producers to market themselves. The profile can be used to promote your products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you. Producers with a profile can also add products, which hub enterprises can then stock in their stores.
-
-1. A Shopfront
-
-An OFN shop, is like a profile, but it also includes all the functions needed for producers to sell directly to customers online. This includes the online shopfront with full checkout capabilities as well as behind the scenes tools to aid in administration, such as reporting of payments and inventory. The OFN is a network, so it allows shops to be connected with other shops. This way a producer can be stocking their products in their own independent store, as well as through a number of hub shops.
+¡Sí! Con una tienda en línea, los clientes pueden realizar su pedido de su caja de verduras en línea. Esto lo hace más fácil para el cliente y también para usted. La funcionalidad de generación de informes hace que las tareas de administración de una tienda sean sencillas, ayudándole a rastrear pedidos, pagos e inventarios. Puede ver fácilmente informes que resumen el total de pedidos, pedidos individuales y el estado de pago de cada pedido.
 
 %/accordion%
 
-%accordion%New: How do I create a profile?%accordion%
+%accordion%¿Cuál es la diferencia entre un perfil y una tienda en Red Ágora?%accordion%
 
-blabla
+Red Ágora funciona como un directorio, una plataforma publicitaria y un mercado en línea. Las personas pueden elegir qué funcionalidades desean usar, de acuerdo con sus necesidades.
+
+1. **Un perfil:** Un perfil en Red Ágora es la opción más simple, y ofrece una manera para que los productores se promocionen a sí mismos. El perfil se puede utilizar para promocionar sus productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otras empresas que deseen comerciar con usted. Los productores con un perfil también pueden agregar productos, que los Centros de Venta pueden almacenar en sus tiendas.
+
+2. **Una tienda:** Una tienda en Red Ágora, es como un perfil, pero también incluye todas las funciones necesarias para que los productores vendan directamente a los clientes en línea. Esto incluye una tienda en línea con capacidades para hacer pedidos, así como herramientas detrás de escena para ayudar en la administración, como informes de pagos e inventario. El Red Ágora es una red, por lo que permite que las tiendas se conecten con otras tiendas. De esta forma, un productor puede almacenar sus productos en su propia tienda independiente, así como a través de varias tiendas de venta.
 
 %/accordion%
 
 
-%accordion%New: How do I create a shopfront?%accordion%
+###Preguntas técnicas
 
-blabla
+%accordion%¿Puedo controlar el orden en que se muestran los productos en tienda?%accordion%
+
+Sí, puede seleccionar el orden en que se mostrará cada categoría de productos en su tienda, luego dentro de cada categoría los productos se mostrarán alfabéticamente. Por ejemplo, si la carne y el pescado son sus productos más importantes, puede seleccionar que aparezcan primero, con sus productos secundarios como aceites y especias al final. Puede hacerlo en la configuración de su perfil, en "[Pedidos de categorías de tiendas directas](/your-profile.md)".
+%/accordion%
+
+%accordion%¿Por qué no puedo ver todos mis productos en mi tienda?%accordion%
+
+Aquí hay algunas cosas para verificar:
+
+* ¿Se ha agregado el producto al ciclo de pedido? Abra el ciclo de pedido y vuelva a verificar que se hayan seleccionado todas las casillas de verificación junto a sus productos.
+* ¿Hay suficiente inventario 'disponible'? Si el valor de inventario 'disponible' es cero para un producto, ya no aparecerá en su tienda. Si tiene productos que están siempre 'disponibles', puede marcar el recuadro 'bajo demanda' correspondiente a ese producto; entonces, nunca se agotará.
+* ¿Está el producto en su lista de inventario oculto?
 
 %/accordion%
 
 
-###Your product offer and shop
-%accordion%New: How do I add and delete products?%accordion%
+%accordion%Quiero que sólo mis clientes actuales puedan comprar de mi tienda, ¿puedo hacer que mi tienda sea solo para "miembros"?%accordion%
 
-blabla
+Sí puedes. Cuando configura su tienda como privada, solo los clientes en su lista de clientes podrán iniciar sesión para ver sus productos y realizar pedidos. Aquí algunos detalles:
 
-%/accordion%
+* También puedes hacer que tu tienda sea invisible. De esta forma, solo las personas a las que se les haya proporcionado la URL a su tienda podrán verla. Esto se puede hacer seleccionando "no visible" en su configuración de perfil.
+* Puede poner un mensaje en su perfil \(instrucciones [aquí](/your-profile.md)\) para que los visitantes de su tienda sepan que necesitan ser miembros para comprar de su tienda, o necesitan contactarse con usted primero.
 
-
-%accordion%How do I control the order of products displayed in my shopfront?%accordion%
-
-Yes, you can select the order that each category of food is displayed in your shop, then within each category the products are displayed alphabetically. For instance, if Meat and Fish are your most important products, you can select to have them show up first, with your secondary Oil and Spreads products below. You can do this in  your profile settings, under‘shopfront category ordering’.
-
-%/accordion%
-
-%accordion%Why can't I see all of my products in my shopfront?%accordion%
-
-Here’s a few things to check:
-
-* Has the product been added to the order cycle? Open the order cycle and double check that all tick boxes next to your products have been selected.
-* Is there enough ‘on hand’ inventory? If the ‘on hand’ inventory value is zero for a product, then it will no longer appear in your store. If you have products which are always ‘on hand’, you can check the ‘on demand’ box corresponding to that product- then it will never be out of stock.
-* Is the product on your
-  Inventory Hidden
-  list?
+Más información [aquí](/private-shopfront.md).
 
 %/accordion%
 
 
-%accordion%I only want existing customers to see and to shop in my shop, can I make it 'member only'?%accordion%
+%accordion%¿Cómo puedo decirle a los clientes cómo funciona mi tienda? Incluyendo mis restricciones de entrega, etc.%accordion%
 
-Yes, you can restrict access to your shop to approved customers only. Checkout instructionshere.
-
-%/accordion%
-
-
-%accordion%How can I tell my customers about how my shop works and the terms and conditions?%accordion%
-
-There is the option of adding a ‘shopfront message’ to your shop. This message is clearly visible to customers when they visit your shop and you can add as much or as little detail here as you like. Instructions for inserting a ‘shopfront message’ can be found here.
+Existe la opción de agregar un "mensaje de compra" a su tienda. Este mensaje es claramente visible para los clientes cuando visitan su tienda y puede agregar tanto o tan poco detalle como lo desee. Las instrucciones para insertar un 'mensaje de compras' se pueden encontrar [aquí](/your-profile.md).
 
 %/accordion%
 
 
+%accordion%¿Puedo establecer un monto mínimo de compra en mi tienda?%accordion%
 
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
-
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
-
-%/accordion%
-
-%accordion%Why doesn't my profile show up when I filter for producers of meat on the producer listing page?%accordion%
-
-The filter tool on theproducer listing pagehere, allows customers to search for producers of certain product categories \(ie Fruit, or Meat\). The filter tool works by looking at the products that are assigned to each producer’s profile. If a producer has an online shop, their products will already be in the system. But if you only have a profile, this filter tool won’t capture you, until you add some dummy products. Instructions for doing this can be found. Once you have dummy products set up for the product categories that you produce, you’ll be captured by this filter tool.
+Actualmente la opción de bloquear la confirmación del pedido de un cliente alcance un monto definido no está disponible. Una opción alternativa es agregar una tarifa de envío con la calculadora de tarifas 'Depósito de precio'. Esta calculadora aplicará un valor de tarifa si el total está por debajo de un nivel dado y otro valor de tarifa \(posiblemente Gs 0\) si la orden supera ese nivel. Consulte [aquí](/shipping-methods.md).
 
 %/accordion%
 
-###Delivery and payment
+%accordion%¿Por qué mi perfil no aparece cuando selecciono productores de carne en la página de lista de productores?%accordion%
 
-%accordion%How do payments work?%accordion%
-
-An online store allows producers to sell their produce to customers and collect payment via a number of options. The OFN doesn’t dictate a payment method, and you can use any arrangement that works for you. Current payment options which are integrated into the checkout process include Paypal, Pin Payments and EFTPOS \(through a payment gateway\). Enterprises can also use manual methods including invoicing, cash on collection and direct deposit.
+La herramienta de filtro en la página de listado de productores, permite a los clientes buscar productores de ciertas categorías de productos \(por ejemplo, fruta o carne\). La herramienta de filtro funciona mirando los productos que están asignados al perfil de cada productor. Si un productor tiene una tienda en línea, sus productos ya estarán en el sistema. Pero si solo tiene un perfil, esta herramienta de filtro no lo capturará, hasta que agregue algunos productos. Las instrucciones para hacer esto se pueden encontrar [aquí](/making-a-producer-profile-searchable-by-product-category.md). Una vez que haya cargado algunos productos para las categorías de producto que produce, esta herramienta de filtro encontrará su tienda.
 
 %/accordion%
 
-%accordion%Can I set a minimum spend amount in my shopfront?%accordion%
+###Pago y entrega
 
-OFN doesn’t currently have the option of blocking checkout until a customer’s order reaches a defined threshold. An alternative option is to add a shipping fee with the ‘price sac’ fee calculator. This calculator will apply one fee value if the total is below a given level, and another fee value \(possibly $0\) if the order is over that level.See here.
+%accordion%¿Cómo se recibe el pago en una tienda de Red Ágora?%accordion%
+
+La Red Ágora no impone un método de pago y puede usar cualquier método que funcione para usted. Las opciones de pago manejados actualmente incluyen Efectivo, Giros, Cheque y Transferencia. Estamos en proceso de incluir métodos de pago electrónicos, como tarjetas de crédito.
 
 %/accordion%
 
+%accordion%¿Cómo se envían los pedidos?%accordion%
 
-%accordion%Can I get data about my shops' sales and orders?%accordion%
+Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o franqueo. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central \(como una escuela, ferias o lugar de trabajo\), colección de un despensa del barrio o distribución a través de un grupo de compra \(grupo de clientes\).
 
-Yes, OFN store operators will receive an email each time an order is placed. Additionally, a number of different reports regarding sales are downloadable from your store. This includes reports on unique orders, reports summarising a collection of orders, reports on inventory levels and  customer relationship management reports. Check out our set-up guide for more info onreports.
+%/accordion%
+
+%accordion%¿Proporciona la plataforma de Red Ágora datos sobre ventas y pedidos?%accordion%
+
+Sí, los operadores de tiendas de Red Ágora recibirán un correo electrónico cada vez que se realice un pedido. Además, se podrán descargar de su tienda varios informes diferentes sobre las ventas. Esto incluye informes sobre pedidos únicos, informes que resumen una colección de pedidos, informes sobre niveles de inventario, informes de gestión de relaciones con los clientes, etc. Consulte nuestra guía de usuario para obtener más información sobre informes [aquí](/reports.md).
 
 %/accordion%
 
