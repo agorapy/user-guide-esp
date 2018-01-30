@@ -1,22 +1,16 @@
 # Producer FAQs
 
 ### Our model and what's in it for you?
-%accordion%Why choose OFN? What's the difference with other online stores?%accordion%
+%accordion%¿Cuál es la diferencia entre Red Ágora y otras opciones de la tienda en línea?%accordion%
 
-We think the OFN is pretty great, and unique to other options out there!
+Creemos que la Red Ágora es especial en los siguientes aspectos:
 
-* **Networked-**
-  The OFN differs from private online shops in that they can be networked with other enterprises. Producers have the option of selling through their own, independently run store, but they can also choose to sell through another enterprise. Food hubs stock the produce of multiple producers and offer them more exposure and greater market access than they can achieve on their own.
-* **Exposure-**
-  The OFN has a directory functionality, so customers landing on our homepage may be driven to your store if your offerings match their search terms, or if you’re located close by to them. The OFN is a centralised place for people looking to access great, local produce, giving participating producers exposure to a wider customer base.
-* **Food enterprise specific-**
-  The OFN’s shopfront capabilities are also designed especially for food enterprises, so it saves you from having to develop your own software from scratch \(which can be a lengthy and costly process, trust us!\).
-* **Flexible-**
-  The OFN is flexible in accommodating all kinds of shipping/collection and payment methods. Some online store offerings for producers are restricted in the kinds of shipping and payment methods that can be accepted \(for example, limited strictly to postage\).
-* **Room to grow-**
-  Producers can start with a profile, and easily build up to start selling to others, opening their own online store and becoming a supplier to multiple enterprises. Once you have a profile, you can easily open your own store, and link with other stores, something that most software options cannot offer.
-* **We have soul**
-  – The OFN is a social enterprise, which is owned by all of us. It’s non-profit and continuously working to facilitate improvements to our food system. All revenues are reinvested back into the software, so it can be more useful to more people. So you can feel great about being part of the OFN!
+* **Trabajamos en Red:** Red Ágora difiere de las tiendas privadas en línea en el hecho que puede conectarse en red con otras empresas. Los Centros de Venta almacenan los productos de múltiples productores y los clientes siempre pueden ver de dónde provienen sus productos.
+* **Exposición:** Red Ágora tiene una funcionalidad de directorio, por lo que los clientes que accedan a nuestro sitio web pueden llegar a su tienda si sus ofertas coinciden con sus términos de búsqueda, o si usted se encuentra cerca de ellos. Red Ágora es un lugar único para las personas que buscan acceder a excelentes productos locales, lo que otorga a las empresas participantes la exposición a una base de clientes más amplia.
+* **Específico de la empresa alimentaria:** Las funcionalidades de tiendas en línea de Red Ágora también están diseñadas especialmente para empresas de alimentos (y por extensión de artesanías e insumos agrícolas), por lo que le ahorra tener que desarrollar su propio software desde cero \(lo cual puede ser un proceso largo y costoso, ¡créanos!\).
+* **Flexible:** Red Ágora funciona para cualquier tipo de negocio, desde pequeños vendedores hasta grandes organizaciones con múltiples proveedores y sistemas de distrubución. Puede configurar todo tipo de entrega y métodos de pago. Puede establecer tarifas por administración y por entregas. Puede indicar toda la información que quiera de su tienda o sus productos. Todas las funcionalidades están especialmente diseñadas para operar sin limitaciones.
+* **Espacio para crecer:** Los Centros de Venta pueden comenzar con un perfil y luego ir creciendo fácilmente para comenzar a vender a otros, abrir su propia tienda en línea y comenzar a conectarse con un número creciente de proveedores. Una vez que tenga un perfil, puede abrir fácilmente su propia tienda y vincularse con otros grupos, como grupos de compra de clientes, algo que la mayoría de las opciones de software no pueden ofrecer.
+* **Creemos en un mercado más humano:** Red Ágora es una empresa social, de código abierto y por lo tanto de propiedad de todos y todas. Trabajamos continuamente para mejorar nuestro sistema alimentario, haciendolo más sencillo, justo y eficiente. Los ingresos se reinvierten en el software, en promocionar el servicio, en afianzar nuestra relación con nuestros clientes, en crear nuevas redes de comercialización en diferentes zonas del territorio nacional. ¡Puedes sentirte bien al formar parte de la Red!
   
 %/accordion%
 
