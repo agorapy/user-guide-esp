@@ -23,7 +23,8 @@ Red Ágora puede ayudar a los agricultores a acceder a una mayor diversidad de m
 
 ### Es apropiado la Red Ágora para usted?
 
-%accordion%Soy productor y me gustaría comenzar a vender directamente a los clientes. ¿Cómo puedo usar Red Ágora?%accordion%
+%accordion%Soy productor y me gustaría comenzar a vender directamente a los clientes. 
+¿Cómo puedo usar Red Ágora?%accordion%
 
 Los productores pueden crear una tienda en línea profesional y asequible en Red Ágora, y comenzar a comerciar directamente con los clientes. Contamos con herramientas prácticas que simplifican las tareas administrativas de su tienda, como gestión de inventario, de pedidos, de clientes y más.
 
