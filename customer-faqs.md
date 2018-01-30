@@ -14,7 +14,7 @@ Si ve que una tienda está cerrada, simplemente regrese cuando su próximo ciclo
 
 #### ¿Cómo se envían los pedidos?
 
-Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o franqueo. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central \(como una escuela, ferias o lugar de trabajo\), colección de un despensa del barrio o distribución a través de un grupo de compra \(grupo de clientes\).
+Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o recoger del local. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central (como una escuela, ferias o lugar de trabajo), colección de un despensa del barrio o distribución a través de un grupo de compra (grupo de clientes). En cada caso se manejan costos distintos y cada tienda establece el precio por el servicio de manera independiente.
 
 #### ¿Cuáles son las opciones de pago?
 

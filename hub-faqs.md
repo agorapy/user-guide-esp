@@ -4,7 +4,7 @@
 
 #### ¿Opera la Red Ágora los Centros de Venta?
 
-No, la Red Ágora en realidad no opera los Centros de Venta, solo proporcionamos el software para que empresas vendedoras y productoras lo usen. Sin embargo, tenemos mucha experiencia en la administración de centros de distribución de alimentos, así que comprendemos los desafíos únicos y las necesidades que enfrentan las empresas de distribución de alimentos. Podemos ayudarle con asistencia y capacitaciones.
+No, la Red Ágora en realidad no opera las tiendas, solo proporcionamos el software para que empresas vendedoras y productoras lo usen. Cada negocio opera de manera independiente de modo que puedan administrar por sí mismo sus catálogos, pedidos, clientes y perfiles. Todas las funciones administrativas cuentan con documentación para facilitar el proceso de aprendizaje. También contamos con servicios de asistencia en caso que lo necesite.
 
 #### ¿Qué implica ser un Centro de Venta?
 
@@ -14,18 +14,12 @@ Los Centros de Venta vienen en diferentes formas y tamaños, e incluyen vendedor
 
 Creemos que la Red Ágora es especial en los siguientes aspectos:
 
-* **Trabajamos en Red**
-Red Ágora difiere de las tiendas privadas en línea en el hecho que puede conectarse en red con otras empresas. Los Centros de Venta almacenan los productos de múltiples productores y los clientes siempre pueden ver de dónde provienen sus productos.
-* **Exposición**
-Red Ágora tiene una funcionalidad de directorio, por lo que los clientes que accedan a nuestro sitio web pueden llegar a su tienda si sus ofertas coinciden con sus términos de búsqueda, o si usted se encuentra cerca de ellos. Red Ágora es un lugar único para las personas que buscan acceder a excelentes productos locales, lo que otorga a las empresas participantes la exposición a una base de clientes más amplia.
-* **Específico de la empresa alimentaria**
-Las funcionalidades de tiendas en línea de Red Ágora también están diseñadas especialmente para empresas de alimentos (y por extensión de artesanías e insumos agrícolas), por lo que le ahorra tener que desarrollar su propio software desde cero \(lo cual puede ser un proceso largo y costoso, ¡créanos!\).
-* **Flexible**
-Red Ágora funciona para cualquier tipo de negocio, desde pequeños vendedores hasta grandes organizaciones con múltiples proveedores y sistemas de distrubución. Puede configurar todo tipo de entrega y métodos de pago. Puede establecer tarifas por administración y por entregas. Puede indicar toda la información que quiera de su tienda o sus productos. Todas las funcionalidades están especialmente diseñadas para operar sin limitaciones.
-* **Espacio para crecer**
-Los Centros de Venta pueden comenzar con un perfil y luego ir creciendo fácilmente para comenzar a vender a otros, abrir su propia tienda en línea y comenzar a conectarse con un número creciente de proveedores. Una vez que tenga un perfil, puede abrir fácilmente su propia tienda y vincularse con otros grupos, como grupos de compra de clientes, algo que la mayoría de las opciones de software no pueden ofrecer.
-* **Tenemos alma**
-Red Ágora es una empresa social, de código abierto y por lo tanto de propiedad de todos y todas. Trabajamos continuamente para mejorar nuestro sistema alimentario, haciendolo más sencillo, justo y eficiente. Los ingresos se reinvierten en el software, en promocionar el servicio, en afianzar nuestra relación con nuestros clientes, en crear nuevas redes de comercialización en diferentes zonas del territorio nacional. ¡Puedes sentirte bien al formar parte de la Red!
+* **Trabajamos en Red:** Red Ágora difiere de las tiendas privadas en línea en el hecho que puede conectarse en red con otras empresas. Los Centros de Venta almacenan los productos de múltiples productores y los clientes siempre pueden ver de dónde provienen sus productos.
+* **Exposición:** Red Ágora tiene una funcionalidad de directorio, por lo que los clientes que accedan a nuestro sitio web pueden llegar a su tienda si sus ofertas coinciden con sus términos de búsqueda, o si usted se encuentra cerca de ellos. Red Ágora es un lugar único para las personas que buscan acceder a excelentes productos locales, lo que otorga a las empresas participantes la exposición a una base de clientes más amplia.
+* **Diseñado para negocios como el suyo:** Las funcionalidades de tiendas en línea de Red Ágora también están diseñadas especialmente para empresas de alimentos (y por extensión de artesanías e insumos agrícolas), por lo que le ahorra tener que desarrollar su propio software desde cero \(lo cual puede ser un proceso largo y costoso, ¡créanos!\).
+* **Flexible:** Red Ágora funciona para cualquier tipo de negocio, desde pequeños vendedores hasta grandes organizaciones con múltiples proveedores y sistemas de distrubución. Puede configurar todo tipo de entrega y métodos de pago. Puede establecer tarifas por administración y por entregas. Puede indicar toda la información que quiera de su tienda o sus productos. Todas las funcionalidades están especialmente diseñadas para operar sin limitaciones.
+* **Espacio para crecer:** Los Centros de Venta pueden comenzar con un perfil y luego ir creciendo fácilmente para comenzar a vender a otros, abrir su propia tienda en línea y comenzar a conectarse con un número creciente de proveedores. Una vez que tenga un perfil, puede abrir fácilmente su propia tienda y vincularse con otros grupos, como grupos de compra de clientes, algo que la mayoría de las opciones de software no pueden ofrecer.
+* **Creemos en un mercado más humano:** Red Ágora es una empresa con visión social, de código abierto y por lo tanto de propiedad de todos y todas. Trabajamos continuamente para mejorar nuestro sistema de comercialización, haciéndolo más sencillo, justo y eficiente. Los ingresos se reinvierten en el software, en promocionar el servicio, en afianzar nuestra relación con nuestros clientes, en crear nuevas redes de comercialización en diferentes zonas del territorio nacional. ¡Puedes sentirte bien al formar parte de la Red!
 
 #### ¿Qué es un perfil? ¿Qué es una tienda en línea? ¿Cual es la diferencia?
 
@@ -46,6 +40,10 @@ También puede utilizar su mismo dominio para insertar su tienda de Red Ágora e
 #### ¿Cómo se recibe el pago en una tienda de Red Ágora?
 
 La Red Ágora no impone un método de pago y puede usar cualquier método que funcione para usted. Las opciones de pago manejados actualmente incluyen Efectivo, Giros, Cheque y Transferencia. Estamos en proceso de incluir métodos de pago electrónicos, como tarjetas de crédito.
+
+#### ¿Qué productos pueden encontrarse en la Red Ágora?
+
+En la Red Ágora se ofrecen especialmente productos alimenticios, tanto de origen vegetal (frutas, verduras, granos, hierbas), animal (huevo, miel, carne, queso) o artesanal (harinas, panes, mermeladas, bebidas). También pueden encontrarse artesanías (tejidos, tallados, alfarería, cestería) e insumos agrícolas (semillas, plantines, abonos).
 
 #### ¿Los Centros de Venta solo venden productos orgánicos/agroecológicos?
 
