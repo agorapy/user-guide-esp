@@ -1,6 +1,7 @@
-# Producer FAQs
+# Preguntas frecuentes para los productores
 
-### Our model and what's in it for you?
+### Nuestro modelo
+
 %accordion%¿Cuál es la diferencia entre Red Ágora y otras opciones de la tienda en línea?%accordion%
 
 Creemos que la Red Ágora es especial en los siguientes aspectos:
@@ -20,7 +21,8 @@ Red Ágora puede ayudar a los agricultores a acceder a una mayor diversidad de m
 
 %/accordion%
 
-### Is the OFN suitable for you?
+### Es apropiado la Red Ágora para usted?
+
 %accordion%Soy productor y me gustaría comenzar a vender directamente a los clientes. ¿Cómo puedo usar Red Ágora?%accordion%
 
 Los productores pueden crear una tienda en línea profesional y asequible en Red Ágora, y comenzar a comerciar directamente con los clientes. Contamos con herramientas prácticas que simplifican las tareas administrativas de su tienda, como gestión de inventario, de pedidos, de clientes y más.
