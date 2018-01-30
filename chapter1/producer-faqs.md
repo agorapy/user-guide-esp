@@ -20,71 +20,52 @@ Red Ágora puede ayudar a los agricultores a acceder a una mayor diversidad de m
 
 %/accordion%
 
-%accordion%New: How much does OFN costs?%accordion%
-
-blabla
-
-%/accordion%
-
-
-%accordion%There's no OFN in our country yet, are we able to get involved with the OFN?%accordion%
-
-The OFN is operational in Australia and the UK. We have partner organisations getting local OFN’s set-up in Norway, South Africa, Germany, France, Canada, India and Brazil. We’re always looking for likeminded and capable international partner organisations to help spread the OFN to more users around the world. If you’re a producer, talk to your local food movement about the OFN to see if it could be a solution for producers in your region.
-
-%/accordion%
-
 ### Is the OFN suitable for you?
-%accordion%I'm a producer and I would like to start selling directly to customers.%accordion%
+%accordion%Soy productor y me gustaría comenzar a vender directamente a los clientes. ¿Cómo puedo usar Red Ágora?%accordion%
 
-Producers can create a professional and affordable online shop on the OFN, and begin trading direct with customers. An online store is simple to set up, taking just a few hours \(check out theset-up guidefeature list\). As well as the shopfront, an online shop also comes with handy tools which streamline the administration side of operating an online store. Click here for a full.
-
-%/accordion%
-
-%accordion%I'm a producer and I want to sell my products through a hub.%accordion%
-
-The OFN aims to facilitate producers and hubs working together and forming networks of food movement and trade. We encourage producers to search for hubs in their area \(on the OFN map\) who could be compatible trading partners \(check out their profiles\). However, the OFN doesn’t play an active role in partnering producers and hubs.
-
-To supply a hub, the producer must have a profile on the OFN and add their products to that profile. They must also make contact with the hub they wish to supply to discuss the agreement. If the hub is willing to stock the products, you can grant the hub permission to stock your products in the OFN E2E permissions. The hub can then add your products to their OFN shop front and start selling them!
+Los productores pueden crear una tienda en línea profesional y asequible en Red Ágora, y comenzar a comerciar directamente con los clientes. Contamos con herramientas prácticas que simplifican las tareas administrativas de su tienda, como gestión de inventario, de pedidos, de clientes y más.
 
 %/accordion%
 
-%accordion%I sell through farmers markets and want an online store in addition to this.%accordion%
+%accordion%Soy productor y quiero vender mis productos a través de un Centro de Venta, ¿cómo puedo hacerlo?%accordion%
 
-An OFN online store is a good addition for producers who are already doing direct sales through farmer’s markets. The online store enables customers to order in advance, for a quick pick up at the market, and to access your products outside of market times. Some producers also find that the online store is preferable for hospitality customers who cannot attend markets.
+Red Ágora tiene como objetivo facilitar que los productores y los Centro de Venta colaboren juntos y formen redes de movimiento y comercio. Alentamos a los productores a buscar Centros de Venta en su área \(ver el mapa en la Red Ágora\) que podrían ser socios comerciales compatibles \(puede revisar sus perfiles\). Sin embargo, Red Ágora no desempeña un papel activo en establecer contratos entre Productores y Centros de Venta.
 
-%/accordion%
-
-%accordion%Our farmer's market considers an online platform , to allow customers to shop from our producers outside of market day.%accordion%
-
-There are a number of potential paths you could take:
-
-1. Each farmer within the farmers market can establish their own profile and online shop on the OFN. The farmers market’s website could then promote links to these independently run shops.
-2. The farmer’s markets could create a
-   **group page**
-   on the OFN. This is an umbrella profile, which can house the profiles and stores of member producers. With a unique URL and landing page, this group site allows for collective marketing and promotions.
-3. Farmer’s market groups who are willing to cooperate and work together can establish a hub. This hub has a single shopfront offering the entire product range of participating producers. Finding a way to coordinate the logistics of incoming and outgoing products can require some creative thinking, but using the farmer’s market days as a chance to aggregate and pack orders is one simple option.
+Para proveer a un Centro de Venta, el productor debe tener un perfil en Red Ágora y agregar sus productos a ese perfil. También deben ponerse en contacto con el Centro de Venta que desea proveer para discutir el acuerdo. Si el Centro de Venta está dispuesto a almacenar sus productos, puede otorgar permiso al Centro de Venta para almacenar sus productos en los [permisos de empresa a empresa](/enterprise-to-enterprise-permissions-e2es.md). De esta manera, el Centro de Venta puede agregar sus productos a su tienda en Red Ágora y comenzar a venderlos.
 
 %/accordion%
 
+%accordion%Estoy queriendo establecer una tienda en línea para vender mis productos que normalmente vendo a través de los mercados de agricultores, ¿sería adecuada vender por Red Ágora?%accordion%
 
+Una tienda en línea en Red Ágora es una buena adición para los productores que ya están haciendo ventas directas a través de los mercados de agricultores. La tienda en línea permite a los clientes hacer pedidos por adelantado, para tener servicio de delivery o ir a recoger más cómodamente y acceder a sus productos fuera del horario del mercado. Algunos productores también encuentran que la tienda en línea es preferible para los clientes a quienes se les dificulta acceder a los mercados (como las personas adultas mayores).
 
+%/accordion%
 
+%accordion%Nuestro feria de agricultores está considerando establecer una plataforma en línea para permitir que nuestros clientes compren a nuestros productores fuera del día de la feria. ¿Cómo podríamos usar la Red Ágora para hacer esto?%accordion%
 
+Hay varios caminos potenciales que podría tomar:
 
-%accordion%I already sell my products to customers via an online shop, how can I get involved with the OFN?%accordion%
-
-You can create a profile on the OFN which links to your existing store. This will raise the visibility of your farm and allows you to connect with the audience on the OFN.
-
-Check out our feature list page, which describes the full functionalities of an OFN shopfront. Our functions and pricing are competitive, so perhaps you’d consider switching to an OFN store, and being part of the OFN movement.
-
-**Add embedded shops**
+1. Cada agricultor dentro del mercado de agricultores puede establecer su propio perfil y comprar en línea en la Red Ágora. El sitio web del mercado de agricultores podría promover enlaces a estas tiendas independientes.
+2. Los mercados de agricultores podrían crear un **grupo** en la Red Ágora. Este es un perfil que puede albergar los perfiles y las tiendas de los productores miembros. Con una URL única y una página de inicio, este sitio grupal permite promociones y marketing colectivos.
+3. Los grupos de mercado de agricultores que estén dispuestos a cooperar y trabajar juntos pueden establecer un centro. Este centro tiene una tienda única que ofrece toda la gama de productos de los productores participantes. Encontrar una forma de coordinar la logística de los productos entrantes y salientes puede requerir cierto pensamiento creativo, pero usar los días de feria como una oportunidad para agregar y empacar pedidos es una opción simple.
 
 %/accordion%
 
 
-%accordion%We have infrequent and unpredictable surplus stock which we'd like to sell.%accordion%
+%accordion%Ya estoy vendiendo mis productos directamente a través de una tienda en línea que he creado. ¿Cómo podría formar parte de la Red Ágora?%accordion%
 
-Producers with an OFN profile can add products, which hubs can then sell through their OFN shopfronts. If you have irregular surplus stock, you can talk to hubs to arrange for them to stock your produce when you have it on hand.
+Puede crear un perfil en Red Ágora que enlace con su tienda existente. Esto aumentará la visibilidad de su empresa y le permitirá conectarse con la audiencia en nuestra Red.
+
+Consulte en nuestra página de lista de funciones, que describe las funcionalidades completas de una tienda en línea en Red Ágora. Nuestras funciones y nuestros precios son competitivos, por lo que quizás considere cambiarse a nuestra plataforma y ser parte de nuestra Red.
+
+También puede utilizar su mismo dominio para insertar su tienda de Red Ágora en su sitio web, de tal modo que sus clientes puedan hacer sus pedidos desde su dominio, además de poder hacerlo desde el nuestro. Para más información sobre esta posibilidad, contáctese con nosotros a redagorapy@gmail.com. 
+
+%/accordion%
+
+
+%accordion%Tenemos stock excedentes, infrecuentes e impredecibles que nos gustaría vender, ¿cómo podríamos hacer esto a través de Red Ágora?%accordion%
+
+Los productores con un perfil en la Red Ágora pueden agregar productos, que los Centros de Venta pueden luego vender a través de sus tiendas en línea. Si tiene excedentes irregulares, puede hablar con los centros para organizar que almacenen sus productos cuando los tenga a mano.
 
 %/accordion%
 
