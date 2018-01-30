@@ -21,7 +21,7 @@ Red Ágora puede ayudar a los agricultores a acceder a una mayor diversidad de m
 
 %/accordion%
 
-### Es apropiado la Red Ágora para usted?
+### ¿Es apropiado la Red Ágora para usted?
 
 %accordion%Soy productor y me gustaría comenzar a vender directamente a los clientes. 
 ¿Cómo puedo usar Red Ágora?%accordion%
