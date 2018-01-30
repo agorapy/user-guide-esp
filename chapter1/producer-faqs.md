@@ -92,6 +92,7 @@ Red Ágora funciona como un directorio, una plataforma publicitaria y un mercado
 %accordion%¿Puedo controlar el orden en que se muestran los productos en tienda?%accordion%
 
 Sí, puede seleccionar el orden en que se mostrará cada categoría de productos en su tienda, luego dentro de cada categoría los productos se mostrarán alfabéticamente. Por ejemplo, si la carne y el pescado son sus productos más importantes, puede seleccionar que aparezcan primero, con sus productos secundarios como aceites y especias al final. Puede hacerlo en la configuración de su perfil, en "[Pedidos de categorías de tiendas directas](/your-profile.md)".
+
 %/accordion%
 
 %accordion%¿Por qué no puedo ver todos mis productos en mi tienda?%accordion%
