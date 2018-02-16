@@ -106,7 +106,7 @@ Un perfil de ejemplo se muestra a continuación.
 
 #### Propiedades \(visible solo para productores\)
 
-Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su empresa. Estas propiedades se aplicarán automáticamente a todos sus productos. Para una discusión en profundidad de las propiedades, haga clic en [aquí](/product-properties.md).
+Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su negocio. Estas propiedades se aplicarán automáticamente a todos sus productos. Para una discusión en profundidad de las propiedades, haga clic en [aquí](/product-properties.md).
 
 ---
 
