@@ -1,16 +1,16 @@
-# Configuración de la Empresa
+# Configuración de su negocio
 
-Configuración de la Empresa es donde puede administrar los detalles relacionados con su perfil y su tienda en línea.
+La configuración de negocio es donde puede administrar los detalles relacionados con su perfil y su tienda en línea.
 
 Este video le mostrará cómo acceder, editar y agregar información a su perfil en cualquier momento.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCxfNiLxwDk" frameborder="0" allowfullscreen></iframe>
 
-### Acceda a la configuración de su empresa
-1. Haga clic en 'Empresa' en el menú horizontal azul
-2. Haga clic en 'Administrar' al lado de su empresa
+### Acceda a la configuración de su negocio
+1. Haga clic en 'Negocio' en el menú horizontal azul
+2. Haga clic en 'Administrar' al lado del nombre su negocio
 
-Cada sección del menú Configuración de la Empresa se explica a continuación:
+Cada sección del menú "Configuración del negocio se explica a continuación:
 
 * ##### [Detalles primarios](#detalles-primarios)
 * ##### [Usuarios](#usuarios)
@@ -24,7 +24,7 @@ Cada sección del menú Configuración de la Empresa se explica a continuación:
 
 Secciones solo para vendedores:
 * ##### [Configuración de inventario](#inventory-settings)
-* ##### [Métodos de Envío, Métodos de Pago y Tarifas de Empresa](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
+* ##### [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
 * ##### [Reglas de Etiqueta](#tag-rules)
 * ##### [Preferencias de la tienda](#shop-preferences)
  
@@ -34,17 +34,17 @@ Secciones solo para vendedores:
 
 #### Detalles primarios
 
-**Nombre:** Este es el nombre de su empresa. Será el título de su perfil y tienda.
+**Nombre:** Este es el nombre de su negocio. Será el título de su perfil y de su tienda.
 
-**Productor principal:** Seleccione el cuadro productor si es un productor. Si su organización está involucrada en el movimiento local de alimentos en otra manera, no seleccione esta casilla \(por ejemplo, vendedores, centro de alimentos, cooperativa, mercado de agricultores, grupo de consumo\).
+**Productor principal:** Seleccione el cuadro "productor" si es un productor. 
 
-> Nota: solo las empresas marcadas como productoras pueden agregar productos a la Red Ágora. Los vendedores solo necesitan seleccionar esta opción cuando venden cajas mixtas que empaquetan, que incluyen artículos de múltiples productores.
+> Nota: solo los negocios marcados como productores pueden agregar productos a la Red Ágora. Los vendedores solo necesitan seleccionar esta opción cuando venden cajas mixtas que empaquetan, que incluyen artículos de múltiples productores.
 
 **Visible en la búsqueda:** Si su perfil está listo para ser público, seleccione visible, y se mostrará en el directorio y mapa de la Red Ágora. Si todavía está haciendo ajustes, seleccione no visible, hasta que esté listo.
 
 **Enlace permanente:** Puede personalizar parte de la dirección web que alojará su tienda.
 
-**Enlace a Shop Front:** Esta es la dirección web de su tienda en Red Ágora \(esta opción solo está visible si ha elegido un paquete con tienda en línea\). Puedes personalizar la URL arriba.
+**Enlace a su tienda online:** Esta es la dirección web de su tienda en Red Ágora \(esta opción solo está visible para los perfils que tienen una tienda online\). Puedes personalizar la dirección web arriba.
 
 ---
 
@@ -58,7 +58,7 @@ Secciones solo para vendedores:
 
 #### Dirección
 
-Esta información se utiliza para asignar a su empresa el mapa de Red Ágora.
+Esta información se utiliza para asignar a su negocio el mapa en Red Ágora.
 
 ---
 
@@ -66,7 +66,7 @@ Esta información se utiliza para asignar a su empresa el mapa de Red Ágora.
 
 **Nombre de contacto:** Solicitamos un nombre de contacto para los registros de Red Ágora. Este nombre no se mostrará en su perfil, pero se incluirá en los correos electrónicos de confirmación de pedido si está ejecutando una tienda.
 
-**Correo electrónico, teléfono y sitio web:** Estos puntos de contacto se incluirán en su perfil de Red Ágora y su tienda, como medio para que otros se comuniquen con usted.
+**Correo electrónico, teléfono y sitio web:** Estos datos de contacto se incluirán en su perfil de Red Ágora y su tienda, como medio para que otros se comuniquen con usted.
 
 ---
 
@@ -94,9 +94,9 @@ Esta información se utiliza para asignar a su empresa el mapa de Red Ágora.
 
 #### Imágenes
 
-** Imagen del logotipo: ** Esto estará visible cuando su perfil se vea brevemente, como una ventana emergente. También se mostrará en tu perfil. Esta imagen debe ser cuadrada, o será recortada / deformada.
+** Imagen del logotipo: ** Esto estará visible cuando su perfil se vea brevemente, como una ventana emergente. También se mostrará en su perfil. Esta imagen debe ser cuadrada, o será recortada / deformada.
 
-** Imagen promocional: ** Esta imagen se ejecutará horizontalmente en la parte superior de su página de perfil. Debe tener un tamaño de 1200 x 260 píxeles.
+** Imagen promocional: ** Esta imagen se mostrará horizontalmente en la parte superior de su página de perfil. Debe tener un tamaño de 1200 x 260 píxeles.
 
 Un perfil de ejemplo se muestra a continuación.
 
@@ -104,7 +104,7 @@ Un perfil de ejemplo se muestra a continuación.
 
 ---
 
-#### Properties \(visible solo para productores\)
+#### Propiedades \(visible solo para productores\)
 
 Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su empresa. Estas propiedades se aplicarán automáticamente a todos sus productos. Para una discusión en profundidad de las propiedades, haga clic en [aquí](/product-properties.md).
 
