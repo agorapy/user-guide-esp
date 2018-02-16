@@ -1,22 +1,22 @@
-###### Getting started
+###### Primeros pasos
 
-Take these 4 steps to create your personalized profile and get started on the Open Food Network.  
-> 30 minutes
+Siga estos 4 pasos para crear su perfil personalizado y comenzar a usar la plataforma de la Red Ágora. 
+> Tiempo estimado de lectura: 30 minutos
 
-## Steps for creating and editing a profile:
+## Pasos para crear y editar un perfil:
 
-1. [Create your profile.](/create-an-account.md)
-2. [Choose a package.](/hub-profile-types.md)
-3. [Edit your profile](/your-profile.md)  
-    on the OFN with your basic information, contact details and pictures.
+1. [Cree su perfil.](/create-an-account.md)
+2. [Elija un paquete.](/hub-profile-types.md)
+3. [Edite su perfil](/your-profile.md)  
+    con su información básica, detalles de contacto y fotos.
 
-4. [Head to your ‘Dashboard’](/the-dashboard.md)  
-    \(the administration side of your new account\).
+4. [Dirígete a tu 'Tablero'](/the-dashboard.md)  
+    \(donde puede administrar su nueva cuenta\).
 
-**You're set up!**  
-You will now have a space to tell the story of your enterprise and to help drive connections to your social and online presence.
+**¡Ya está configurado!**  
+Ahora tendrá un espacio para contar la historia de su empresa y para ayudarlo a establecer contactos con su presencia social y en línea.
 
-It's also the first step towards trading on the Open Food Network, or opening an online store.
+También este es el primer paso para comerciar en la plataforma de la Red Ágora y para abrir una tienda en línea.
 
 
 

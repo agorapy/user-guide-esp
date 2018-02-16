@@ -42,3 +42,5 @@ You can now [view your orders](/view-orders.md), [get detailed reports](/reports
 * [Pricing irregular items such as meat](/pricing-irregular-indivisible-meat-items.md)
 * [Opening more than one order cycle](/opening-more-than-one-order-cycle.md).
 
+
+
