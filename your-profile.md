@@ -110,13 +110,13 @@ Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su 
 
 ---
 
-> Nota: Los siguientes campos solo están visibles para los usuarios que han optado por tener una tienda en línea. Esto incluye las tiendas de producción de productores y las tiendas de ejecución central.
+> Nota: Los siguientes campos solo están visibles para los usuarios que han optado por tener una tienda en línea.
 
 ---
 
 #### Configuración de inventario
 
-> Esta sección no es visible para usuarios que no tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda virtual
 
 Los usuarios simples pueden usar la configuración recomendada. Los usuarios avanzados que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [Inventario](/inventory.md) de esta guía antes de cambiar la configuración.
 
@@ -124,7 +124,7 @@ Los usuarios simples pueden usar la configuración recomendada. Los usuarios ava
 
 #### Métodos de envío, métodos de pago y tarifas empresariales
 
-> Esta sección no es visible para usuarios que no tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda virtual
 
 Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.md) y [Tarifas de Empresa](/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este documento de manual de usuario.
 
@@ -132,7 +132,7 @@ Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.
 
 #### Reglas de etiqueta
 
-> Esta sección no es visible para usuarios que no tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda virtual
 
 Puede controlar la configuración de las etiquetas de los clientes creando reglas de etiquetas. Para obtener más información al respecto, consulte [Cuentas de Clientes y Etiquetado](/customer-accounts-and-tagging.md).
 
@@ -140,7 +140,7 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 
 #### Preferencias de la tienda
 
-> Esta sección no es visible para usuarios que no tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda virtual
 
 **Shopfront Message**: este mensaje es opcional. Se mostrará en la parte superior de su tienda en línea, encima de las listas de productos. Es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo se estructuran sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o la oportunidad de promocionar especiales. Un ejemplo a continuación:
 
