@@ -1,6 +1,5 @@
-# Orders
-
-* Create an order manually for your customer from the back end. [Read more](/create-orders.md)
+# Pedidos
+* Cree un pedido manualmente para su cliente desde el panel de administración [Leer más](/create-orders.md)
 
 
 
