@@ -40,17 +40,17 @@ Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambi
 
 **Precio** 
 
-7. Ingrese el precio del valor indicado arriba.
+7. Ingrese el precio del producto especificado arriba.
 
 > Remember, this is the cost price charged by the producer. Mark-ups and fees are added in Enterprise Fees, Shipping Fees and Payment Methods.
 
-> Recuerde, este es el precio de costo cobrado por el productor. Los recargos y las tarifas se agregan Tarifas de Empresa, Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
+> Recuerde, este es el precio de costo cobrado por el productor. Los recargos y las tarifas se agregan en "Tarifas de Negocio", Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
 
-**En Stock**
+**Cantidad disponible**
 
 8. Indique cuánto de este producto tiene disponible y listo para la venta.
 
-> Use este campo si desea rastrear sus niveles de inventario. A medida que los clientes hacen pedidos, el nivel de stock se reducirá, y cuando la cantidad disponible llegue a cero, el producto ya no será visible en su tienda. Si no desea rastrear el inventario de esta manera, haga clic en 'Bajo demanda'.
+> Use este campo si desea rastrear sus niveles de inventario. A medida que los clientes hacen pedidos, el nivel del stock se reducirá, y cuando la cantidad disponible llegue a cero, el producto ya no será visible en su tienda. Si no desea rastrear el inventario de esta manera, haga clic en 'Bajo demanda'.
 
 **Bajo demanda**
 
@@ -66,19 +66,17 @@ Si selecciona esta casilla, indicará que este producto está siempre disponible
 
 > Recomendamos encarecidamente tomar imágenes claras y precisas de sus productos. Evitar en lo posible utilizar imágenes que comúnmente se encuentran en Intenet. Esto aumentará las posibilidades de venta.
 
-**Tax category**
+**IVA**
 
-11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. La empresa productora debe estar configurada para cargar IVA en la configuración de perfil para hacer esto. Si deja este campo en blanco, o selecciona **ninguno** , o no configura la empresa como registrada legalmente, el precio no incluirá IVA.
+11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. La empresa productora debe estar configurada para cargar IVA en la configuración de perfil. Si deja este campo en blanco, o selecciona **ninguno** , o no configura la empresa como registrada legalmente, el precio no incluirá IVA.
 
 ### Listado de productos
 
 Nota: Si tienes dos o más productos que son muy similares, pero que solo varían en cuanto a precio, tamaño o sabor, lo mejor es crear una "variante" para ese producto, en lugar de crear productos múltiples y separados. Por ejemplo, si vende limones por Gs 500 cada uno, o 5 por Gs 2.000, puede crear dos variantes para su producto 'limones', uno para cada combinación de precio / cantidad. O puede vender dos sabores de mermelada: de frutilla o durazno. Cada sabor debe ser una 'variante' del producto general. La creación de variantes de productos se analiza con mayor profundidad [aquí](/product-variants.md).
 
-Una vez que haya completado un producto, haga clic en **Crear** , o si desea agregar más, haga clic en **Crear y agregar otro**.
+Una vez que haya completado un producto, haga clic en **Crear** , o si desea agregar más productos, haga clic en **Crear y agregar otro**.
 
-When you click **create**,  you will be taken to your **Bulk Edit Product **page, where you will see a summary of all of your products.
-
-Cuando haga clic en crear , irá a su página **Editar varios productos**, donde verá un resumen de todos sus productos.
+Cuando haga clic en crear, irá a su página **Editar varios productos**, donde verá un resumen de todos sus productos.
 
 ## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png "Editar varios productos")
 
