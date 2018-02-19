@@ -1,4 +1,4 @@
-# Order Cycles for Hubs
+# Ciclos de pedidos para Centros de Venta
 
  > *No eres un vendedor/a si no un productor/a? Ve a [Ciclo de Pedidos para productores](/order-cycles-for-producers.md).
 
@@ -8,9 +8,9 @@ Usted abre su tienda al público creando un Ciclo de Pedido. Cuando realiza un C
 
 Algunos centros pueden desear tener una tienda en línea que esté abierta permanentemente, y cumplir órdenes uno a uno a medida que se reciben. Sin embargo, muchas tiendas operan en un sistema de pedidos periódico, lo que les permite procesar pedidos en grupos, haciendo que sus actividades de empaque y distribución sean más eficientes. Usemos un ejemplo para ilustrar una estructura de ciclo de ordenamiento periódico común.
 
-Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de sus productos para la semana. En base a esta información, crearán un ciclo de pedido para el lunes por la tarde y abrirán su tienda. Los clientes pueden hacer pedidos en su tienda hasta que el ciclo de pedidos se cierre el miércoles a la medianoche. El jueves, todos los pedidos pueden ser empacados por la tienda y preparados para la entrega el viernes. La semana siguiente el ciclo comenzará de nuevo y con la creación de un nuevo Ciclo de Pedidos. Al estructurar los ciclos de pedidos de esta manera, y al tratar con pedidos en grupos, las tiendas pueden hacer que sus actividades de ordenamiento, clasificación, embalaje y transporte sean mucho más eficientes que si procesaran las órdenes individualmente a medida que se colocan.
+Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de sus productos para la semana. En base a esta información, crearán un ciclo de pedido para el lunes por la tarde y abrirán su tienda. Los clientes pueden hacer pedidos en su tienda hasta que el ciclo de pedidos se cierre el miércoles a la medianoche. El jueves, todos los pedidos pueden ser empacados por la tienda y preparados para la entrega el viernes. La semana siguiente el ciclo comenzará de nuevo y con la creación de un nuevo Ciclo de Pedidos. Al estructurar los ciclos de pedidos de esta manera, y al tratar con pedidos en grupos, las tiendas pueden hacer que sus actividades de ordenamiento, clasificación, embalaje y transporte sean mucho más eficientes que si procesaran las órdenes individualmente a medida que se solicitan.
 
-## 1. Aceder a Ciclos de Pedidos
+## 1. Acceder a Ciclos de Pedidos
 
 Puede crear un ciclo de pedido y ver ciclos de pedido anteriores haciendo clic en **Administrar ciclos de pedido** en su panel principal.
 
@@ -28,15 +28,15 @@ A continuación se muestra la primera etapa para crear un ciclo de pedido.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png "Establecer el Coordinador del Ciclo de Pedido")
 
-Seleccione el coordinador del ciclo de pedido. La empresa que coordina un ciclo de pedido tiene plenos poderes y permisos para editar y administrar un ciclo de pedido. Otras empresas involucradas (como proveedores o distribuidores) tienen capacidades restringidas para editar un ciclo de pedido (para obtener más información, haga clic [aquí](/permissions-in-multi-enterprise-order-cycles.md)). Después de seleccionar al coordinador, el ciclo de pedido se restringirá según quién haya otorgado permiso a este coordinador para agregarlos a un ciclo de orden (P-OC). Para obtener más información sobre los permisos de Empresa a Empresa, vaya [aquí](/enterprise-to-enterprise-permissions-e2es.md).
+Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo de pedido tiene plenos poderes y permisos para editar y administrar un ciclo de pedido. Otros negocios involucrados (como proveedores o distribuidores) tienen capacidades restringidas para editar un ciclo de pedido (para obtener más información, haga clic [aquí](/permissions-in-multi-enterprise-order-cycles.md)). Después de seleccionar al coordinador, el ciclo de pedido se restringirá según quién haya otorgado permiso a este coordinador para agregarlos a un ciclo de orden (P-OC). Para obtener más información sobre los permisos de Empresa a Empresa, vaya [aquí](/enterprise-to-enterprise-permissions-e2es.md).
 
 **Nombre:** Escriba un nombre para el ciclo de pedido que sea significativo para usted. Le recomendamos que siga un protocolo de nombres consistente, por ejemplo, MiTienda_Semana27_2018. También le recomendamos que incluya el nombre de su tienda en el nombre del ciclo de pedido, de modo que la asistencia de Red Ágora pueda identificar sus ciclos de pedido si necesita ayuda.
 
 **Apertuda de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
 
-**Cierre de los pedidos:** Esta es la fecha en que su tienda OFN se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
+**Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Añadir cargos de coordinador:** Como tienda, lo más probable es que usted sea el coordinador. Aquí puede aplicar su Tarifa de Empresa para cobrar tarifas que guarden relación con la coordinación. La tarifa se calculará de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md). Solo puede aplicar una tarifa empresarial que se haya creado previamente.
+**Añadir cargos de coordinador:** Como tienda, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación con la coordinación. La tarifa se calculará de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md). Solo puede aplicar una tarifa del negocio que se haya creado previamente.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "Campos para un Nuevo Ciclo de Pedido")
 

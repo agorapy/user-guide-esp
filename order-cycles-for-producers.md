@@ -1,8 +1,8 @@
-# Order cycles (for Producers)
+# Ciclos de pedidos para productores
 
 > ¿No eres un productor/a, si no un Vendedor/a? Go to [Ciclos de pedidos para Vendedores](/order-cycles.md).
 
-Muchos productores, que están vendiendo pequeñas cantidades de productos, pueden encontrar útil tener un ciclo de pedidos perpetuamente abierto y cumplir con los pedidos individualmente a medida que llegan. A otros productores, que venden grandes cantidades de productos, a múltiples clientes, les resulta útil establecer ciclos periódicos de pedidos, que se cumplen colectivamente al final de un período. Por ejemplo, un agricultor puede tener un ciclo de pedido abierto (aceptando pedidos) durante dos semanas. Al final de este ciclo de pedido, todos los pedidos se empaquetan, ordenan y distribuyen al mismo tiempo. Una vez que se ha cumplido este lote de pedidos, se abre un nuevo ciclo de pedido. La estructuración de ciclos de órdenes de esta manera puede hacer que las tareas de empaque y entrega sean más eficientes.
+Muchos productores, que están vendiendo pequeñas cantidades de productos, pueden encontrar útil tener un ciclo de pedidos perpetuamente abierto y cumplir con los pedidos individualmente a medida que llegan. A otros productores, que venden grandes cantidades de productos, a múltiples clientes, les resulta útil establecer ciclos periódicos de pedidos, que se cumplen colectivamente al final de un periodo. Por ejemplo, un agricultor puede tener un ciclo de pedido abierto (aceptando pedidos) durante dos semanas. Al final de este ciclo de pedido, todos los pedidos se empaquetan, ordenan y distribuyen al mismo tiempo. Una vez que se ha cumplido este lote de pedidos, se abre un nuevo ciclo de pedido. La estructuración de ciclos de pedidos de esta manera puede hacer que las tareas de empaque y entrega sean más eficientes.
 
 ## 1. Acceso a los Ciclos de Pedido
 Acceda a Ciclos de pedido desde el menú horizontal en la parte superior de la página.
@@ -14,9 +14,9 @@ Acceda a Ciclos de pedido desde el menú horizontal en la parte superior de la p
 
 **Nombre:** Escriba un nombre para el ciclo de pedido que sea significativo para usted. Le recomendamos que siga un protocolo de nombres consistente, por ejemplo, MiTienda_Semana27_2018. También le recomendamos que incluya el nombre de su tienda en el nombre del ciclo de pedido, de modo que la asistencia de Red Ágora pueda identificar sus ciclos de pedido si necesita ayuda.
 
-**Apertuda de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
+**Apertura de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
 
-**Cierre de los pedidos:** Esta es la fecha en que su tienda OFN se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
+**Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
 El cuadro **Listo para (fecha/hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Friday 9th' en una tienda.
 
