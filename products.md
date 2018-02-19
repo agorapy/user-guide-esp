@@ -22,17 +22,17 @@ Esto lo llevará a la página para crear un Producto nuevo.
 
 **Unidad:**
 
-4. ¿En qué unidad de medida se vende el producto? (g, kg, L, o item (unidad, docena, paquete))
+4. ¿En qué unidad de medida se vende el producto? (g, kg, L, o item (unidad, docena, paquete)
 
-**Valor**
+**Cantidad de presentación**
 
-5. Elija en qué valor se vende el producto (es decir, 100g, 2L, 1 paquete)
+5. Elija la cantidad en que se vende el producto (es decir, 100g, 2L, 1 paquete)
 
 **Mostrar como**
 
-Este campo muestra automáticamente cómo se mostrarán los campos de Unidad y Valor, una vez que los haya completado (por ejemplo, Unidad = kg, Valor = 2, Mostrar como = 2kg).
+Este campo hace una pre visualización de los campos de Unidad y Valor, una vez que los haya completado (por ejemplo, Unidad = kg, Cantidad de presentación = 2, Mostrar como = 2kg).
 
-Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambiará a **Nombre de Item** . Complete esto con el tipo de artículo que es (por ejemplo, docena, unidad o paquete).
+Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambiará a **Nombre de Item**. Complete esto con el tipo de artículo que es (por ejemplo, docena, unidad o paquete).
 
 **Categoría del producto**
 

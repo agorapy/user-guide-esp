@@ -142,18 +142,18 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 
 > Esta sección es visible solo para usuarios que tienen una tienda virtual
 
-**Shopfront Message**: este mensaje es opcional. Se mostrará en la parte superior de su tienda en línea, encima de las listas de productos. Es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo se estructuran sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o la oportunidad de promocionar especiales. Un ejemplo a continuación:
+**Mensaje de la tienda en línea**: este mensaje es opcional. Se mostrará en la parte superior de su tienda en línea, encima de las listas de productos. Es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo se estructuran sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o la oportunidad de dar a conocer promociones especiales. Un ejemplo a continuación:
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png "Mensaje de Tienda")
 
-**Mensaje cerrado de Shopfront**: este mensaje se mostrará cuando su tienda virtual esté cerrado \(sin ciclos de pedidos abiertos\). Es una oportunidad para contarles a los clientes cómo funcionan sus pedidos y cuándo se abrirá la tienda y aceptarán pedidos.
+**Mensaje "cerrado"**: este mensaje se mostrará cuando su tienda en línea esté cerrada \(sin ciclos de pedidos abiertos\). Es una oportunidad para contarles a los clientes cómo funcionan sus pedidos y cuándo se abrirá la tienda y aceptarán pedidos.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png "tienda cerrada")
 
 **¿Tienda en línea visible?**: si selecciona "público", cualquier comprador podrá ver su tienda. Si selecciona 'visible solo para clientes registrados', se les pedirá a los compradores que accedan a su tienda que inicien sesión, y solo aquellos usuarios que estén en su lista de clientes tendrán acceso a su tienda.
 
-**Pedidos de invitados?**: si selecciona "permitir pedidos de invitados", los compradores no necesitarán iniciar sesión en el Red Ágora para comprar de su tienda. Si desea que los compradores inicien sesión antes de que puedan realizar su pedido, seleccione 'requerir inicio de sesión para hacer pedido'. Tenga en cuenta que la configuración de Pedidos Invitados no es aplicable si ha elegido 'visible solo para clientes registrados' en la configuración anterior.
+**¿Pedidos de invitados?**: si selecciona "permitir pedidos de invitados", los compradores no necesitarán iniciar sesión en la Red Ágora para comprar de su tienda. Si desea que los compradores inicien sesión antes de que puedan realizar su pedido, seleccione 'requerir inicio de sesión para hacer pedido'. Tenga en cuenta que la configuración de Pedidos Invitados no es aplicable si ha elegido 'visible solo para clientes registrados' en la configuración anterior.
 
-**Ordenamiento de categoría de la tienda**: los productos dentro de su tienda están ordenados alfabéticamente, dentro de su categoría de producto. Puede ordenar las categorías de productos como desee que aparezcan, de arriba a abajo en su tienda. Por ejemplo, es posible que desee que sus productos de carne y pescado aparezcan en la parte superior, con sus Pickles & Conservas menos importantes apareciendo al final de la lista.
+**Ordenamiento de categoría de la tienda**: los productos dentro de su tienda están ordenados alfabéticamente, dentro de su categoría de producto. Puede ordenar las categorías de productos como desee que aparezcan, de arriba a abajo en su tienda. Por ejemplo, es posible que desee que sus productos de carne y pescado aparezcan en la parte superior, y sus conservas menos importantes apareciendo al final de la lista.
 
-**Ordenar ciclos de pedido en la tienda en línea:** Si su shopfront tendrá [más de un ciclo de pedido abierto al mismo tiempo](/opening-more-than-one-order-cycle.md) puede seleccionar el orden en el que aparecen en la tienda. Puede ordenarlos por fecha de cierre \(primero los que cierran más pronto\) o fecha de apertura \(primero los que abrieron más pronto\).
+**Ordenar ciclos de pedido:** Si su tienda en línea tendrá [más de un ciclo de pedido abierto al mismo tiempo](/opening-more-than-one-order-cycle.md) puede seleccionar el orden en el que aparecen en la tienda. Puede ordenarlos por fecha de cierre \(primero los que cierran más pronto\) o fecha de apertura \(primero los que abrieron más pronto\).
