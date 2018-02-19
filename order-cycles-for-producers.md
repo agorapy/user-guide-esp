@@ -1,6 +1,6 @@
 # Ciclos de pedidos para productores
 
-> ¿No eres un productor/a, si no un Vendedor/a? Go to [Ciclos de pedidos para Vendedores](/order-cycles.md).
+> Si no eres un productor/a, sino un vendedor/a ve a [Ciclos de pedidos para Vendedores](/order-cycles.md).
 
 Muchos productores, que están vendiendo pequeñas cantidades de productos, pueden encontrar útil tener un ciclo de pedidos perpetuamente abierto y cumplir con los pedidos individualmente a medida que llegan. A otros productores, que venden grandes cantidades de productos, a múltiples clientes, les resulta útil establecer ciclos periódicos de pedidos, que se cumplen colectivamente al final de un periodo. Por ejemplo, un agricultor puede tener un ciclo de pedido abierto (aceptando pedidos) durante dos semanas. Al final de este ciclo de pedido, todos los pedidos se empaquetan, ordenan y distribuyen al mismo tiempo. Una vez que se ha cumplido este lote de pedidos, se abre un nuevo ciclo de pedido. La estructuración de ciclos de pedidos de esta manera puede hacer que las tareas de empaque y entrega sean más eficientes.
 
@@ -18,7 +18,7 @@ Acceda a Ciclos de pedido desde el menú horizontal en la parte superior de la p
 
 **Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-El cuadro **Listo para (fecha/hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Friday 9th' en una tienda.
+El cuadro **Listo para (fecha/hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Viernes 9' en una tienda.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "Campo 'Listo para'")
 
@@ -32,9 +32,7 @@ El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico 
 
 **Productos:** debe seleccionar los productos que serán visibles en su tienda en línea durante este ciclo de pedido. Recuerde, si agrega productos nuevos después de que un ciclo de pedido está en curso, deberá seleccionarlos aquí.
 
-**Fees:** There is the option of adding a coordinator fee. Here you can apply an enterprise fee that has been created for your enterprise. This function is most relevant to producers and hubs who are working in partnership. It allows an administration fee to be distributed to the party who is responsible for coordinating orders. Most often, this is not relevant to single producers selling their own products.
-
-**Tarifas:** Existe la opción de agregar una tarifa de coordinador. Aquí puede aplicar una tarifa de empresa que se haya creado para su empresa. Esta función es más relevante para productores y vendedores que trabajan en asociación. Permite que se distribuya una tarifa de administración a la parte que es responsable de coordinar los pedidos. Muy a menudo, esto no es relevante para productores individuales que venden sus propios productos.
+**Tarifas:** Existe la opción de agregar una tarifa de coordinador. Aquí puede aplicar una tarifa del negocio que se haya creado para su empresa. Esta función es más relevante para productores y vendedores que trabajan en asociación. Permite que se distribuya una tarifa de administración a la parte que es responsable de coordinar los pedidos. Muy a menudo, esto no es relevante para productores individuales que venden sus propios productos.
 
 ## 3. Abra su tienda en línea
 
