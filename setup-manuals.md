@@ -49,21 +49,27 @@ _
 **Centro de Venta (Sólo perfil)
 ** Un perfil en la Red Ágora es la opción más simple, y ofrece una camino para que los negocios se promocionen. El perfil se puede utilizar para promocionar productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted.
 
-  > Crear un [Perfil](/getting-started.md)
+[  > Crear un [Perfil](/getting-started.md)](getting-started.md)
 
 * ** vender productos de otros ** productores con una tienda en línea.
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
-### I am a Farmers market
-
-and I want to:
-
-* help my stallholders to create profiles and setup shops on OFN
+### Soy un mercado de agricultores (Feria)
 
   > choose one of the Producer options for each farm
 
 * house the producer profiles and shops together on one group page
+
+
+y quiero:
+
+* ayudar a mis clientes a crear perfiles y configurar tiendas en la Red Ágora
+
+> seleccionar opciones de configuración para cada productor/a
+
+* albergue los perfiles de productores y las tiendas juntas en una página de grupo
+
 
   > Get a [group page](/farmers-market.md)
 
