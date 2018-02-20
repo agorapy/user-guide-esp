@@ -25,9 +25,9 @@ Quiero...
 
   > Crear una [Tienda en Línea](/producer-set-up-guide.md).
 
-* **sell my own & other** producers' goods with an online shop.
+* ** vender mis propios productos y de otros ** productos de productores con una tienda en línea.
 
-  > Get a [Producer Hub](/hubs-set-up-guide.md).
+  > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
 %accordion%What is a Producer Hub?%accordion%
 
