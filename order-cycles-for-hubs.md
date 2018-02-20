@@ -6,9 +6,9 @@ Usted abre su tienda al público creando un Ciclo de Pedido. Cuando realiza un C
 
 **Por qué Ciclos de Pedidos?**
 
-Algunos centros pueden desear tener una tienda en línea que esté abierta permanentemente, y cumplir órdenes uno a uno a medida que se reciben. Sin embargo, muchas tiendas operan en un sistema de pedidos periódico, lo que les permite procesar pedidos en grupos, haciendo que sus actividades de empaque y distribución sean más eficientes. Usemos un ejemplo para ilustrar una estructura de ciclo de ordenamiento periódico común.
+Algunos centros pueden desear tener una tienda en línea que esté abierta permanentemente, y cumplir pedidos uno a uno a medida que se reciben. Sin embargo, muchas tiendas operan en un sistema de pedidos periódico, lo que les permite procesar pedidos en grupos, haciendo que sus actividades de empaque y distribución sean más eficientes. Usemos un ejemplo para ilustrar una estructura de ciclo de ordenamiento periódico común.
 
-Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de sus productos para la semana. En base a esta información, crearán un ciclo de pedido para el lunes por la tarde y abrirán su tienda. Los clientes pueden hacer pedidos en su tienda hasta que el ciclo de pedidos se cierre el miércoles a la medianoche. El jueves, todos los pedidos pueden ser empacados por la tienda y preparados para la entrega el viernes. La semana siguiente el ciclo comenzará de nuevo y con la creación de un nuevo Ciclo de Pedidos. Al estructurar los ciclos de pedidos de esta manera, y al tratar con pedidos en grupos, las tiendas pueden hacer que sus actividades de ordenamiento, clasificación, embalaje y transporte sean mucho más eficientes que si procesaran las órdenes individualmente a medida que se solicitan.
+Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de sus productos para la semana. En base a esta información, crearán un ciclo de pedido para el lunes por la tarde y abrirán su tienda. Los clientes pueden hacer pedidos en su tienda en línea hasta que el ciclo de pedidos se cierre el miércoles a la medianoche. El jueves, todos los pedidos pueden ser empacados por la tienda y preparados para la entrega el viernes. La semana siguiente el ciclo comenzará de nuevo y con la creación de un nuevo Ciclo de Pedidos. Al estructurar los ciclos de pedidos de esta manera, y al tratar con pedidos en grupos, las tiendas pueden hacer que sus actividades de ordenamiento, clasificación, embalaje y transporte sean mucho más eficientes que si procesaran las órdenes individualmente a medida que se solicitan.
 
 ## 1. Acceder a Ciclos de Pedidos
 
@@ -36,7 +36,9 @@ Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo 
 
 **Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Añadir cargos de coordinador:** Como tienda, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación con la coordinación. La tarifa se calculará de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md). Solo puede aplicar una tarifa del negocio que se haya creado previamente.
+**Añadir cargos de coordinador:** Como tienda en línea, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación con la coordinación. La tarifa adicional se obtendrá de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md).
+
+> Solo puede aplicar una tarifa del negocio que se haya creado previamente.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-order-cycle-3.png "Campos para un Nuevo Ciclo de Pedido")
 
@@ -50,7 +52,7 @@ La sección **Entrante** es donde puede seleccionar los productores y sus produc
 
 Los campos **Detalles de recepción** son opcionales. Si desea utilizar el botón **Notificar a Productores**, para enviar pedidos a sus productores proveedores, debe escribir sus instrucciones de recibo de stock aquí (más información en la sección **Notificar Productores** en la parte inferior de esta página).
 
-El botón **Agregar tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada OrderAdmin al Producer of Fruit.
+El botón **Agregar tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada OrdenAdministrador al Productor de Fruta.
 
 Esta tarifa se aplicará a todos los productos de este Productor. La tarifa se obtiene de acuerdo con la calculadora de tarifas que se seleccionó cuando la creó en [Tarifa de Empresa](/enterprise-fees.md).
 
@@ -58,7 +60,7 @@ Esta tarifa se aplicará a todos los productos de este Productor. La tarifa se o
 
 ### 4. Saliente: seleccionar distribuidor
 
-Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda virtual creada a partir de este ciclo de pedido. Los productos que son seleccionados serán visibles para el público y podrán hacerse pedidos desde su tienda. En modelos de tiendas simples, solo hay un distribuidor, la tienda en sí. Por lo tanto, seleccione la tienda en la columna del distribuidor y luego seleccione todos los productos que deberían estar visibles en la tienda en línea durante este ciclo de pedido. Los modelos de tiendas más complejos pueden tener varios distribuidores, en cuyo caso cada uno se selecciona como distribuidor y, en consecuencia, en cada uno se creará un tienda virtual con los productos seleccionados que estarán visibles para recibir pedidos.
+Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda virtual creada a partir de este ciclo de pedido. Los productos que son seleccionados serán visibles para el público y podrán hacerse pedidos desde su tienda en línea. En modelos de tiendas simples, solo hay un distribuidor, la tienda en sí. Por lo tanto, seleccione la tienda en la columna del distribuidor y luego seleccione todos los productos que deberían estar visibles en la tienda en línea durante este ciclo de pedido. Los modelos de tiendas más complejos pueden tener varios distribuidores, en cuyo caso cada uno se selecciona como distribuidor y, en consecuencia, en cada uno se creará un tienda virtual con los productos seleccionados que estarán visibles para recibir pedidos.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Sección Saliente")
 
@@ -107,8 +109,8 @@ Resumen de pedidos
 Aquí hay un resumen de los pedidos de sus productos:
 
 <Total de pedidos de productos en este ciclo de pedidos (ejemplo a continuación)> 
-- Productor de carne - Pierna de cordero (congelada) (1,5 kg) (CANT .: 1) @ Gs 22.500 = Gs 22.500 
-- Productor de carne - Embutidos (100 g) (CANT .: 3 ) @ Gs 3.000 = Gs 9.000
+- Productor de hortalizas - Zanahoria (500 g) (CANT .: 3) @ Gs 3.000 = Gs 9.000 
+- Productor de lácteos - Queso Py (500 g) (CANT .: 1 ) @ Gs 20.000 = Gs 10.000
 
 Gracias y mis mejores deseos
 
