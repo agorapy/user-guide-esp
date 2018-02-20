@@ -1,27 +1,27 @@
-# Choose your Setup Manual
-To help you navigate the user guide, we've created setup manuals based on who you are and what you want to do with the Open Food Network. Find that manual that best suits your needs below.
+# Elija su manual de configuración
+Para ayudarle a navegar por la guía del usuario, hemos creado manuales de configuración en función de quién es usted y qué quiere presentar en la Red Ágora. Encuentre el manual que mejor se adapte a sus necesidades a continuación:
 
 ![](/assets/foodproducersandhubs.jpg)
 
-Firstly, are you a **producer**? Do you make, brew, grow, bake or raise food? If yes, see the section:
+En primer lugar, ¿eres un ** productor/a **? ¿Haces, mezclas, cultivas, horneas o elaboras alimentos? Si es así, mira la sección:
 * ##### [Producers](#i-am-a-producer)
 
-If not, you are called a '**Hub**', meaning that you aren't directly creating food, but may be selling, distributing or aggregating food. Follow on to the section:
+Si no, se te llama '** Centro de Venta **', lo que significa que no estás creando directamente comida, sino que puedes estar vendiendo, distribuyendo o agregando alimentos. Siga a la sección:
 * ##### [Hubs](#i-am-a-hub)
 
-### I am a Producer
-_A producer is anyone who makes, brews, grows, bakes or raises food.
+### Soy productor/a
+_Un productor/a es quien hace, mezcla, cultiva, hornea o elabora alimentos.
 _
-I want to...
+Quiero...
 
-* **be visible** in the OFN's directory and present myself. I do not \(yet\) wish to sell my produce via an OFN online shop.
+* ** ser visible ** en el directorio de la Red Ágora y presentarme. No \ (todavía\) deseo vender mis productos a través de una tienda en línea.
 
-  > Get a [Producer Profile](/getting-started.md).
+  > Obtener un [Perfil de productor/a](/getting-started.md).
   
-* **supply my produce **to a shop on the OFN that's operated by someone else (I'm a supplier).
+* ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor).
   > Get a [Producer Profile](/getting-started.md).
 
-* **sell my own goods** with my own online shop on OFN.
+* ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora.
 
   > Get a [Producer Shop](/producer-set-up-guide.md).
 
