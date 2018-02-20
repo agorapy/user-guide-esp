@@ -33,16 +33,16 @@ Quiero...
 
 Su negocio es la columna vertebral de su sistema alimentario local. Puede vender sus propios productos y producir agregados de otras negocios a través de su tienda en línea de la Red Ágora.
 
-### I am a Hub
-_A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops._ 
+### Soy un Centro de Venta
 
-See the Hub section below, 
-or get a more specific guide, if you are a:
-  * ##### [farmers market](#i-am-a-farmers-market)
-  * ##### [multi-farm shop](#i-am-a-farmers-market)
-  * ##### [pre-order only multi farm](#i-am-a-farmers-market)
-  * ##### [buying group](#i-am-a-buying-group)
+_Un Centro de Venta agrega y vende alimentos producidos por otros, por ej. minoristas, distribuidores, tiendas, _
 
+Vea la sección Hub a continuación,
+u obtener una guía más específica, si usted es un:
+* ##### [mercado de agricultores] (# i-am-a-farmers-market)
+* ##### [multi-farm shop] (# i-am-a-farmers-market)
+* ##### [pre-orden solo multi-granja] (# i-am-a-farmers-market)
+* ##### [grupo de compra] (# i-am-a-buying-group)
 
 _
 
