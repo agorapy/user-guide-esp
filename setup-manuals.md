@@ -19,11 +19,11 @@ Quiero...
   > Crear un [Perfil](/getting-started.md).
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor).
-  > Get a [Producer Profile](/getting-started.md).
+  > Crear un [Perfil](/getting-started.md).
 
 * ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora.
 
-  > Get a [Producer Shop](/producer-set-up-guide.md).
+  > Crear una [Tienda en Línea](/producer-set-up-guide.md).
 
 * **sell my own & other** producers' goods with an online shop.
 
