@@ -37,20 +37,18 @@ Su negocio es la columna vertebral de su sistema alimentario local. Puede vender
 
 _Un Centro de Venta agrega y vende alimentos producidos por otros, por ej. minoristas, distribuidores, tiendas, _
 
-Vea la sección Hub a continuación,
-u obtener una guía más específica, si usted es un:
-* ##### [mercado de agricultores] (# i-am-a-farmers-market)
-* ##### [multi-farm shop] (# i-am-a-farmers-market)
-* ##### [pre-orden solo multi-granja] (# i-am-a-farmers-market)
-* ##### [grupo de compra] (# i-am-a-buying-group)
+Vea la sección Centro de Venta a continuación,
+u obtenga una guía más específica, si usted es:
+* ##### [Mercado de agricultores] (# i-am-a-farmers-market)
+* ##### [Tienda de múltiples granjas] (# i-am-a-farmers-market)
+* ##### [Tienda de múltiples granjas de sólo pedido] (# i-am-a-farmers-market)
+* ##### [Grupo de compra] (# i-am-a-buying-group)
 
 _
 
-#### Hub
-**Hub (Profile only)
+#### Centro de Venta
+**Centro de Venta (Sólo perfil)
 **A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
-
-
 
 * Only **be visible** in the OFN's directory. I do not \(yet\) wish to sell via OFN. 
   > Get a Hub Profile
