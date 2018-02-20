@@ -29,11 +29,9 @@ Quiero...
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
-%accordion%What is a Producer Hub?%accordion%
+What is a Producer Hub?
 
 Your enterprise is the backbone of your local food system. You can sell your own produce as well as produce aggregated from other enterprises through your shopfront on the Open Food Network. _NB: To be completed with more info. _
-
-%/accordion%
 
 ### I am a Hub
 _A Hub is anyone who aggregates and sells food that's produced by others, E.g. retailers, distributors, hubs, coops._ 
