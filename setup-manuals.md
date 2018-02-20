@@ -29,10 +29,6 @@ Quiero...
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
-What is a Producer Hub?
-
-Your enterprise is the backbone of your local food system. You can sell your own produce as well as produce aggregated from other enterprises through your shopfront on the Open Food Network. _NB: To be completed with more info. _
-
 ¿Qué es un Centro de Venta?
 
 Su negocio es la columna vertebral de su sistema alimentario local. Puede vender sus propios productos y producir agregados de otras negocios a través de su tienda en línea de la Red Ágora.
