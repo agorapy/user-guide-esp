@@ -79,4 +79,4 @@ y quiero:
 y quiero:
 
 * tener una tienda en línea para almacenar artículos de mis diversos proveedores
-> Crear un [Centro de Compra](/buying-group.md)
+> Crear un [Grupo de Compra](/buying-group.md)
