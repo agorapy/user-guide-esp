@@ -4,10 +4,10 @@ Para ayudarle a navegar por la guía del usuario, hemos creado manuales de confi
 ![](/assets/foodproducersandhubs.jpg)
 
 En primer lugar, ¿eres un ** productor/a **? ¿Haces, mezclas, cultivas, horneas o elaboras alimentos? Si es así, mira la sección:
-* ##### [Producers](#i-am-a-producer)
+* ##### [Productor/a](#i-am-a-producer)
 
 Si no, se te llama '** Centro de Venta **', lo que significa que no estás creando directamente comida, sino que puedes estar vendiendo, distribuyendo o agregando alimentos. Siga a la sección:
-* ##### [Hubs](#i-am-a-hub)
+* ##### [Centro de Venta](#i-am-a-hub)
 
 ### Soy productor/a
 _Un productor/a es quien hace, mezcla, cultiva, hornea o elabora alimentos.
@@ -29,11 +29,11 @@ Quiero...
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
+### Soy un Centro de Venta
+
 ¿Qué es un Centro de Venta?
 
 Su negocio es la columna vertebral de su sistema alimentario local. Puede vender sus propios productos y producir agregados de otras negocios a través de su tienda en línea de la Red Ágora.
-
-### Soy un Centro de Venta
 
 _Un Centro de Venta agrega y vende alimentos producidos por otros, por ej. minoristas, distribuidores, tiendas, _
 
@@ -43,22 +43,17 @@ u obtenga una guía más específica, si usted es:
 * ##### [Tienda de múltiples granjas] (# i-am-a-farmers-market)
 * ##### [Tienda de múltiples granjas de sólo pedido] (# i-am-a-farmers-market)
 * ##### [Grupo de compra] (# i-am-a-buying-group)
-
 _
 
 #### Centro de Venta
 **Centro de Venta (Sólo perfil)
-**A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
+** Un perfil en la Red Ágora es la opción más simple, y ofrece una camino para que los negocios se promocionen. El perfil se puede utilizar para promocionar productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted.
 
-* Only **be visible** in the OFN's directory. I do not \(yet\) wish to sell via OFN. 
-  > Get a Hub Profile
-* **Sell** goods with an online shop on OFN
-  > Get a [Hub Shop](/hubs-set-up-guide.md)
+  > Crear un [Perfil](/getting-started.md)
 
+* ** vender productos de otros ** productores con una tienda en línea.
 
-A profile on the OFN is the simplest option, and offers a way for enterprises to market themselves. The profile can be used to promote products and services, share your story and provide contact details. A profile makes you visible and contactable to customers and other enterprises who might wish to trade with you.
-
-%/accordion%
+  > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
 ### I am a Farmers market
 
