@@ -16,7 +16,7 @@ Quiero...
 
 * ** ser visible ** en el directorio de la Red Ágora y presentarme. No \ (todavía\) deseo vender mis productos a través de una tienda en línea.
 
-  > Obtener un [Perfil de productor/a](/getting-started.md).
+  > Crear un [Perfil](/getting-started.md).
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor).
   > Get a [Producer Profile](/getting-started.md).
