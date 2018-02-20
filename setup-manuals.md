@@ -57,32 +57,26 @@ _
 
 ### Soy un mercado de agricultores (Feria)
 
-  > choose one of the Producer options for each farm
-
-* house the producer profiles and shops together on one group page
-
-
 y quiero:
 
 * ayudar a mis clientes a crear perfiles y configurar tiendas en la Red Ágora
 
-> seleccionar opciones de configuración para cada productor/a
+  > Crear un [Perfil](/getting-started.md)
 
-* albergue los perfiles de productores y las tiendas juntas en una página de grupo
+* albergar los perfiles de productores y las tiendas juntas en una página de grupo
 
-
-  > Get a [group page](/farmers-market.md)
+  > Crear un [Grupo](/farmers-market.md)
 
 * sell the entire product range of all our producers together via a single online shop.
 
   > Establish a [Farmer's market Hub](/farmers-market.md)
 
-### I am a Buying group
+* vender toda la gama de productos de todos nuestros productores juntos a través de una única tienda en línea.
 
-and want to:
+> Crear un [Centro de Venta para Feria](/farmers-market.md)
 
-* have an online shop to stock items from my various suppliers
-  > You suit a [Hub Shop](/buying-group.md)
+### Soy un grupo de compra
+y quiero:
 
-
-
+* tener una tienda en línea para almacenar artículos de mis diversos proveedores
+> Crear un [Centro de Compra](/buying-group.md)
