@@ -23,7 +23,7 @@
   * [Enterprise Fees](enterprise-fees.md)
   * [Order Cycles \(for Hubs\)](order-cycles.md)
   * [Ciclos de pedidos \(para productores/as\)](order-cycles-for-producers.md)
-  * [View Orders](view-orders.md)
+  * [Ver pedidos](view-orders.md)
   * [Reports](get-reports.md)
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
