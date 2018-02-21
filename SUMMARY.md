@@ -1,6 +1,6 @@
 # Summary
 
-* [Open Food Network User Guide](README.md)
+* [Manual del usuario de la Red Ágora](README.md)
 * [Setup Manuals](model-specific-setup-instructions.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Shop\)](producer-set-up-guide.md)
