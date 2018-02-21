@@ -10,7 +10,7 @@ Hemos reunido manuales de configuración únicos que proporcionan una guía de c
 ## Buscar
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
 
-## Explore nuestras funciones básicas y avanzadas.
+## Explore nuestras funciones básicas y avanzadas
 El contenido de esta guía está separado en las características básicas y características avanzadas. Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
 
 ## Preguntas frecuentes
