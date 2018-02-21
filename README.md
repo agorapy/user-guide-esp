@@ -14,7 +14,7 @@ Hemos reunido manuales de configuración únicos que proporcionan una guía de c
 El contenido de esta guía está separado en las características básicas y características avanzadas. Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
 
 ## Preguntas frecuentes
-Hemos reunido algunas preguntas frecuentes que podrían responder algunas preguntas que tenga.
+Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para comprenda más claramente cómo realizar las configuraciones de su tienda en línea.
