@@ -57,7 +57,7 @@
   * [Orders](ordres.md)
     * [Create an Order](create-orders.md)
 * [FAQs](chapter1.md)
-  * [Preguntas Frecuentes para el Consumidor](chapter1/customer-faqs.md)
-  * [Preguntas Frecuentes para el Productor](chapter1/producer-faqs.md)
-  * [Preguntas Frecuentes para los Centros de Venta](chapter1/hub-faqs.md)
+  * [Costumer faqs](chapter1/customer-faqs.md)
+  * [Producer faqs](chapter1/producer-faqs.md)
+  * [Hubs faqs](chapter1/hub-faqs.md)
 
