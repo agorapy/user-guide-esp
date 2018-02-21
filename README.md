@@ -3,7 +3,7 @@
 Esta guía de usuario proporciona información para los productores/as y centros de ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
 
 ## Encuentre el Manual de configuración adecuado para usted
-Hemos reunido [manuales de configuración](/setup-manuals.md) únicos que proporcionan una guía de configuración específica dependiendo de quién es usted y cómo desea utilizar la Red Ágora. Eche un vistazo a nuestros manuales de configuración para encontrar el que sea adecuado para usted.
+Hemos reunido manuales de configuración únicos que proporcionan una guía de configuración específica dependiendo de cómo desea utilizar la Red Ágora. Eche un vistazo a nuestros manuales de configuración para encontrar el que sea adecuado para usted.
 
 > Ver los [Manuales de configuración](/setup-manuals.md)
 
