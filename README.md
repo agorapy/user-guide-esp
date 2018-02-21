@@ -17,5 +17,5 @@ El contenido de esta guía está separado en las características básicas y car
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
 ## Glosario
-Explicamos los términos técnicos que usamos en este manual para comprenda más claramente cómo realizar las configuraciones de su tienda en línea.
+Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita.
 
