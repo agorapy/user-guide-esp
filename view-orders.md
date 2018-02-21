@@ -1,4 +1,4 @@
-# Pedidos
+# Ver pedidos
 
 Puede interactuar con pedidos a través de dos páginas dentro de la Red Ágora, la página Listado de Pedidos y la página de Gestión de Pedidos Masivos. Las características de estas dos páginas se analizarán a continuación.
 
