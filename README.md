@@ -1,4 +1,4 @@
-# Manual de usuario de Red Ágora
+# Manual de usuario de la Red Ágora
 
 Esta guía de usuario proporciona información para los productores/as y centros de ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
 
