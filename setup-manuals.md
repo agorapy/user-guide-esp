@@ -14,18 +14,18 @@ _Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos._
 
 y quiero... 
 
-* ** ser visible ** en el directorio de la Red Ágora y presentarme. No \(todavía\) deseo vender mis productos a través de una tienda en línea.
+* ** ser visible ** en el directorio de la Red Ágora y presentarme. No \(todavía\) deseo vender mis productos a través de una tienda en línea
 
   > Crear un [Perfil](/getting-started.md).
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor).
-  > Crear un [Perfil](/getting-started.md).
+  > Crear un [Perfil](/getting-started.md)
 
-* ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora.
+* ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora
 
   > Crear una [Tienda en Línea](/producer-set-up-guide.md).
 
-* ** vender mis propios productos y de otros ** productos de productores con una tienda en línea.
+* ** vender mis propios productos y de otros ** productos de productores con una tienda en línea
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md).
 
