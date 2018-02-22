@@ -18,7 +18,7 @@ y quiero...
 
   > Crear un [Perfil](/getting-started.md)
   
-* ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor).
+* ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor)
   > Crear un [Perfil](/getting-started.md)
 
 * ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora
