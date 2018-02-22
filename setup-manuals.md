@@ -23,11 +23,11 @@ y quiero...
 
 * ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora
 
-  > Crear una [Tienda en Línea](/producer-set-up-guide.md).
+  > Crear una [Tienda en Línea](/producer-set-up-guide.md)
 
 * ** vender mis propios productos y de otros ** productos de productores con una tienda en línea
 
-  > Crear un [Centro de Venta](/hubs-set-up-guide.md).
+  > Crear un [Centro de Venta](/hubs-set-up-guide.md)
 
 ### Soy un Centro de Venta
 
