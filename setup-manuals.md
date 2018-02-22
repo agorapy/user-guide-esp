@@ -3,10 +3,10 @@ Para ayudarle a navegar por la guía del usuario, hemos creado manuales de confi
 
 ![](/assets/foodproducersandhubs.jpg)
 
-En primer lugar, ¿eres un ** productor/a **? ¿Haces, mezclas, cultivas, horneas o elaboras alimentos? Si es así, mira la sección:
+En primer lugar, ¿eres un ** productor/a **? ¿Produces, mezclas, cultivas, horneas o elaboras alimentos? Si es así, mira la sección:
 * ##### [Productor/a](#i-am-a-producer)
 
-Si no, se te llama '** Centro de Venta **', lo que significa que no estás creando directamente comida, sino que puedes estar vendiendo, distribuyendo o agregando alimentos. Siga a la sección:
+Si no, se te llama '** Centro de Venta **', lo que significa que no estás produciendo directamente alimentos, sino que puedes estar vendiendo o distribuyendo. Siga a la sección:
 * ##### [Centro de Venta](#i-am-a-hub)
 
 ### Soy productor/a
