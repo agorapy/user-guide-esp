@@ -37,10 +37,10 @@ _Un Centro de Venta puede vender sus propios productos y también los de otros p
 
 Vea la sección Centro de Venta a continuación u obtenga una guía más específica, si usted es:
 
-* ##### [Mercado de agricultores] (# i-am-a-farmers-market)
-* ##### [Tienda de múltiples granjas] (# i-am-a-farmers-market)
-* ##### [Tienda de múltiples granjas de sólo pedido] (# i-am-a-farmers-market)
-* ##### [Grupo de compra] (# i-am-a-buying-group)
+* ##### [Mercado de agricultores](#i-am-a-farmers-market)
+* ##### [Tienda de múltiples granjas](#i-am-a-farmers-market)
+* ##### [Tienda de múltiples granjas de sólo pedido](#i-am-a-farmers-market)
+* ##### [Grupo de compra](#i-am-a-buying-group)
 
 #### Centro de Venta
 **Centro de Venta (Sólo perfil)
