@@ -25,7 +25,7 @@ y quiero...
 
   > Crear una [Tienda en Línea](/producer-set-up-guide.md)
 
-* ** vender mis propios productos y de otros ** productos de productores con una tienda en línea
+* ** vender mis propios productos y productos de otros productores ** con una tienda en línea
 
   > Crear un [Centro de Venta](/hubs-set-up-guide.md)
 
