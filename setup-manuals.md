@@ -10,9 +10,9 @@ Si no, se te llama '** Centro de Venta **', lo que significa que no estás produ
 * ##### [Centro de Venta](#i-am-a-hub)
 
 ### Soy productor/a
-_Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos
+_Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos_
 
-y quiero... _
+y quiero... 
 
 * ** ser visible ** en el directorio de la Red Ágora y presentarme. No \(todavía\) deseo vender mis productos a través de una tienda en línea.
 
