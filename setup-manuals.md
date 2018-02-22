@@ -33,7 +33,7 @@ y quiero...
 
 ¿Qué es un Centro de Venta?
 
-Su negocio es la columna vertebral de su sistema alimentario local. Puede vender sus propios productos y producir agregados de otras negocios a través de su tienda en línea de la Red Ágora.
+Su negocio es la columna vertebral de su sistema alimentario local. Puede vender sus propios productos también los de otros productores y otros negocios a través de su tienda en línea de la Red Ágora.
 
 _Un Centro de Venta agrega y vende alimentos producidos por otros, por ej. minoristas, distribuidores, tiendas, _
 
