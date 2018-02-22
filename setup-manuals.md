@@ -14,7 +14,7 @@ _Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos
 
 y quiero... _
 
-* ** ser visible ** en el directorio de la Red Ágora y presentarme. No \ (todavía\) deseo vender mis productos a través de una tienda en línea.
+* ** ser visible ** en el directorio de la Red Ágora y presentarme. No \(todavía\) deseo vender mis productos a través de una tienda en línea.
 
   > Crear un [Perfil](/getting-started.md).
   
