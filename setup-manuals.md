@@ -1,5 +1,5 @@
 # Elija su manual de configuración
-Para ayudarle a navegar por la guía del usuario, hemos creado manuales de configuración en función de quién es usted y qué quiere realizar en la Red Ágora. Encuentre el manual que mejor se adapte a sus necesidades a continuación:
+Para ayudarle a navegar por la guía del usuario, hemos creado manuales de configuración en función de qué quiere realizar en la Red Ágora. Encuentre el manual que mejor se adapte a sus necesidades a continuación:
 
 ![](/assets/foodproducersandhubs.jpg)
 
