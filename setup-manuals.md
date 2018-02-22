@@ -33,7 +33,7 @@ y quiero...
 
 ¿Qué es un Centro de Venta?
 
-Un Centro de Venta puede vender sus propios productos también los de otros productores y otros negocios a través de su tienda en línea de la Red Ágora.
+Un Centro de Venta puede vender sus propios productos y también los de otros productores a través de su tienda en línea de la Red Ágora.
 
 _Un Centro de Venta agrega y vende alimentos producidos por otros, por ej. minoristas, distribuidores, tiendas, _
 
