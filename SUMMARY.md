@@ -11,7 +11,7 @@
   * [Buying Group](buying-group.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
-* [Basic Features](basic-features.md)
+* [Funcionalidades básicas](basic-features.md)
   * [Regístrese y cree su perfil](create-an-account.md)
   * [Tipos de paquete](hub-profile-types.md)
   * [Configuración de su negocio](your-profile.md)
