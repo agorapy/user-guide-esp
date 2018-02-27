@@ -17,6 +17,7 @@ El contenido de esta guía está separado en las características básicas y car
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
 > [Centros de Ventas](/hub-faqs.md)
+
 > [Productor/a](/producer-faqs.md)
 
 ## Glosario
