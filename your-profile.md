@@ -116,9 +116,9 @@ Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su 
 
 #### Configuración de inventario
 
-> Esta sección es visible solo para usuarios que tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda en línea.
 
-Los usuarios simples pueden usar la configuración recomendada. Los usuarios avanzados que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [Inventario](/inventory.md) de esta guía antes de cambiar la configuración.
+Los usuario con sólo "perfil" pueden usar la configuración recomendada. Los usuarios con tiendas en línea que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [Inventario](/inventory.md) de esta guía antes de cambiar la configuración.
 
 ---
 
