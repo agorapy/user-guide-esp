@@ -73,7 +73,7 @@ Si realiza cambios en el pedido de un cliente, es posible que desee volver a env
 
 Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF o enviarla a una impresora.
 
-**Enviará la factura**
+**Enviar la factura**
 
 Para enviar una factura al cliente, haga clic en el botón 'enviar factura'. Esto enviará un correo electrónico al cliente con un archivo PDF adjunto. El diseño de la factura se muestra a continuación.
 
