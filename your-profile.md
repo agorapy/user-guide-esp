@@ -36,7 +36,7 @@ Secciones solo para vendedores/a:
 
 **Nombre:** Este es el nombre de su negocio. Será el título de su perfil y de su tienda.
 
-**Productor principal:** Seleccione el cuadro "productor" si es un productor. 
+**Productor/a principal:** Seleccione el cuadro "productor" si es un productor. 
 
 > Nota: solo los negocios marcados como productores pueden agregar productos a la Red Ágora. Los vendedores solo necesitan seleccionar esta opción cuando venden cajas mixtas que empaquetan, que incluyen artículos de múltiples productores.
 
