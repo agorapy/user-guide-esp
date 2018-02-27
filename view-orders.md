@@ -20,7 +20,7 @@ La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Pue
 
 * Completo: el cliente finalizó la compra
 * Cancelado: si el administrador edita el pedido y elige 'cancelarlo'
-* Carro: El cliente está en proceso de compra, pero no se confirmado aún.
+* Carrito: El cliente está en proceso de compra, pero no se confirmado aún.
 
 Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su pedido al momento del pago. Pase el mouse sobre el signo de exclamación para ver la nota.
 
