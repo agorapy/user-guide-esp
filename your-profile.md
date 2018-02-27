@@ -50,7 +50,7 @@ Secciones solo para vendedores/a:
 
 #### Usuarios
 
-**Propietario:** Este es el usuario principal responsable de esta empresa.
+**Propietario/a:** Este es el usuario principal responsable de esta empresa.
 
 **Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
 
