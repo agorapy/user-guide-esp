@@ -54,11 +54,11 @@ Secciones solo para vendedores/a:
 
 **Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
 
-**Administrador:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
+**Administrador/a:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador/a como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores/as. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
 
 #### Dirección
 
-Esta información se utiliza para asignar a su negocio el mapa en Red Ágora.
+Esta información se utiliza para agregar su negocio al mapa de la Red Ágora.
 
 ---
 
