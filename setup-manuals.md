@@ -19,21 +19,26 @@ y quiero...
   > Crear un [Perfil](/getting-started.md)
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor)
+
   > Crear un [Perfil de productor/a](/getting-started.md)
 
 * ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora
 
-  > Crear una [Tienda en Línea](/producer-set-up-guide.md)
+  > Crear una [Tienda en Línea de Productor/a](/producer-set-up-guide.md)
+
+* ** ser visible en la Red Ágora con mis propios productos y productos de otros productores ** con una tienda en línea
+
+  > Crear un [Perfil para Centro de Venta](/hubs-set-up-guide.md)
 
 * ** vender mis propios productos y productos de otros productores ** con una tienda en línea
 
-  > Crear un [Centro de Venta](/hubs-set-up-guide.md)
+  > Crear una [Tienda en línea para Centro de Venta](/hubs-set-up-guide.md)
 
 ### Soy un Centro de Venta
 
 ¿Qué es un Centro de Venta?
 
-_Un Centro de Venta puede vender sus propios productos y también los de otros productores a través de su tienda en línea de la Red Ágora._
+_Un Centro de Venta puede vender sus propios productos y también los de otros productores/as a través de su tienda en línea de la Red Ágora._
 
 Vea la sección Centro de Venta a continuación u obtenga una guía más específica, si usted es:
 
