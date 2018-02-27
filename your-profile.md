@@ -138,7 +138,7 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 
 ---
 
-#### Preferencias de la tienda
+#### Preferencias de la tienda en línea
 
 > Esta sección es visible solo para usuarios que tienen una tienda virtual
 
