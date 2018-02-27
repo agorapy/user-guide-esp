@@ -10,7 +10,7 @@ La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Pue
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listado de Pedidos")
 
-**Distribuidor:** Esta es la empresa desde cuya tienda se realizó el pedido.
+**Distribuidor:** Este es el negocio desde cuya tienda en línea se realizó el pedido.
 
 **Completado el:** Esta es la fecha en que se realizó el pedido.
 
