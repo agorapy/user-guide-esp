@@ -9,9 +9,9 @@ Paquetes de productor/a
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Three-producer-types.png)
 
 1. **Perfil del productor/a: conéctese a través de la Red Ágora:**
-Esta opción le permite crear un perfil en la Red Ágora. Su perfil es una forma de compartir su historia con otros y lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted. Un productor/a con un perfil también puede agregar productos, que pueden almacenarse en otras tiendas de la Red Ágora.
+Esta opción le permite crear un perfil en la Red Ágora. Su perfil es una forma de compartir su historia con otros y lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted. Un productor/a con un perfil también puede agregar productos, que pueden almacenarse en otras tiendas en línea de la Red Ágora.
 
-2. **Tienda del Productor/a: venda sus propio productos:**
+2. **Tienda del productor/a: venda sus propios productos:**
 Esta opción permite a los productores/as crear su propia tienda en línea en Red Ágora a través del cual vender sus productos. Tenga en cuenta que los productores pueden realizar ventas a través de su propia tienda y, al mismo tiempo, actuar como proveedor de otra tienda.
 
 3. **Productor/a y Vendedor/a: vende tus propios productos y los de otros:**
@@ -24,7 +24,7 @@ Paquetes de Vendedor/a
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Two-hub-types.png "Dos opciones de tipo de vendedor")
 
 1. **Solo perfil:**
-Esta opción le permite crear un perfil en la Red Ágora. Su perfil es una forma de compartir su historia con otros y lo hace visible y contactable con clientes y otras empresas que deseen comerciar con usted.
+Esta opción le permite crear un perfil en la Red Ágora. Su perfil es una forma de compartir su historia con otros y lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted.
 
 2. **Tienda del Vendedor/a**
 Esta opción le proporciona, además de un perfil desde donde darse a conocer, una tienda en línea completa desde donde podrá vender sus productos.
