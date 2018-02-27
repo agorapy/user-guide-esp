@@ -26,7 +26,7 @@ Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su 
 
 **Estado de Pago:**
 
-* Pago Pendiente: si se trata de efectivo, o transferencia bancaria o EFTPOS, el pedido será 'saldo adeudado' por defecto, hasta que el administrador indique que se ha recibido el pago.
+* Pago pendiente: si se trata de efectivo, o transferencia bancaria o EFTPOS, el pedido será 'saldo adeudado' por defecto, hasta que el administrador indique que se ha recibido el pago.
 * Pagado: si se paga mediante algún medio de pago electrónico, esto se actualizará automáticamente a 'pagado' después del pago. Si el pago se ha indicado manualmente como si hubiera ocurrido, el estado también será 'pagado'.
 * Crédito adeudado: si alguien ha pagado su pedido, pero luego edita su pedido y elimina un artículo, el costo de ese artículo se convierte en "crédito adeudado".
 
