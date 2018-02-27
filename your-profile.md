@@ -122,11 +122,11 @@ Los usuario con sólo "perfil" pueden usar la configuración recomendada. Los us
 
 ---
 
-#### Métodos de envío, métodos de pago y tarifas empresariales
+#### Métodos de envío, métodos de pago y tarifas del negocio
 
 > Esta sección es visible solo para usuarios que tienen una tienda en línea.
 
-Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.md) y [Tarifas de Empresa](/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este documento de manual de usuario.
+Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.md) y [tarifas del negocio](/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este documento de manual de usuario.
 
 ---
 
