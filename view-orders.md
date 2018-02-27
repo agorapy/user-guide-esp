@@ -32,7 +32,7 @@ Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su 
 
 **Estado de entrega:**
 
-* Pendiente: cuando el estado de pago es 'Pago pendiente', el estado de envío estará pendiente, lo que significa que hasta que se reciba el pago, el envío no debe comenzar.
+* Pendiente: cuando el estado de pago es 'pago pendiente', el estado de envío estará pendiente, lo que significa que hasta que se reciba el pago, el envío no debe comenzar.
 * Listo: cuando se ha recibido el pago (estado pagado o acreditado), el estado de envío se convierte en "listo".
 * Enviado: cuando el producto ha sido editado y se ha hecho clic en el botón 'enviar', el estado se vuelve "Enviado".
 
