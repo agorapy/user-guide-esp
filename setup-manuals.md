@@ -26,14 +26,10 @@ y quiero...
 
   > Crear una [Tienda en Línea de Productor/a](/producer-set-up-guide.md)
 
-* ** ser visible en la Red Ágora con mis propios productos y productos de otros productores ** con una tienda en línea
-
-  > Crear un [Perfil para Centro de Venta](/hubs-set-up-guide.md)
-
 * ** vender mis propios productos y productos de otros productores ** con una tienda en línea
 
-  > Crear una [Tienda en línea para Centro de Venta](/hubs-set-up-guide.md)
-
+  > Crear un [Centro de Venta para Productor/a](/hubs-set-up-guide.md)
+  
 ### Soy un Centro de Venta
 
 ¿Qué es un Centro de Venta?
