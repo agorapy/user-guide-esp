@@ -20,6 +20,8 @@ Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus
 
 > [Productor/a](/producer-faqs.md)
 
+> [Consumidor/a](/costumer-faqs.md)
+
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita.
 
