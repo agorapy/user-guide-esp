@@ -16,6 +16,8 @@ El contenido de esta guía está separado en las características básicas y car
 ## Preguntas frecuentes
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
+> [Centros de Ventas](/hub-faqs.md)
+
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita.
 
