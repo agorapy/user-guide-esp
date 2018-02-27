@@ -118,13 +118,13 @@ Puede aplicar propiedades \(como orgánico, agroecológico, convencional\) a su 
 
 > Esta sección es visible solo para usuarios que tienen una tienda en línea.
 
-Los usuario con sólo "perfil" pueden usar la configuración recomendada. Los usuarios con tiendas en línea que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [Inventario](/inventory.md) de esta guía antes de cambiar la configuración.
+Los usuario con sólo "perfil" pueden usar la configuración recomendada. Los usuarios con tiendas en línea que necesiten una mayor flexibilidad con la administración del producto deben consultar la página [inventario](/inventory.md) de esta guía antes de cambiar la configuración.
 
 ---
 
 #### Métodos de envío, métodos de pago y tarifas empresariales
 
-> Esta sección es visible solo para usuarios que tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda en línea.
 
 Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.md) y [Tarifas de Empresa](/enterprise-fees.md) se tratan con mayor detalle en los capítulos posteriores de este documento de manual de usuario.
 
