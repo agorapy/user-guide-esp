@@ -34,7 +34,7 @@ Ya completó los detalles básicos de su perfil.
 
 1. Habrá recibido un correo electrónico solicitando 'Confirme la dirección de correo electrónico'. Abra el correo electrónico y haga clic en el enlace para confirmar que su correo electrónico sea correcto.
 
-2. Cuando inicie sesión por primera vez en Red Ágora, se le pedirá que seleccione qué tipo de perfil desea. [Conozca más sobre los tipos de perfiles aquí.] (/ Hub-profile-types.md)
+2. Cuando inicie sesión por primera vez en Red Ágora, se le pedirá que seleccione qué tipo de perfil desea. [Conozca más sobre los tipos de perfiles aquí.](/Hub-profile-types.md)
 
 Su perfil no será visible en la Red Ágora hasta que confirme su correo electrónico y seleccione un tipo de perfil.
 
