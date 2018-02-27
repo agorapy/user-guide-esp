@@ -65,10 +65,6 @@ y quiero:
 
   > Crear un [Grupo](/farmers-market.md)
 
-* sell the entire product range of all our producers together via a single online shop.
-
-  > Establish a [Farmer's market Hub](/farmers-market.md)
-
 * vender toda la gama de productos de todos nuestros productores juntos a través de una única tienda en línea.
 
 > Crear un [Centro de Venta para Feria](/farmers-market.md)
