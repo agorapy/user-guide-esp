@@ -132,7 +132,7 @@ Los métodos de [entregas](/shipping-methods.md) y [de pago](/payment-methods-2.
 
 #### Reglas de etiqueta
 
-> Esta sección es visible solo para usuarios que tienen una tienda virtual
+> Esta sección es visible solo para usuarios que tienen una tienda en línea.
 
 Puede controlar la configuración de las etiquetas de los clientes creando reglas de etiquetas. Para obtener más información al respecto, consulte [Cuentas de Clientes y Etiquetado](/customer-accounts-and-tagging.md).
 
