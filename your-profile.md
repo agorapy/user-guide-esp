@@ -22,7 +22,7 @@ Cada sección del menú "Configuración del negocio se explica a continuación:
 * ##### [Imágenes](#imágenes)
 * ##### [Propiedades](#propiedades) (sólo para productores)
 
-Secciones solo para vendedores:
+Secciones solo para vendedores/a:
 * ##### [Configuración de inventario](#inventory-settings)
 * ##### [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
 * ##### [Reglas de Etiqueta](#tag-rules)
