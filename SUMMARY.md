@@ -3,7 +3,7 @@
 * [Manual del usuario de la Red Ágora](README.md)
 * [Manuales de configuración](setup-manuals.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
-  * [Producer \(Producer hub\)](producer-set-up-guide.md)
+  * [Producer \(Producer shop\)](producer-set-up-guide.md)
   * [Hub \(Profile Only\)](hub-profile-only.md)
   * [Hub \(Shop\)](hubs-set-up-guide.md)
   * [Multi-Producer Shop](multi-farm-shop.md)
