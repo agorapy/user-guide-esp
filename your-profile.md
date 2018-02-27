@@ -44,7 +44,7 @@ Secciones solo para vendedores/a:
 
 **Enlace permanente:** Puede personalizar parte de la dirección web que alojará su tienda.
 
-**Enlace a su tienda online:** Esta es la dirección web de su tienda en Red Ágora \(esta opción solo está visible para los perfils que tienen una tienda online\). Puedes personalizar la dirección web arriba.
+**Enlace a su tienda online:** Esta es la dirección web de su tienda en Red Ágora \(esta opción solo está visible para los perfiles que tienen una tienda en línea\). Puedes personalizar la dirección web arriba.
 
 ---
 
