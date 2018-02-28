@@ -32,7 +32,7 @@
   * [Products](products-adv.md)
     * [Product variants](product-variants.md)
     * [Pricing irregular items \(kg\)](pricing-irregular-indivisible-meat-items.md)
-    * [Product properties](product-properties.md)
+    * [Propiedades de productos](product-properties.md)
     * [Inventory tool](inventory.md)
     * [Group Buy - for bulk ordering](group-buy.md)
   * [Shop Setup](shop-setup-adv.md)
