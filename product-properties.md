@@ -1,7 +1,5 @@
 # Propiedades del producto \(ej. orgánico certificado, rango libre, etc.\)
   
-You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
-
 Puede aplicar propiedades a sus productos, como una forma de que sus clientes conozcan más sobre cómo se producen y cuáles son sus características. Las propiedades actuales del producto que se pueden aplicar incluyen:
 
 * Regional
@@ -14,18 +12,19 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 
 * Naturalmente Madurado
 * Sin conservantes
-* Orgánico-Certificado
+* Orgánico - Certificado
 * Orgánico: no certificado
 * Rango libre
-* Biodinámico - certificado
+* Biodinámico - Certificado
 
-_\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
+_\* Si desea aplicar una propiedad del producto que no se encuentra aquí, póngase en contacto y consideraremos la posibilidad de crear una nueva, si hay una gran demanda._
 
-There are two ways to assign properties to your products:
+Hay dos formas de asignar propiedades a sus productos:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this propoerty \(unless it’s manually removed, which is covered in the **“Inherited Properties” **section below\).
 
-2\) You can assign properties to particular products, on an individual basis.
+Hay dos formas de asignar propiedades a sus produ1 \) Puede asignar una propiedad al negocio, de modo que todos los productos pertenecientes a él llevarán esta propiedad \ (a menos que se elimine manualmente, que se trata en la ** sección "Propiedades heredadas" ** a continuación \).
+
+2 \) Puede asignar propiedades a productos particulares, de forma individual.
 
 ## 1\) Assigning a property to an enterprise
 
