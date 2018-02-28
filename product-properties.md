@@ -25,7 +25,7 @@ Hay dos formas de asignar propiedades a sus productos:
 
 2\) Puede asignar propiedades a productos particulares, de forma individual.
 
-## 1\) Assigning a property to an enterprise
+## 1\) Asignación de una propiedad al negocio
 
 When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Minimum Spray’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
 
