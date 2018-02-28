@@ -1,22 +1,23 @@
-# Product properties \(i.e. certified organic, free range etc\)
-
+# Propiedades del producto \(ej. orgánico certificado, rango libre, etc.\)
   
 You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
 
+Puede aplicar propiedades a sus productos, como una forma de que sus clientes conozcan más sobre cómo se producen y cuáles son sus características. Las propiedades actuales del producto que se pueden aplicar incluyen:
+
 * Regional
-* Grass Fed
-* Minimum Spray
+* Alimentado con pasto
+* Rocío mínimo
 * Native Veg Regen
-* Preservative Free
-* Locally Grown
+* Sin conservantes
+* Cultivado localmente
 * Low Food Miles
 
-* Naturally Ripened
-* No Preservatives
-* Organic- Certified
-* Organic- Not Certified
+* Naturalmente Madurado
+* Sin conservantes
+* Orgánico-Certificado
+* Orgánico: no certificado
 * Free Range
-* Biodynamic- Certified
+* Certificado Biodinámico
 
 _\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
 
