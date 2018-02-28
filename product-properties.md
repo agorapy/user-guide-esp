@@ -7,7 +7,7 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 * Regional
 * Alimentado con pasto
 * Rocío mínimo
-* Native Veg Regen
+* Vegetales nativos
 * Sin conservantes
 * Cultivado localmente
 * Low Food Miles
@@ -16,7 +16,7 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 * Sin conservantes
 * Orgánico-Certificado
 * Orgánico: no certificado
-* Free Range
+* Rango libre
 * Certificado Biodinámico
 
 _\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
