@@ -29,7 +29,7 @@ Esta opción le permite crear un perfil en la Red Ágora. Su perfil es una forma
 2. **Tienda del Vendedor/a**
 Esta opción le proporciona, además de un perfil desde donde darse a conocer, una tienda en línea completa desde donde podrá vender sus productos.
 
-Si solo desea un perfil en Red Ágora, una vez que haya creado su cuenta, confirmado su correo electrónico y seleccionado un paquete de solo perfil, su perfil estará activo en Red Ágora. Si desea cambiar o agregar detalles a su perfil, continúe con [Configuración de empresa](/your-profile-adv.md); de lo contrario, habrá terminado.
+Si solo desea un perfil en Red Ágora, una vez que haya creado su cuenta, confirmado su correo electrónico y seleccionado un paquete de solo perfil, su perfil estará activo en Red Ágora. Si desea cambiar o agregar detalles a su perfil, continúe con [Configuración del negocio](/your-profile-adv.md); de lo contrario, habrá terminado.
 
 ---
 
