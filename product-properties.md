@@ -17,7 +17,7 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 * Orgánico-Certificado
 * Orgánico: no certificado
 * Rango libre
-* Certificado Biodinámico
+* Biodinámico - certificado
 
 _\*If you wish to apply a product property which is not listed here, get in touch and we will consider creating a new on, if there is widespread demand._
 
