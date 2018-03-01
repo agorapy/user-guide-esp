@@ -24,7 +24,7 @@ Esto lo llevará a la página para crear un Producto nuevo.
 
 **Cantidad de presentación**
 
-5. Elija la cantidad en que se vende el producto (es decir, 100g, 2L, 1 paquete)
+5. Elija la cantidad en que se vende el producto (es decir, 100g, 1Kg, 2L, 1 paquete)
 
 **Mostrar como**
 
