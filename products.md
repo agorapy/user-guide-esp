@@ -76,7 +76,7 @@ Una vez que haya completado un producto, haga clic en **Crear** , o si desea agr
 
 Cuando haga clic en crear, irá a su página **Editar varios productos**, donde verá un resumen de todos sus productos.
 
-## ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Bulk-Edit-Products1.png "Editar varios productos")
+![](/assets/listar productos.JPG)
 
 Algunos ejemplos de cómo listar diferentes tipos de productos, y cómo estos listados se presentarán en su tienda en línea se proporcionan a continuación.
 
