@@ -64,7 +64,7 @@ Si selecciona esta casilla, indicará que este producto está siempre disponible
 
 **IVA**
 
-11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. El negocio productor debe estar configurado para cargar IVA en la configuración de perfil. Si deja este campo en blanco, o selecciona **ninguno** , o no configura la empresa como registrada legalmente, el precio no incluirá IVA.
+11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. El negocio productor debe estar configurado para cargar IVA en la configuración de perfil. Si deja este campo en blanco, o selecciona **ninguno** , o no configura el negocio como registrado legalmente, el precio no incluirá IVA.
 
 ### Listado de productos
 
