@@ -6,12 +6,9 @@
 
 ![](/assets/nuevo producto.JPG)
 
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png "Añadir nuevo producto")
-
 Esto lo llevará a la página para crear un Producto nuevo.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/New-Product2.png "Página de Nuevo Producto")
+![](/assets/cargar nuevo producto.JPG)
 
 2. Seleccione la empresa que produce y suministra el producto.
 
