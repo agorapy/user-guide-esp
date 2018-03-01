@@ -82,11 +82,7 @@ Algunos ejemplos de cómo listar diferentes tipos de productos, y cómo estos li
 
 > Nota: Para los productos que generalmente se venden por kg, es mejor incluir el producto en venta en incrementos de 100g o más, dependiendo del producto. Esto hace que sea más fácil listar y preparar el pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Green-Beans1.png "Green Beans example")
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs1.png "Corn Cobs example")
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs1.png "Carton of Eggs example")
+![](/assets/visualizacion-producto.jpg)
 
 #### Funciones avanzadas relacionadas:
 
