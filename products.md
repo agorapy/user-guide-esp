@@ -12,7 +12,7 @@ Esto lo llevará a la página para crear un Producto nuevo.
 
 2. Seleccione el negocio que produce y suministra el producto.
 
-> Si eres un productor, éste serás tú. Si es un vendedor, recuerde que solo podrá agregar productos de productores que usted haya creado sus perfiles, o si el productor le ha otorgado permiso para administrar los productos de su perfil.
+> Si eres un productor/a, éste serás tú. Si eres un vendedor/a, recuerde que solo podrá agregar productos de productores/as que usted haya creado sus perfiles, o si el productor/a le ha otorgado permiso para administrar los productos de su perfil.
 
 **Nombre del producto:**
 
