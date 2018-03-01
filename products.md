@@ -2,9 +2,10 @@
 
 ## Agregar productos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VFdcutYAhBQ" frameborder="0" allowfullscreen></iframe>
-
 1. Haga clic en **Productos** en el menú azul horizontal superior, y luego haga clic en **+ Nuevo Producto**.
+
+![](/assets/nuevo producto.JPG)
+
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-new-product.png "Añadir nuevo producto")
 
