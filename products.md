@@ -76,7 +76,7 @@ Cuando haga clic en crear, irá a su página **Editar varios productos**, donde 
 
 ![](/assets/listar productos.JPG)
 
-Algunos ejemplos de cómo listar diferentes tipos de productos, y cómo estos listados se presentarán en su tienda en línea se proporcionan a continuación.
+Un ejemplo de cómo listar diferentes tipos de productos, y cómo estos listados se presentarán en su tienda en línea se proporcionan a continuación.
 
 > Nota: Para los productos que generalmente se venden por kg, es mejor incluir el producto en venta en incrementos de 100g o más, dependiendo del producto. Esto hace que sea más fácil listar y preparar el pedido.
 
