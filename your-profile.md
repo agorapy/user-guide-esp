@@ -100,7 +100,7 @@ Esta información se utiliza para agregar su negocio al mapa de la Red Ágora.
 
 Un perfil de ejemplo se muestra a continuación.
 
-![](/assets/Demo profile.png)
+![](/assets/visualizar en mapa.JPG)
 
 ---
 
