@@ -51,9 +51,11 @@ _ \ * Puede aplicar múltiples propiedades a su negocio_
 
 Para asignar una propiedad a un solo producto, en lugar del rango completo de propiedades predeterminadas del negocio, haga clic en ** Productos ** en la barra horizontal azul y luego edite un producto existente \ (no puede aplicar una propiedad sin antes haber creado el producto\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png "Assigning a property to a product")
+![](/assets/editar producto.JPG)
 
-Once you are editing the product,  click on ![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click.png)on the right hand side.
+Once you are editing the product,  click on the right hand side.
+
+![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click.png) 
 
 There are 2 fields when applying a product property:
 
