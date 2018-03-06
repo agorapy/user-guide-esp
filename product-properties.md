@@ -57,7 +57,7 @@ Una vez que esté editando el producto, haga clic en el lado derecho.
 
 Hay 2 campos al aplicar una propiedad del producto:
 
-**Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
+** Propiedad: ** Puede seleccionar una propiedad de producto predefinida de la lista desplegable. Este es el nombre de la propiedad con la que se etiquetarán este producto, a través del cual los clientes podrán filtrar su preferencia en su tienda en línea.
 
 **Description:**You can write a description of how this product property applies to this product. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the description field.
 
