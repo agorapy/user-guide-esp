@@ -31,9 +31,9 @@ Cuando asigna una propiedad a su negocio, todos los productos que pertenecen a e
 
 Puede acceder a las propiedades del negocio de dos maneras: en la pestaña ** Negocios **, puede seleccionar 'Propiedades' junto al negocio correspondiente \ (abajo \).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-properties.png "access properties")
+![](/assets/modificar propiedades.JPG)
 
-Or you can click**Properties**in the enterprise profile management section \(below\).
+O puede hacer clic en ** Propiedades ** en la sección de administración del perfil del negocio \ (debajo de \).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/access-properties-2.png "Access properties from profile edit")
 
