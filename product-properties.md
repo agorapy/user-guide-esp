@@ -53,11 +53,9 @@ Para asignar una propiedad a un solo producto, en lugar del rango completo de pr
 
 ![](/assets/editar producto.JPG)
 
-Once you are editing the product,  click on the right hand side.
+Una vez que esté editando el producto, haga clic en el lado derecho.
 
-![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click.png) 
-
-There are 2 fields when applying a product property:
+Hay 2 campos al aplicar una propiedad del producto:
 
 **Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
 
