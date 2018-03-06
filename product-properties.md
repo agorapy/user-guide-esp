@@ -43,7 +43,7 @@ A continuación, al aplicar una propiedad al negocio hay dos campos:
 
 ** Valor: ** Puede escribir una descripción de cómo se aplica la propiedad de este producto a su negocio en este campo. Por ejemplo, si ha seleccionado la propiedad 'Certificación orgánica' en el campo de propiedad, podría escribir el número de certificación en el campo de valor. O si ha seleccionado la propiedad 'Rango libre', puede escribir una descripción más detallada de cómo se crían sus animales en el campo de valor.
 
-_\* You can apply multiple properties to your enterprise_
+_ \ * Puede aplicar múltiples propiedades a su negocio_
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png "Enterprise properties fields")
 
