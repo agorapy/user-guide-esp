@@ -29,13 +29,13 @@ Hay dos formas de asignar propiedades a sus productos:
 
 Cuando asigna una propiedad a su negocio, todos los productos que pertenecen a ese negocio, de forma predeterminada, llevan esa propiedad del producto. Por ejemplo, si todos sus productos son 'Sin conservantes', puede asignar esta propiedad a su negocio para evitar que necesite aplicar manualmente esta propiedad a cada producto. Si una propiedad solo se aplica a algunos de sus productos, es mejor aplicarla al producto, en lugar de al negocio \(instrucciones a continuación\).
 
-Puede acceder a las propiedades del negocio de dos maneras: en la pestaña ** Negocios **, puede seleccionar 'Propiedades' junto al negocio correspondiente \ (abajo \).
+Puede acceder a las propiedades del negocio de dos maneras: en la pestaña ** Negocios **, puede seleccionar 'Propiedades' junto al negocio correspondiente \ (ver más abajo\).
 
 ![](/assets/modificar propiedades.JPG)
 
-O puede hacer clic en ** Propiedades ** en la sección de administración del perfil del negocio \ (debajo de \).
+O puede hacer clic en ** Propiedades ** en la sección de administración del perfil del negocio \ (ver más abajo\).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/access-properties-2.png "Access properties from profile edit")
+![](/assets/propiedades.JPG)
 
 Next, there are 2 fields when applying an enterprise property:
 
