@@ -49,8 +49,6 @@ _ \ * Puede aplicar múltiples propiedades a su negocio_
 
 ## 2 \) Asignación de una propiedad a un producto
 
-To assign a property to a single product, rather than an enterprise’s entire product range, click on**Products**in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
-
 Para asignar una propiedad a un solo producto, en lugar del rango completo de propiedades predeterminadas del negocio, haga clic en ** Productos ** en la barra horizontal azul y luego edite un producto existente \ (no puede aplicar una propiedad sin antes haber creado el producto\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png "Assigning a property to a product")
