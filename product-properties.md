@@ -45,11 +45,13 @@ A continuación, al aplicar una propiedad al negocio hay dos campos:
 
 _ \ * Puede aplicar múltiples propiedades a su negocio_
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/ent-properties.png "Enterprise properties fields")
+![](/assets/agregar propiedades.JPG)
 
-## 2\) Assigning a property to a product
+## 2 \) Asignación de una propiedad a un producto
 
 To assign a property to a single product, rather than an enterprise’s entire product range, click on**Products**in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
+
+Para asignar una propiedad a un solo producto, en lugar del rango completo de propiedades predeterminadas del negocio, haga clic en ** Productos ** en el banner azul horizontal y luego edite un producto existente \ (no puede aplicar una propiedad de producto cuando crea por primera vez un producto\).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Property-to-product.png "Assigning a property to a product")
 
