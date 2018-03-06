@@ -37,7 +37,7 @@ O puede hacer clic en ** Propiedades ** en la sección de administración del pe
 
 ![](/assets/propiedades.JPG)
 
-Next, there are 2 fields when applying an enterprise property:
+A continuación, al aplicar una propiedad al negocio hay dos campos:
 
 **Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
 
