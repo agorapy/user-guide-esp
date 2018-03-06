@@ -27,11 +27,9 @@ Hay dos formas de asignar propiedades a sus productos:
 
 ## 1\) Asignación de una propiedad al negocio
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Minimum Spray’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
-
 Cuando asigna una propiedad a su negocio, todos los productos que pertenecen a ese negocio, de forma predeterminada, llevan esa propiedad del producto. Por ejemplo, si todos sus productos son 'Sin conservantes', puede asignar esta propiedad a su negocio para evitar que necesite aplicar manualmente esta propiedad a cada producto. Si una propiedad solo se aplica a algunos de sus productos, es mejor aplicarla al producto, en lugar de al negocio \(instrucciones a continuación\).
 
-You can acess enterprise properties in one of two ways: In the**Enterprise**tab, you can select ‘Properties’ next to the corresponding enterprise \(below\).
+Puede acceder a las propiedades del negocio de dos maneras: en la pestaña ** Negocios **, puede seleccionar 'Propiedades' junto al negocio correspondiente \ (abajo \).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Access-properties.png "access properties")
 
