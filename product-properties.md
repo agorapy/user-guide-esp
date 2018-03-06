@@ -39,9 +39,9 @@ O puede hacer clic en ** Propiedades ** en la sección de administración del pe
 
 A continuación, al aplicar una propiedad al negocio hay dos campos:
 
-**Property:**You can select a pre-defined product property from the dropdown list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
+** Propiedad: ** Puede seleccionar una propiedad de producto predefinida de la lista desplegable. Este es el nombre de la propiedad con la que se etiquetarán sus productos, a través del cual los clientes podrán filtrar su preferencia en su tienda en línea.
 
-**Value:**You can write a description of how this product property applies to your enterprise in this field. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the value field.
+** Valor: ** Puede escribir una descripción de cómo se aplica la propiedad de este producto a su negocio en este campo. Por ejemplo, si ha seleccionado la propiedad 'Certificación orgánica' en el campo de propiedad, podría escribir el número de certificación en el campo de valor. O si ha seleccionado la propiedad 'Rango libre', puede escribir una descripción más detallada de cómo se crían sus animales en el campo de valor.
 
 _\* You can apply multiple properties to your enterprise_
 
