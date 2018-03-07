@@ -11,7 +11,7 @@ Hemos reunido manuales de configuración únicos que proporcionan una guía de c
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
 
 ## Explore nuestras funciones básicas y avanzadas
-El contenido de esta guía está separado en las características básicas y características avanzadas. Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
+El contenido de esta guía está separado en las características básicas y [características avanzadas](/advanced-features.md). Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
 
 ## Preguntas frecuentes
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
