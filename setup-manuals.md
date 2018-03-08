@@ -67,9 +67,12 @@ y quiero:
 
 * vender toda la gama de productos de todos nuestros productores juntos a través de una única tienda en línea.
 
-> Crear un [Centro de Venta para Feria](/farmers-market.md)
+ > Crear un [Centro de Venta para Feria](/farmers-market.md)
 
 ### Soy un grupo de compra
+
+_Un grupo de compra es un grupo de personas que tradicionalmente viven muy cerca el uno del otro y que se han unido para poner en común sus recursos y comprar alimentos a granel. Las compras colectivas a menudo abren el grupo a descuentos masivos, lo que puede ser un factor determinante, sin embargo, la decisión de iniciar un Grupo de compras a menudo se basa en valores compartidos en torno a la compra y el consumo de alimentos._
+
 y quiero:
 
 * tener una tienda en línea para almacenar artículos de mis diversos proveedores
