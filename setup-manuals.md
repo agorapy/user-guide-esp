@@ -47,7 +47,7 @@ Vea la sección Centro de Venta a continuación u obtenga una guía más especí
 **Centro de Venta (Sólo perfil)
 ** Un perfil en la Red Ágora es la opción más simple, y ofrece una camino para que los negocios se promocionen. El perfil se puede utilizar para promocionar productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted.
 
-> Crear un [Perfil](/getting-started.md)](getting-started.md)
+> Crear un [Perfil](/getting-started.md)
 
 * ** vender productos de otros ** productores con una tienda en línea.
 
