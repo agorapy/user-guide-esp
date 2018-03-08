@@ -73,7 +73,7 @@ y quiero:
 
  > Crear un [Centro de Venta para Feria](/farmers-market-shops.md)
 
-### Soy un grupo de compra
+### Somos un grupo de compra
 
 _Un grupo de compra es un grupo de personas que tradicionalmente viven muy cerca el uno del otro y que se han unido para poner en común sus recursos y comprar alimentos a granel. Las compras colectivas a menudo abren el grupo a descuentos masivos, lo que puede ser un factor determinante, sin embargo, la decisión de iniciar un Grupo de compras a menudo se basa en valores compartidos en torno a la compra y el consumo de alimentos._
 
