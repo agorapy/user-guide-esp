@@ -1,4 +1,4 @@
-###### Primeros pasos
+# Primeros pasos
 
 Siga estos 4 pasos para crear su perfil personalizado y comenzar a usar la plataforma de la Red Ágora. 
 > Tiempo estimado de lectura: 30 minutos
