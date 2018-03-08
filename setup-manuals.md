@@ -57,7 +57,7 @@ Un perfil en la Red Ágora es la opción más simple, y ofrece una camino para q
 
 ### Soy un mercado de agricultores (Feria)
 
-Los mercados de agricultores o ferias son mercados físicos que se realizan periódicamente en áreas urbanas y regionales para mejorar el acceso a los alimentos locales y para brindarles a los productores la oportunidad de comercializar directamente a los consumidores, logrando así mayor visibilidad y desarrollando relaciones cara a cara. Los mercados de agricultores pueden estar acreditados a través de varias asociaciones para garantizar que los vendedores sean realmente los productores y que no provenga de los mercados mayoristas.
+_Los mercados de agricultores o ferias son mercados físicos que se realizan periódicamente en áreas urbanas y regionales para mejorar el acceso a los alimentos locales y para brindarles a los productores la oportunidad de comercializar directamente a los consumidores, logrando así mayor visibilidad y desarrollando relaciones cara a cara. Los mercados de agricultores pueden estar acreditados a través de varias asociaciones para garantizar que los vendedores sean realmente los productores y que no provenga de los mercados mayoristas._
 
 y quiero:
 
