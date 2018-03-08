@@ -67,7 +67,7 @@ y quiero:
 
 * vender toda la gama de productos de todos nuestros productores juntos a través de una única tienda en línea.
 
- > Crear un [Centro de Venta para Feria](/farmers-market-shop.md)
+ > Crear un [Centro de Venta para Feria](/farmers-market-shops.md)
 
 ### Soy un grupo de compra
 
