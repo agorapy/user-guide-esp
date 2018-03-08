@@ -19,4 +19,3 @@ Ahora tendrá un espacio para contar la historia de su empresa y para ayudarlo a
 También este es el primer paso para comerciar en la plataforma de la Red Ágora y para abrir una tienda en línea.
 
 
-
