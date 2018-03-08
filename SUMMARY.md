@@ -2,7 +2,6 @@
 
 * [Manual del usuario de la Red Ágora](README.md)
 * [Manuales de configuración](setup-manuals.md)
-getting-started.md
   * [Primeros pasos](getting-started.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
   * [Producer \(Producer shop\)](producer-set-up-guide.md)
