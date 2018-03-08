@@ -22,7 +22,7 @@
   * [Payment Methods](payment-methods.md)
   * [Shipping Methods](shipping-methods.md)
   * [Enterprise Fees](enterprise-fees.md)
-  * [Order Cycles \(for Hubs\)](order-cycles-adv.md)
+  * [Order Cycles \(for Hubs\)](order-cycles-for-hubs.md)
   * [Ciclos de pedidos \(para productores/as\)](order-cycles-for-producers.md)
   * [Ver pedidos](view-orders.md)
   * [Reports](get-reports.md)
