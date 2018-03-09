@@ -20,7 +20,7 @@ Esto lo llevará a la página para crear un Producto nuevo.
 
 3. Añade el nombre del producto. Tal como se mostrará en la tienda.
 
-**Unidad:**
+**Unidad de medida:**
 
 4. ¿En qué unidad de medida se vende el producto? (g, kg, L, o item (unidad, docena, paquete)
 
