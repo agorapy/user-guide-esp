@@ -66,9 +66,9 @@ _ \ * Puede aplicar múltiples propiedades a su negocio_
 
 Recuerde hacer clic en ** actualizar ** cuando haya finalizado.
 
-## Inherited Properties
+## Propiedades heredadas
 
-As discussed above, when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, an enterprise may not wish for all of their products to inherit this property. Thus, it is possible to remove this property from products.
+Como se discutió anteriormente, cuando a un negocio se le asigna una propiedad, todos los productos que pertenecen a él "heredarán" esta propiedad. Sin embargo, un negocio puede no desear que todos sus productos hereden esta propiedad. Por lo tanto, es posible eliminar esta propiedad de los productos.
 
 When editing a product’s properties \(accessed here ![](http://openfoodfoundation.org/sites/default/files/Product%20properties%20click_1.png)\) you will see a checkbox titled**“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.**By default, when an enterprise has a property, it this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
 
