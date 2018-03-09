@@ -1,8 +1,10 @@
 # Productos
 ## Agregar productos
 1. Haga clic en **Productos** en el menú azul horizontal superior, y luego haga clic en **+ Nuevo Producto**.<br>
-![](/assets/cargar nuevo producto.JPG)<br>
-Esto lo llevará a la página para crear un Producto nuevo.<br>    
+![](/assets/cargar nuevo producto.JPG)
+<br>
+Esto lo llevará a la página para crear un Producto nuevo.
+<br>    
 ![](/assets/nuevo producto descripcion.JPG)
 2. Seleccione el negocio que produce y suministra el producto.
 **Proveedor/a:**
