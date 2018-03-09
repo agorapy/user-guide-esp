@@ -62,7 +62,7 @@ Hay 2 campos al aplicar una propiedad del producto:
 
 _ \ * Puede aplicar múltiples propiedades a su negocio_
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png "Add product property")
+![](/assets/propiedades-productos.JPG)
 
 Remember to click**update**when you are finished.
 
