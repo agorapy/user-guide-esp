@@ -29,7 +29,7 @@ Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambi
 
 **Precio** 
 7. Ingrese el precio del producto especificado arriba.
-> Recuerde, este es el precio de costo cobrado por el productor/a. Los recargos y las tarifas se agregan en "Tarifas de Negocio", Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
+> Recuerde, este es el precio de costo cobrado por el productor/a. Los recargos y las tarifas se agregan en Tarifas de Negocio, Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
 
 **Cantidad disponible**
 8. Indique cuánto de este producto tiene disponible y listo para la venta.
