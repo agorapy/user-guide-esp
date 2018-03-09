@@ -20,7 +20,7 @@ _\* Si desea aplicar una propiedad del producto que no se encuentra aquí, póng
 
 Hay dos formas de asignar propiedades a sus productos:
 
-1\) Puede asignar una propiedad al negocio, de modo que todos los productos pertenecientes a él llevarán esta propiedad \(a menos que se elimine manualmente, que se trata en la ** sección "Propiedades heredadas" ** a continuación\).
+1\) Puede asignar una propiedad al negocio, de modo que todos los productos pertenecientes a él llevarán esta propiedad \(a menos que se elimine manualmente, que se trata en la sección **"Propiedades heredadas" ** a continuación\).
 
 2\) Puede asignar propiedades a productos particulares, de forma individual.
 
