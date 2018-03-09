@@ -64,7 +64,7 @@ _ \ * Puede aplicar múltiples propiedades a su negocio_
 
 ![](/assets/propiedades-productos.JPG)
 
-Remember to click**update**when you are finished.
+Recuerde hacer clic en ** actualizar ** cuando haya finalizado.
 
 ## Inherited Properties
 
