@@ -58,9 +58,9 @@ Hay 2 campos al aplicar una propiedad del producto:
 
 ** Propiedad: ** Puede seleccionar una propiedad de producto predefinida de la lista desplegable. Este es el nombre de la propiedad con la que se etiquetarán este producto, a través del cual los clientes podrán filtrar su preferencia en su tienda en línea.
 
-**Description:**You can write a description of how this product property applies to this product. For example, if you have selected the property ‘Organic- Certified’ in the property field, you could write the certification number in the value field. Or if you have selected the property ‘Free Range’ you could write a more detailed description of how your animals are raised in the description field.
+** Descripción: ** Puede escribir una descripción de cómo se aplica la propiedad de este producto a su negocio en este campo. Por ejemplo, si ha seleccionado la propiedad 'Orgánico - certificado' en el campo de propiedad, podría escribir el número de certificación en el campo de valor. O si ha seleccionado la propiedad 'Rango libre', puede escribir una descripción más detallada de cómo se crían sus animales en el campo de valor.
 
-You can apply multiple product properties by clicking “**+ Add Product Properties**“
+_ \ * Puede aplicar múltiples propiedades a su negocio_
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/add-product-property.png "Add product property")
 
