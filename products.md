@@ -8,9 +8,11 @@
 
 Esto lo llevará a la página para crear un Producto nuevo.
 
-![](/assets/cargar nuevo producto.JPG)
+![](/assets/nuevo producto descripcion.JPG)
 
 2. Seleccione el negocio que produce y suministra el producto.
+
+**Proveedor/a:**
 
 > Si eres un productor/a, éste serás tú. Si eres un vendedor/a, recuerde que solo podrá agregar productos de productores/as que usted haya creado sus perfiles, o si el productor/a le ha otorgado permiso para administrar los productos de su perfil.
 
