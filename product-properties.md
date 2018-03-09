@@ -9,13 +9,12 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 * Sin conservantes
 * Cultivado localmente
 * Low Food Miles
-
 * Naturalmente Madurado
 * Sin conservantes
-* Orgánico - Certificado
-* Orgánico: no certificado
+* Orgánico - certificado
+* Orgánico - no certificado
 * Rango libre
-* Biodinámico - Certificado
+* Biodinámico - certificado
 
 _\* Si desea aplicar una propiedad del producto que no se encuentra aquí, póngase en contacto y consideraremos la posibilidad de crear una nueva, si hay una gran demanda._
 
