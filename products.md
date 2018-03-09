@@ -1,66 +1,51 @@
 # Productos
 ## Agregar productos
-1. Haga clic en **Productos** en el menú azul horizontal superior, y luego haga clic en **+ Nuevo Producto**.<br>
+1. Haga clic en **Productos** en el menú azul horizontal superior, y luego haga clic en **+ Nuevo Producto**.<br><br>
 ![](/assets/cargar nuevo producto.JPG)
-<br>
+<br><br>
 Esto lo llevará a la página para crear un Producto nuevo.
-<br>    
+<br><br>
 ![](/assets/nuevo producto descripcion.JPG)
+<br><br>
 2. Seleccione el negocio que produce y suministra el producto.
 **Proveedor/a:**
-
 > Si eres un productor/a, éste serás tú. Si eres un vendedor/a, recuerde que solo podrá agregar productos de productores/as que usted haya creado sus perfiles, o si el productor/a le ha otorgado permiso para administrar los productos de su perfil.
 
 **Nombre del producto:**
-
 3. Añade el nombre del producto. Tal como se mostrará en la tienda.
 
 **Unidad de medida:**
-
 4. ¿En qué unidad de medida se vende el producto? (g, kg, L, o item (unidad, docena, paquete)
 
 **Cantidad de presentación**
-
 5. Elija la cantidad en que se vende el producto (es decir, 100g, 1Kg, 2L, 1 paquete)
 
 **Mostrar como**
-
-Este campo hace una pre visualización de los campos de Unidad y Valor, una vez que los haya completado (por ejemplo, Unidad = kg, Cantidad de presentación = 2, Mostrar como = 2kg).
-
+Este campo hace una pre visualización de los campos de Unidad y Cantidad, una vez que los haya completado (por ejemplo, Unidad = kg, Cantidad de presentación = 2, Mostrar como = 2kg).
 Nota: Si ha seleccionado 'items' como su unidad, el campo **Mostrar como** cambiará a **Nombre de Item**. Complete esto con el tipo de artículo que es (por ejemplo, docena, unidad o paquete).
 
 **Categoría del producto**
-
 6. Seleccione la categoría más apropiada para este producto (Fruta, Verdura, Bebida, etc).
 
 **Precio** 
-
 7. Ingrese el precio del producto especificado arriba.
-
 > Recuerde, este es el precio de costo cobrado por el productor/a. Los recargos y las tarifas se agregan en "Tarifas de Negocio", Tarifas de Envío y Métodos de Pago (esto lo veremos más adelante).
 
 **Cantidad disponible**
-
 8. Indique cuánto de este producto tiene disponible y listo para la venta.
-
 > Use este campo si desea rastrear sus niveles de inventario. A medida que los clientes hacen pedidos, el nivel del stock se reducirá, y cuando la cantidad disponible llegue a cero, el producto ya no será visible en su tienda. Si no desea rastrear el inventario de esta manera, haga clic en 'Bajo demanda'.
 
 **Bajo demanda**
-
 Si selecciona esta casilla, indicará que este producto está siempre disponible. Esto evita que el software rastree los niveles de inventario para los productos y, en cambio, siempre mostrará que el producto está en stock.
 
 **Descripción del producto** 
-
 9. Cuéntales a tus clientes un poco acerca de este producto.
 
 **Foto**
-
 10. Cargue una foto de este producto. 
-
 > Recomendamos encarecidamente tomar imágenes claras y precisas de sus productos. Evitar en lo posible utilizar imágenes que comúnmente se encuentran en Intenet. Esto aumentará las posibilidades de venta.
 
 **IVA**
-
 11. Si desea que el precio de este producto incluya IVA, seleccione **IVA** en el menú desplegable. El negocio productor debe estar configurado para cargar IVA en la configuración de perfil. Si deja este campo en blanco, o selecciona **ninguno** , o no configura el negocio como registrado legalmente, el precio no incluirá IVA.
 
 ### Listado de productos
