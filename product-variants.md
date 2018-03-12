@@ -22,49 +22,24 @@ La fila superior representa esta colección de variantes. El nombre en esta fila
 
 La segunda fila será la primera variante \(1 "Marzoca de maíz", 500 Gs. \).
 
-* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say
-  _Corn Cob_
-  , instead of
-  _Corn Cobs_
-  .
-* In the
-  **unit/value**
-  column, we type
-  _1_
-  because this variant is for an individual cob.
-* The
-  **display as**
-  column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with
-  _1 corn cob_
-  .
-* Enter the
-  **price**
-  for this 1 Corn Cob \(.80\)
-* Lastly indicate what quantity of this product you have
-  **on hand**
-  .
+* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say _Corn Cob_  instead of _Corn Cobs_ .
+
+* In the **unit/value** column, we type _1_ because this variant is for an individual cob. The   **display as** column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob_.
+
+* Enter the **price** for this 1 Corn Cob \(.80\) * Lastly indicate what quantity of this product you have **on hand**.
 
 \*Note: If you leave the on hand field blank or as zero, the product will not be shown in your store.
 
 The third row, will be for the second variant \(5 cobs for $3\).
 
-* Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically filled
-  _Corn Cobs_
-  in the
-  **name**
-  column.
-* In the
-  **unit/value**
-  column, we type
-  _5._
-* The
-  **display as**
-  column will automatically fill with
-  _5 Corn Cobs_
-  , which is correct.
-* Enter the
-  **price**
-  for 5 corn cobs \($3\)
+* Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically  filled _Corn Cobs_ in the **name** column.
+
+* In the **unit/value** column, we type _5._ 
+
+* The **display as** column will automatically fill with _5 Corn Cobs_, which is correct.
+
+* Enter the **price** for 5 corn cobs \($3\)
+
 * Lastly indicate what quantity of this product you have on hand.
 
 Note: You can add as many variants as you like.
@@ -80,4 +55,3 @@ Two additional examples of product variants are provided below.
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs2.png "carton of eggs variants")
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/JamVariants.png "jam product variants")
-
