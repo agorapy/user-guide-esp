@@ -8,7 +8,7 @@ Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de m
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png "corn cob listing with two variants")
 
-When you first create the product, fill out the details of one of your product variants \(one corn cob for 80c\). More detailed instructions for adding a product are[here](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
+Cuando crea el producto por primera vez, complete los detalles de una de sus variantes de producto \(una mazorca de maíz para 80c\). Instrucciones más detalladas para agregar un producto las encuentra [aquí](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
 
