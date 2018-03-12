@@ -12,9 +12,7 @@ Cuando crea el producto por primera vez, complete los detalles de una de sus var
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
 
-On the **Bulk Edit Products **page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two varients, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
-
-En la página ** Editar varios productos **, verá el producto creado anteriormente 'mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que tendremos dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
+En la página ** Editar varios productos **, verá el producto creado anteriormente: 'mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que tendremos dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
 
@@ -22,7 +20,9 @@ La fila superior representa esta colección de variantes. El nombre en esta fila
 
 La segunda fila será la primera variante \(1 "Marzoca de maíz", 500 Gs. \).
 
-* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say _Corn Cob_  instead of _Corn Cobs_ .
+* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say _Corn Cob_  instead of _Corn Cobs_.
+
+* La columna ** Nombre ** se rellenará automáticamente, a partir del producto original. Sin embargo, deberíamos para decir _Corn Cob_ en lugar de _Corn Cobs_.
 
 * In the **unit/value** column, we type _1_ because this variant is for an individual cob. The   **display as** column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob_.
 
