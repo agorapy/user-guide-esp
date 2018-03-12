@@ -22,11 +22,11 @@ La segunda fila será la primera variante \(1 "Mazorca de maíz", 500 Gs.\)
 
 * En el campo **unidad de medida**, escribimos _1_ porque esta variante es para una mazorca individual. La columna ** Mostrar como ** se llenará automáticamente con "1 mazorcas de maíz" en la tienda. Esto no es del todo correcto, así que podemos sobreescribir esto con _1 mazorca de maíz_.
 
-* Enter the **price** for this 1 Corn Cob \(.80\) * Lastly indicate what quantity of this product you have **on hand**.
+* Ingrese el **precio** para 1 Mazorca de Maíz \(500 Gs.\) * Por último indique qué cantidad de este producto tiene **a mano**.
 
-\*Note: If you leave the on hand field blank or as zero, the product will not be shown in your store.
+\*Nota: Si deja el campo "a mano" en blanco o como cero, el producto no se mostrará en su tienda.
 
-The third row, will be for the second variant \(5 cobs for $3\).
+La tercera fila será para la segunda variante \(12 mazorcas por 6000 Gs.\).
 
 * Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically  filled _Corn Cobs_ in the **name** column.
 
