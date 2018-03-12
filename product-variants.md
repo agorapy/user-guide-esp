@@ -28,9 +28,9 @@ La segunda fila será la primera variante \(1 "Mazorca de maíz", 500 Gs.\)
 
 La tercera fila será para la segunda variante \(12 mazorcas por 6000 Gs.\).
 
-* Because we want this variant to display as ‘5 corn cobs’, we can accept the automatically  filled _Corn Cobs_ in the **name** column.
+* Debido a que queremos que esta variante se muestre como "5 mazorcas de maíz", podemos dejar las _Mazorcas de maíz_ predeterminadas en la columna **nombre**.
 
-* In the **unit/value** column, we type _5._ 
+* En el campo **unidad de medida**, escribimos _5._
 
 * The **display as** column will automatically fill with _5 Corn Cobs_, which is correct.
 
