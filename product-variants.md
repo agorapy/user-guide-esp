@@ -14,6 +14,8 @@ Cuando crea el producto por primera vez, complete los detalles de una de sus var
 
 On the **Bulk Edit Products **page, you will see the previously created product ‘corn cobs’. By clicking on the plus symbol to the left of the product, a new variant will be created below. Because we will have two varients, we’ll need to click this button twice \(the original does not count once a variant is created\). You’ll now see two additional rows appear below the original product.
 
+En la página ** Editar varios productos **, verá el producto creado anteriormente 'mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que tendremos dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
+
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
 
 The top row represents this collection of variants. The name in this row, Corn Cobs, will be the heading of this collection of variants. We can leave the top row as it is.
