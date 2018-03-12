@@ -30,11 +30,11 @@ La tercera fila será para la segunda variante \(12 mazorcas por 6000 Gs.\).
 
 * Debido a que queremos que esta variante se muestre como "5 mazorcas de maíz", podemos dejar las _Mazorcas de maíz_ predeterminadas en la columna **nombre**.
 
-* En el campo **unidad de medida**, escribimos _5._
+* En el campo **unidad de medida**, escribimos _12._
 
-* The **display as** column will automatically fill with _5 Corn Cobs_, which is correct.
+* El campo **Mostrar como** se llenará automáticamente con _12 Mazorcas de maíz_, lo cual es correcto.
 
-* Enter the **price** for 5 corn cobs \($3\)
+* Ingrese el **precio** para 12 mazorcas de maíz \(6000 Gs.\)
 
 * Lastly indicate what quantity of this product you have on hand.
 
