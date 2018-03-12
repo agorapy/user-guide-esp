@@ -4,6 +4,8 @@ Si está configurando dos o más productos que son muy similares, pero solo var�
 
 Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for 80c each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the OFN store. The folllowing section will describe the steps involved in creating this listing.
 
+Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de maíz individuales por 500 Gs. cada una, o 5 mazorcas de maíz por el precio con descuento de 2.000 Gs. Cada uno de estos productos será una variante del producto. A continuación, se encuentra la lista del producto final en la tienda online de la Red Ágora. La siguiente sección describirá los pasos necesarios para crear esta lista.
+
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png "corn cob listing with two variants")
 
 When you first create the product, fill out the details of one of your product variants \(one corn cob for 80c\). More detailed instructions for adding a product are[here](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
