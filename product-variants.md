@@ -18,13 +18,11 @@ En la página ** Editar varios productos **, verá el producto creado anteriorme
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
 
-The top row represents this collection of variants. The name in this row, Corn Cobs, will be the heading of this collection of variants. We can leave the top row as it is.
+La fila superior representa esta colección de variantes. El nombre en esta fila, "Mazorcas de maíz", será el título de esta colección de variantes. Podemos dejar la fila superior tal como está.
 
-The second row, will be the first variant \(1 Corn Cob, for 80c\).
+La segunda fila será la primera variante \(1 "Marzoca de maíz", 500 Gs. \).
 
-* The
-  **name**
-  column will be automatically filled, from the original product. However, we want to overwrite this to say
+* The **name** column will be automatically filled, from the original product. However, we want to overwrite this to say
   _Corn Cob_
   , instead of
   _Corn Cobs_
