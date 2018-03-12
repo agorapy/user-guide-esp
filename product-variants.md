@@ -36,17 +36,17 @@ La tercera fila será para la segunda variante \(12 mazorcas por 6000 Gs.\).
 
 * Ingrese el **precio** para 12 mazorcas de maíz \(6000 Gs.\)
 
-* Lastly indicate what quantity of this product you have on hand.
+* Indique finalmente qué cantidad de este producto tiene a mano.
 
-Note: You can add as many variants as you like.
+Nota: Puede agregar tantas variantes como desee.
 
-The diagram below shows the completed variant form for the corn cobs, and also how this will be presented in the online store.
+El siguiente diagrama muestra la variante completa de las mazorcas de maíz y también cómo se presentará en la tienda en línea.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs3.png "Corn cob variants")
 
-When finished, click **Save Changes**.
+Cuando haya terminado, haga clic en ** Guardar cambios **.
 
-Two additional examples of product variants are provided below.
+A continuación se proporcionan dos ejemplos adicionales de variantes de productos.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs2.png "carton of eggs variants")
 
