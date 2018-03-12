@@ -1,6 +1,6 @@
-# Product variants
+# Variantes de producto
 
-If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
+Si está configurando dos o más productos que son muy similares, pero solo varían por ejemplo en precio, tamaño o sabor, lo mejor sería crear una 'variante' para ese producto, en lugar de crear productos múltiples y separados. Esto hará que el listado sea más claro para los clientes y evitará que su tienda se sature.
 
 Using an example of Corn Cobs, let’s imagine that you want to sell individual corn cobs for 80c each, or 5 corn cobs for the discounted price of $3. Each of these products will be a product variant. Below, is the final product listing on the OFN store. The folllowing section will describe the steps involved in creating this listing.
 
