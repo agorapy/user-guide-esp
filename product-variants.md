@@ -6,23 +6,21 @@ Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de m
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png "corn cob listing with two variants")
 
-Cuando crea el producto por primera vez, complete los detalles de una de sus variantes de producto \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentra [aquí](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
+Cuando crea el producto por primera vez, complete los detalles de una de sus variantes \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentran [aquí](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
 
-En la página ** Editar varios productos **, verá el producto creado anteriormente: 'mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que tendremos dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
+En la página ** Editar varios productos **, verá el producto creado anteriormente: 'Mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que queremos crear dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
 
 La fila superior representa esta colección de variantes. El nombre en esta fila, "Mazorcas de maíz", será el título de esta colección de variantes. Podemos dejar la fila superior tal como está.
 
-La segunda fila será la primera variante \(1 "Marzoca de maíz", 500 Gs. \).
+La segunda fila será la primera variante \(1 "Mazorca de maíz", 500 Gs.\)
 
 * El campo **nombre** se rellenará automáticamente, a partir del producto original. Sin embargo, lo podemos sobrescribir para decir _Mazorca de maíz_ en lugar de _Mazorcas de maíz_.
 
-* In the **unidad de medida** column, we type _1_ because this variant is for an individual cob. The   **display as** column will automatically fill with ‘1 Corn Cobs’ in the store. This isn’t quite right, so we can overwrite this with _1 corn cob_.
-
-* En el campo **unidad de medida**, escribimos _1_ porque esta variante es para una mazorca individual. La columna ** Mostrar como ** se llenará automáticamente con "1 mazorcas de maíz" en la tienda. Esto no es del todo correcto, así que podemos sobreescribir esto con _1 corn cob_.
+* En el campo **unidad de medida**, escribimos _1_ porque esta variante es para una mazorca individual. La columna ** Mostrar como ** se llenará automáticamente con "1 mazorcas de maíz" en la tienda. Esto no es del todo correcto, así que podemos sobreescribir esto con _1 mazorca de maíz_.
 
 * Enter the **price** for this 1 Corn Cob \(.80\) * Lastly indicate what quantity of this product you have **on hand**.
 
