@@ -2,7 +2,7 @@
 
 Si está configurando dos o más productos que son muy similares, pero solo varían por ejemplo en precio, tamaño o sabor, lo mejor sería crear una 'variante' para ese producto, en lugar de crear productos múltiples y separados. Esto hará que el listado sea más claro para los clientes y evitará que su tienda se sature.
 
-Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de maíz individuales por 500 Gs. cada una, o 5 mazorcas de maíz por el precio con descuento de 3.000 Gs. Cada uno de estos productos será una variante del producto. A continuación, se encuentra la lista del producto final en la tienda online de la Red Ágora. La siguiente sección describirá los pasos necesarios para crear esta lista.
+Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de maíz individuales por 500 Gs. cada una, o 5 mazorcas de maíz por el precio con descuento de 2.000 Gs. Cada uno de estos productos será una variante del producto. A continuación, se encuentra la lista del producto final en la tienda online de la Red Ágora. La siguiente sección describirá los pasos necesarios para crear esta lista.
 
 ![](/assets/producto_tienda.JPG)
 
