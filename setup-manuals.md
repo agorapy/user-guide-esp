@@ -4,12 +4,12 @@ Para ayudarle a navegar por la guía del usuario, hemos creado manuales de confi
 ![](/assets/foodproducersandhubs.jpg)
 
 En primer lugar, ¿eres un ** productor/a **? ¿produces, mezclas, cultivas, horneas o elaboras alimentos? si es así, mira la sección: 
-* ##### [Productor/a](#i-am-a-producer)
+* [Productor/a](#soy-productor)
 
 Si no, se te llama '** Centro de Venta **', lo que significa que no solo estás produciendo alimentos, sino que puedes también estar vendiendo o distribuyendo productos de otros. Siga a la sección:
-* ##### [Centro de Venta](#i-am-a-hub)
+* ##### [Centro de Venta](#soy-un-centro-de-venta)
 
-### Soy productor/a
+### Soy productor
 _Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos._
 
 y quiero... 
