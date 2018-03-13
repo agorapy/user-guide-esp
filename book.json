@@ -1,3 +1,6 @@
 {
-    "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube", "expandable-chapters", "toggle-chapters"] 
+    "plugins": ["accordion", "collapsible-menu", "videoclips", "youtube", "expandable-chapters", "toggle-chapters", "styles-less"]
+    "styles": {
+        "pdf": "./styles/pdf.less"
+    } 
 }
