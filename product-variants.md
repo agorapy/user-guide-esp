@@ -34,7 +34,7 @@ La tercera fila será para la segunda variante \(12 mazorcas por 5000 Gs.\).
 
 * El campo **Mostrar como** se llenará automáticamente con _12 Mazorcas de maíz_, lo cual es correcto.
 
-* Ingrese el **precio** para 12 mazorcas de maíz \(6000 Gs.\)
+* Ingrese el **precio** para 12 mazorcas de maíz \(5000 Gs.\)
 
 * Indique finalmente qué cantidad de este producto tiene a mano.
 
