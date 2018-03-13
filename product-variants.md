@@ -6,7 +6,7 @@ Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de m
 
 ![](/assets/producto_tienda.JPG)
 
-Cuando crea el producto por primera vez, complete los detalles de una de sus variantes \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentran [aquí](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
+Cuando crea el producto por primera vez, complete los detalles de una de sus variantes \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentran [aquí](/products/).
 
 ![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
 
