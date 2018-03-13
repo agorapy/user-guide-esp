@@ -67,11 +67,11 @@ Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda
 
 La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Viernes 9' en una tienda.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png "Campo 'Listo para'")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
 
 La nota también se muestra al momento de confirmar el pedido, cuando el cliente selecciona su método de envío (ver a continuación) y se incluye en el correo electrónico de confirmación del pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png "'Listo para' en email")
+![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png)
 
 El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico de confirmación del pedido del cliente, debajo del mensaje que corresponde al método de envío elegido (ver más abajo). Esta nota está diseñada para que solo sea visible para los clientes, por lo que puede incluir información más sensible, como direcciones o números de teléfono, etc. Ver más abajo para un ejemplo del correo electrónico de confirmación de pedido.
 
