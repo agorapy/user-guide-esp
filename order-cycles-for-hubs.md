@@ -83,7 +83,7 @@ El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico 
 
 Haga clic en Crear para guardar este ciclo de orden.
 
-![](http://openfoodfoundation.org/sites/default/files/create.png).
+![](/assets/guardar_ciclo.JPG)
 
 > Cuando crea un ciclo de pedido, y el rango de fechas de apertura y cierre incluyen la fecha actual, se abrirá una tienda en línea en la página de inicio de la tienda. Si no está listo para abrir su tienda, coloque temporalmente las fechas de apertura y cierre en el pasado (esto se puede editar cuando esté listo para abrir).
 
