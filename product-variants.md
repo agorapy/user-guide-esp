@@ -8,11 +8,11 @@ Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de m
 
 Cuando crea el producto por primera vez, complete los detalles de una de sus variantes \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentran [aquí](/products.md).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cobs.png "corn cob product")
+![](/assets/producto_nuevo_.JPG)
 
 En la página ** Editar varios productos **, verá el producto creado anteriormente: 'Mazorcas de maíz'. Al hacer clic en el símbolo de la izquierda del producto, se creará una nueva variante. Debido a que queremos crear dos variantes, tendremos que hacer clic en este botón dos veces \(el original no cuenta una vez que se crea una variante\). Ahora verá dos filas adicionales debajo del producto original.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Add-variant.png)
+![](/assets/editar_varios_productos.JPG)
 
 La fila superior representa esta colección de variantes. El nombre en esta fila, "Mazorcas de maíz", será el título de esta colección de variantes. Podemos dejar la fila superior tal como está.
 
@@ -42,12 +42,6 @@ Nota: Puede agregar tantas variantes como desee.
 
 El siguiente diagrama muestra la variante completa de las mazorcas de maíz y también cómo se presentará en la tienda en línea.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-Cobs3.png "Corn cob variants")
+![](/assets/comparacion_.jpg)
 
 Cuando haya terminado, haga clic en ** Guardar cambios **.
-
-A continuación se proporcionan dos ejemplos adicionales de variantes de productos.
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Carton-of-Eggs2.png "carton of eggs variants")
-
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/JamVariants.png "jam product variants")
