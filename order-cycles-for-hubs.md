@@ -40,7 +40,7 @@ Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo 
 
 > Solo puede aplicar una tarifa del negocio que se haya creado previamente.
 
-
+![](/assets/crear_nuevo_ciclo.JPG)
 
 ### Entrante: seleccione productor y productos
 
@@ -48,7 +48,8 @@ La sección **Entrante** es donde puede seleccionar los productores y sus produc
 
 > Nota: Los productos que tienen un valor "a mano" de cero (sin stock disponible) seguirán siendo visibles, por lo que debe asegurarse de tener un inventario adecuado de los productos seleccionados.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Incomiing.png "Entrante")
+![](/assets/ciclo_entrante.JPG)
+![](/assets/ciclo_entrante_seleccionar.JPG)
 
 Los campos **Detalles de recepción** son opcionales. Si desea utilizar el botón **Notificar a Productores**, para enviar pedidos a sus productores proveedores, debe escribir sus instrucciones de recibo de stock aquí (más información en la sección **Notificar Productores** en la parte inferior de esta página).
 
@@ -56,13 +57,13 @@ El botón **Agregar tarifa** es donde puede aplicar una tarifa del negocio, pert
 
 Esta tarifa se aplicará a todos los productos de este Productor. La tarifa se obtiene de acuerdo con la calculadora de tarifas que se seleccionó cuando la creó en [Tarifa de Empresa](/enterprise-fees.md).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Enterprise-Fee.png "Aplicar tarifas del negocio a productores proveedores entrantes")
+![](/assets/ciclo_comision.JPG)
 
 ### 4. Saliente: seleccionar distribuidor
 
 Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda virtual creada a partir de este ciclo de pedido. Los productos que son seleccionados serán visibles para el público y podrán hacerse pedidos desde su tienda en línea. En modelos de tiendas simples, solo hay un distribuidor, la tienda en sí. Por lo tanto, seleccione la tienda en la columna del distribuidor y luego seleccione todos los productos que deberían estar visibles en la tienda en línea durante este ciclo de pedido. Los modelos de tiendas más complejos pueden tener varios distribuidores, en cuyo caso cada uno se selecciona como distribuidor y, en consecuencia, en cada uno se creará un tienda virtual con los productos seleccionados que estarán visibles para recibir pedidos.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Outoging-New.png "Sección Saliente")
+![](/assets/ciclo_saliente.JPG)
 
 La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Viernes 9' en una tienda.
 
