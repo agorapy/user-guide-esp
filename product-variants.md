@@ -1,6 +1,6 @@
 # Variantes de producto
 
-Si está configurando dos o más productos que son muy similares, pero solo varían por ejemplo en precio, tamaño o sabor, lo mejor sería crear una 'variante' para ese producto, en lugar de crear productos múltiples y separados. Esto hará que el listado sea más claro para los clientes y evitará que su tienda se sature.
+Si está configurando dos o más productos que son muy similares, pero solo varían por ejemplo en precio, tamaño o sabor, lo mejor será crear una 'variante' para ese producto, en lugar de crear productos múltiples y separados. Esto hará que el listado sea más claro para los clientes y evitará que su tienda se sature.
 
 Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de maíz individuales por 500 Gs. cada una, o 5 mazorcas de maíz por el precio con descuento de 2.000 Gs. Cada uno de estos productos será una variante del producto. A continuación, se encuentra la lista del producto final en la tienda online de la Red Ágora. La siguiente sección describirá los pasos necesarios para crear esta lista.
 
@@ -26,7 +26,7 @@ La segunda fila será la primera variante \(1 "Mazorca de maíz", 500 Gs.\)
 
 \*Nota: Si deja el campo "a mano" en blanco o como cero, el producto no se mostrará en su tienda.
 
-La tercera fila será para la segunda variante \(12 mazorcas por 6000 Gs.\).
+La tercera fila será para la segunda variante \(12 mazorcas por 5000 Gs.\).
 
 * Debido a que queremos que esta variante se muestre como "5 mazorcas de maíz", podemos dejar las _Mazorcas de maíz_ predeterminadas en la columna **nombre**.
 
