@@ -12,8 +12,6 @@
   * [Buying Group](buying-group.md)
   * [Farmer's Market \(Group Page\)](farmers-market.md)
   * [Farmer's Market \(Shops\)](farmers-market-shops.md)
-
-
 * [Funcionalidades básicas](basic-features.md)
   * [Regístrese y cree su perfil](create-an-account.md)
   * [Tipos de paquete](hub-profile-types.md)
@@ -28,8 +26,6 @@
   * [Ciclos de pedidos \(para productores/as\)](order-cycles-for-producers.md)
   * [Ver pedidos](view-orders.md)
   * [Reports](get-reports.md)
-
-
 * [Advanced Features](advanced-features.md)
   * [Your Profile](your-profile-adv.md)
     * [Making a producer profile searchable by product category](making-a-producer-profile-searchable-by-product-category.md)
@@ -61,8 +57,6 @@
     * [Your farm on Facebook](putting-your-farm-on-facebook.md)
   * [Orders](ordres.md)
     * [Create an Order](create-orders.md)
-
-
 * [FAQs](chapter1.md)
   * [Costumer faqs](chapter1/customer-faqs.md)
   * [Producer faqs](chapter1/producer-faqs.md)
