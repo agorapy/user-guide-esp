@@ -4,7 +4,7 @@ Si está configurando dos o más productos que son muy similares, pero solo var�
 
 Usando de ejemplo "Mazorcas de maíz", imaginemos que desea vender mazorcas de maíz individuales por 500 Gs. cada una, o 5 mazorcas de maíz por el precio con descuento de 2.000 Gs. Cada uno de estos productos será una variante del producto. A continuación, se encuentra la lista del producto final en la tienda online de la Red Ágora. La siguiente sección describirá los pasos necesarios para crear esta lista.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/CornCob-Variants.png "corn cob listing with two variants")
+![](/assets/producto_tienda.JPG)
 
 Cuando crea el producto por primera vez, complete los detalles de una de sus variantes \(una mazorca de maíz por 500 Gs.\). Instrucciones más detalladas para agregar un producto las encuentran [aquí](http://openfoodnetwork.org/platform/user-guide/producer-set-up-guide/producer_products/).
 
