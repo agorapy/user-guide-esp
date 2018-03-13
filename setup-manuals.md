@@ -7,7 +7,7 @@ En primer lugar, ¿eres un ** productor/a **? ¿produces, mezclas, cultivas, hor
 * [Productor/a](#soy-productor)
 
 Si no, se te llama '** Centro de Venta **', lo que significa que no solo estás produciendo alimentos, sino que puedes también estar vendiendo o distribuyendo productos de otros. Siga a la sección:
-* ##### [Centro de Venta](#soy-un-centro-de-venta)
+* [Centro de Venta](#soy-un-centro-de-venta)
 
 ### Soy productor
 _Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos._
@@ -38,10 +38,10 @@ _Un Centro de Venta puede vender sus propios productos y también los de otros p
 
 Vea la sección Centro de Venta a continuación u obtenga una guía más específica, si usted es:
 
-* ##### [Mercado de agricultores](#i-am-a-farmers-market)
-* ##### [Tienda de múltiples granjas](#i-am-a-farmers-market)
-* ##### [Tienda de múltiples granjas de sólo pedido](#i-am-a-farmers-market)
-* ##### [Grupo de compra](#i-am-a-buying-group)
+* ##### [Mercado de agricultores](#soy-un-mercado-de-agricultores)
+* ##### [Tienda de múltiples granjas](#somos-un-grupo-de-compra)
+* ##### [Tienda de múltiples granjas de sólo pedido](#somos-un-grupo-de-compra)
+* ##### [Grupo de compra](#somos-un-grupo-de-compra)
 
 #### Centro de Venta
 
@@ -49,13 +49,13 @@ Centro de Venta (Sólo perfil)
 
 Un perfil en la Red Ágora es la opción más simple, y ofrece una camino para que los negocios se promocionen. El perfil se puede utilizar para promocionar productos y servicios, compartir su historia y brindar detalles de contacto. Un perfil lo hace visible y contactable con clientes y otros negocios que deseen comerciar con usted.
 
-    > Crear un [Perfil](/getting-started.md)
+> Crear un [Perfil](/getting-started.md)
 
 * ** vender productos de otros ** productores con una tienda en línea.
 
-    > Crear un [Centro de Venta](/hubs-set-up-guide.md)
+> Crear un [Centro de Venta](/hubs-set-up-guide.md)
 
-### Soy un mercado de agricultores (Feria)
+### Soy un mercado de agricultores
 
 _Los mercados de agricultores o ferias son mercados físicos que se realizan periódicamente en áreas urbanas y regionales para mejorar el acceso a los alimentos locales y para brindarles a los productores la oportunidad de comercializar directamente a los consumidores, logrando así mayor visibilidad y desarrollando relaciones cara a cara. Los mercados de agricultores pueden estar acreditados a través de varias asociaciones para garantizar que los vendedores sean realmente los productores y que no provenga de los mercados mayoristas._
 
@@ -63,15 +63,15 @@ y quiero:
 
 * ayudar a mis clientes a crear perfiles y configurar tiendas en la Red Ágora
 
-  > Crear un [Perfil](/getting-started.md)
+> Crear un [Perfil](/getting-started.md)
 
 * albergar los perfiles de productores y las tiendas juntas en una página de grupo
 
-  > Crear un [Grupo](/farmers-market.md)
+> Crear un [Grupo](/farmers-market.md)
 
 * vender toda la gama de productos de todos nuestros productores juntos a través de una única tienda en línea.
 
- > Crear un [Centro de Venta para Feria](/farmers-market-shops.md)
+> Crear un [Centro de Venta para Feria](/farmers-market-shops.md)
 
 ### Somos un grupo de compra
 
