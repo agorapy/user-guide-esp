@@ -67,15 +67,15 @@ Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda
 
 La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Viernes 9' en una tienda.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)
+![![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)](/assets/visualizar_ciclo.JPG)
 
 La nota también se muestra al momento de confirmar el pedido, cuando el cliente selecciona su método de envío (ver a continuación) y se incluye en el correo electrónico de confirmación del pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/shipping-info.png)
+![](/assets/info_envio.JPG)
 
 El mensaje **Instrucciones de recogida** se incluirá en el correo electrónico de confirmación del pedido del cliente, debajo del mensaje que corresponde al método de envío elegido (ver más abajo). Esta nota está diseñada para que solo sea visible para los clientes, por lo que puede incluir información más sensible, como direcciones o números de teléfono, etc. Ver más abajo para un ejemplo del correo electrónico de confirmación de pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Collection-details.png "Mensaje de los detalles de recogida")
+![](/assets/instrucciones_correo_recoger.jpg)
 
 **Agregar tarifa:** Nuevamente, se puede asignar una tarifa de negocio previamente creada a este distribuidor.
 
@@ -89,7 +89,7 @@ Haga clic en Crear para guardar este ciclo de orden.
 
 Para ciclos de pedidos periódicos y repetitivos, puede copiar un ciclo de pedido existente y cambiar las fechas para agilizar el proceso. Vea abajo.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/copy-order-cycle.png "Duplicar Ciclo de Pedido")
+![](/assets/duplicar_ciclos.jpg)
 
 Los ciclos de pedido se mostrarán en verde cuando estén activos, amarillos cuando se programen para una fecha futura y gris cuando se hayan cerrado. Cuando un ciclo de pedido se cierra hace más de un mes, ya no aparecerá en esta lista. Para ver todos sus ciclos de pedidos pasados, haga clic en 'mostrar más' en la parte superior de la lista.
 
