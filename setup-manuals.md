@@ -7,7 +7,7 @@ En primer lugar, ¿eres un ** productor/a **? ¿produces, mezclas, cultivas, hor
 
 * [Productor/a](#soy-productor)
 
-<Button style="primary">Primary</Button>
+<Button block style="primary">Primary block button</Button>
 
 <a href="#soy-productor" class="button-two"> Productor/a</a> 
 
