@@ -32,19 +32,19 @@ Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo 
 
 **Nombre:** Escriba un nombre para el ciclo de pedido que sea significativo para usted. Le recomendamos que siga un protocolo de nombres consistente, por ejemplo, MiTienda_Semana27_2018. También le recomendamos que incluya el nombre de su tienda en el nombre del ciclo de pedido, de modo que la asistencia de Red Ágora pueda identificar sus ciclos de pedido si necesita ayuda.
 
-**Apertura de los pedidos:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
+**Pedidos abiertos a:** Esta es la fecha en la que su tienda en Red Ágora estará abierta, visible y comenzará a aceptar pedidos de clientes.
 
 **Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Añadir cargos de coordinador:** Como tienda en línea, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación a la coordinación. La tarifa adicional se obtendrá de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md).
+**Añadir comisión de coordinador:** Como tienda en línea, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación a la coordinación. La tarifa adicional se obtendrá de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md).
 
-> Solo puede aplicar una tarifa del negocio que se haya creado previamente.
+> Solo puede aplicar una tarifa de negocio que se haya creado previamente.
 
 ![](/assets/crear_nuevo_ciclo.JPG)
 
 ### Entrante: seleccione productor y productos
 
-La sección **Entrante** es donde puede seleccionar los productores y sus productos, que estarán disponibles en este ciclo de pedido. En el menú desplegable, verá a todos los productores que le han otorgado permiso para agregar sus productos a su ciclo de pedido (consulte la sección _Relaciones con productores_ para obtener más información). Después de seleccionar un productor y hacer clic en **Agregar productor**, todos los productos asociados con ese productor estarán visibles. Verifique los productos que desea agregar a la tienda o haga clic en **Seleccionar Todo**. 
+La sección **Entrante** es donde puede seleccionar los productores y sus productos, que estarán disponibles en este ciclo de pedido. En el menú desplegable **Productos**, verá a todos los productores que le han otorgado permiso para agregar sus productos a su ciclo de pedido (consulte la sección _Relaciones con productores_ para obtener más información). Después de seleccionar un productor y hacer clic en **Agregar productor**, todos los productos asociados con ese productor estarán visibles. Verifique los productos que desea agregar a la tienda o haga clic en **Seleccionar Todo**. 
 
 > Nota: Los productos que tienen un valor "a mano" de cero (sin stock disponible) seguirán siendo visibles, por lo que debe asegurarse de tener un inventario adecuado de los productos seleccionados.
 
@@ -53,7 +53,7 @@ La sección **Entrante** es donde puede seleccionar los productores y sus produc
 
 Los campos **Detalles de recepción** son opcionales. Si desea utilizar el botón **Notificar a Productores**, para enviar pedidos a sus productores proveedores, debe escribir sus instrucciones de recibo de stock aquí (más información en la sección **Notificar Productores** en la parte inferior de esta página).
 
-El botón **Agregar tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada OrdenAdministrador al Productor de Fruta.
+El botón **Añadir tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada OrdenAdministrador al Productor de Fruta.
 
 Esta tarifa se aplicará a todos los productos de este Productor. La tarifa se obtiene de acuerdo con la calculadora de tarifas que se seleccionó cuando la creó en [Tarifa de Empresa](/enterprise-fees.md).
 
