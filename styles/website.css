@@ -1,36 +1,13 @@
 /*Button Two*/
 a.button-two {
-  border-radius: 4px;
-  background-color:#27ae60;
-  border: none;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  color: white;
-}
-
-
-a.button-two span {
-  cursor: pointer;
   display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-a.button-two span:after {
-  content: '»';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-a.button-two:hover span {
-  padding-right: 25px;
-}
-
-a.button-two:hover span:after {
-  opacity: 1;
-  right: 0;
+  border-radius: 2px;
+  border: none;
+  height: 45px;
+  padding: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #26cb7c;
+  color: white;
+  width: 40%;
 }
