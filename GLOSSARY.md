@@ -42,9 +42,15 @@ Un método de pago define la forma en la que será entregado un pedido a los con
 
 ## Proveedor
 
+Un proveedor es un productor/a que provee de productos a los Centros de Venta. Un proveedor debe estar registrado en la Red Ágora y debe conceder permiso para que los Centros de Venta puedan indicarles como proveedores y así poder ver sus productos.
+
 ## Distribuidor
 
+Un distribuidor es un Centro de Venta que puede tener los productos de uno o varios Proveedores en su tienda en línea. Cada distribuidor opera de manera independiente, cada uno con su propio método de pago y entrega, infraestructura y capacidad de logística.
+
 ## Variante
+
+Una variante de un producto es un producto con características muy similares al producto original y que sólo varían en detalles pequeños como tamaño, color, sabor, etc. Por ejemplo, dado el producto "Mermelada", las variantes pueden ser: "Mermelada de Frutilla de 200g" o "Mermelada de Ciruela 300g". 
 
 ## Inventario
 
