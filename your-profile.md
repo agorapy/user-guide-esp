@@ -21,8 +21,8 @@ Cada sección del menú "Configuración del negocio se explica a continuación:
 
 Secciones solo para vendedores/a:
 * [Configuración de inventario](#configuración-de-inventario)
-* [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#métodos-de-envío-,-métodos-de-pago-y-tarifas-del-negocio)
-* [Reglas de Etiqueta](#reglasde-etiqueta)
+* [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#métodos-de-envío,-métodos-de-pago-y-tarifas-del-negocio)
+* [Reglas de Etiqueta](#reglas-de-etiqueta)
 * [Preferencias de la tienda en línea](#preferencias-de-la-tienda-en-línea)
  
 > Recordatorio: al editar, haga clic en el botón Actualizar **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
