@@ -2,9 +2,6 @@
 
 La configuración de negocio es donde puede administrar los detalles relacionados con su perfil y su tienda en línea.
 
-Este video le mostrará cómo acceder, editar y agregar información a su perfil en cualquier momento.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCxfNiLxwDk" frameborder="0" allowfullscreen></iframe>
 
 ### Acceda a la configuración de su negocio
 1. Haga clic en 'Negocio' en el menú horizontal azul
@@ -23,10 +20,10 @@ Cada sección del menú "Configuración del negocio se explica a continuación:
 * [Propiedades](#propiedades)
 
 Secciones solo para vendedores/a:
-* [Configuración de inventario](#inventory-settings)
-* [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
-* [Reglas de Etiqueta](#tag-rules)
-* [Preferencias de la tienda](#shop-preferences)
+* [Configuración de inventario](#configuración-de-inventario)
+* [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#métodos-de-envío-,-métodos-de-pago-y-tarifas-del-negocio)
+* [Reglas de Etiqueta](#reglasde-etiqueta)
+* [Preferencias de la tienda en línea](#preferencias-de-la-tienda-en-línea)
  
 > Recordatorio: al editar, haga clic en el botón Actualizar **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
 
