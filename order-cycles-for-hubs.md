@@ -53,7 +53,7 @@ La sección **Entrante** es donde puede seleccionar los productores y sus produc
 
 Los campos **Detalles de recepción** son opcionales. Si desea utilizar el botón **Notificar a Productores**, para enviar pedidos a sus productores proveedores, debe escribir sus instrucciones de recibo de stock aquí (más información en la sección **Notificar Productores** en la parte inferior de esta página).
 
-El botón **Añadir tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada OrdenAdministrador al Productor de Fruta.
+El botón **Añadir tarifa** es donde puede aplicar una tarifa del negocio, perteneciente a ese productor. Seleccione el nombre del negocio en el primer cuadro desplegable y luego haga clic en el nombre de la tarifa de negocio en el segundo cuadro desplegable. En el siguiente ejemplo, se aplica una tarifa de negocio llamada "transporte".
 
 Esta tarifa se aplicará a todos los productos de este Productor. La tarifa se obtiene de acuerdo con la calculadora de tarifas que se seleccionó cuando la creó en [Tarifa de Empresa](/enterprise-fees.md).
 
