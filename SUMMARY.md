@@ -22,7 +22,7 @@
   * [Payment Methods](payment-methods.md)
   * [Shipping Methods](shipping-methods.md)
   * [Enterprise Fees](enterprise-fees.md)
-  * [Order Cycles \(for Hubs\)](order-cycles-for-hubs.md)
+  * [Ciclos de pedidos (para Centros de Venta)](order-cycles-for-hubs.md)
   * [Ciclos de pedidos \(para productores/as\)](order-cycles-for-producers.md)
   * [Ver pedidos](view-orders.md)
   * [Reports](get-reports.md)
@@ -57,10 +57,10 @@
     * [Your farm on Facebook](putting-your-farm-on-facebook.md)
   * [Orders](ordres.md)
     * [Create an Order](create-orders.md)
-* [FAQs](chapter1.md)
-  * [Costumer faqs](chapter1/customer-faqs.md)
-  * [Producer faqs](chapter1/producer-faqs.md)
-  * [Hubs faqs](chapter1/hub-faqs.md)
+* [Preguntas frecuentes](chapter1.md)
+  * [Para consumidores](customer-faqs.md)
+  * [Para productores/as](producer-faqs.md)
+  * [Para Centros de Venta](hub-faqs.md)
 
 
 
