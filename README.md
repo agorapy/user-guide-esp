@@ -1,6 +1,6 @@
 # Manual de usuario de la Red Ágora
 
-Esta guía de usuario proporciona información para los productores/as y centros de ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
+Esta guía de usuario proporciona información para los Productores/as y Centros de Ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
 
 ## Primeros Pasos
 Una vez que haya contactado con nosotros para crearle una cuenta en la Red Ágora, ya podrá empezar a administrar su tienda siguiendo los siguientes pasos: 
@@ -13,18 +13,18 @@ Una vez que haya contactado con nosotros para crearle una cuenta en la Red Ágor
 ## Buscar
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
 
-## Explore nuestras funciones básicas y avanzadas
-El contenido de esta guía está separado en las características básicas y [características avanzadas](/advanced-features.md). Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
-
 ## Preguntas frecuentes
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
-<a href="/hub-faqs.md" class="button transparent">Centros de Ventas</a> 
+<a href="/hub-faqs.md" class="button transparent">Centros de Ventas</a>
 
-<a href="/producer-faqs.md" class="button transparent">Productor/a</a> 
+<a href="/producer-faqs.md" class="button transparent">Productor/a</a>
 
-<a href="/costumer-faqs.md" class="button transparent">Consumidor/a</a> 
+<a href="/costumer-faqs.md" class="button transparent">Consumidor/a</a>
+
+## Explore nuestras funciones básicas y avanzadas
+El contenido de esta guía está separado en las características básicas y [características avanzadas](/advanced-features.md). Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
 
 ## Glosario
-Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita.
+Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita en el [Glosario](GLOSSARY.md).
 
