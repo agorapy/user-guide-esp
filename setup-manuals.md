@@ -5,12 +5,12 @@ Para ayudarle a navegar por la guía del usuario, hemos creado manuales de confi
 
 En primer lugar, ¿eres un ** productor/a **? ¿produces, mezclas, cultivas, horneas o elaboras alimentos? si es así, mira la sección: 
 
-* [Productor/a](#soy-productor)
-
-<a href="#soy-productor" class="button-two"> Productor/a</a> 
+<a href="#soy-productor" class="button"> Productor/a</a> 
 
 Si no, se te llama '** Centro de Venta **', lo que significa que no solo estás produciendo alimentos, sino que puedes también estar vendiendo o distribuyendo productos de otros. Siga a la sección:
-* [Centro de Venta](#soy-un-centro-de-venta)
+
+<a href="#soy-un-centro-de-venta" class="button">Centro de Venta</a> 
+
 
 ### Soy productor
 _Un productor/a es quien produce, mezcla, cultiva, hornea o elabora alimentos._
@@ -20,6 +20,10 @@ y quiero...
 * ** ser visible ** en el directorio de la Red Ágora y presentarme. No \(todavía\) deseo vender mis productos a través de una tienda en línea
 
   > Crear un [Perfil](/getting-started.md)
+
+<a href="#getting-started.md" class="button">Crear un Perfil</a> 
+
+
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor)
 
