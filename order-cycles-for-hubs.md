@@ -12,13 +12,11 @@ Por ejemplo, cada lunes por la mañana una tienda podría evaluar el stock de su
 
 ## 1. Acceder a Ciclos de Pedidos
 
-Puede crear un ciclo de pedido y ver ciclos de pedido anteriores haciendo clic en **Administrar ciclos de pedido** en su panel principal.
+Puede crear un ciclo de pedido y ver ciclos de pedido anteriores haciendo clic en **Gestionar los ciclos de pedido** en su panel principal.
 
 ![](/assets/gestionar_ciclos.JPG)
 
 O desde el menú horizontal en la parte superior de la página.
-
-![](/assets/nuevo_ciclo.JPG)
 
 ## 2. Crear un nuevo Ciclo de Pedido
 
@@ -26,7 +24,9 @@ A continuación se muestra la primera etapa para crear un ciclo de pedido.
 
 * Recuerde, no puede crear un ciclo de pedido hasta que haya configurado los métodos de [entrega](/shipping-methods.md) y [pago](/payment-methods-2.md).
 
-![![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Set-coordinator.png "Establecer el Coordinador del Ciclo de Pedido")](/assets/seleccionar_coord_ciclo.JPG)
+![](/assets/nuevo_ciclo.JPG)
+
+![](/assets/seleccionar_coord_ciclo.JPG)
 
 Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo de pedido tiene plenos poderes y permisos para editar y administrar un ciclo de pedido. Otros negocios involucrados (como productores o distribuidores) tienen capacidades restringidas para editar un ciclo de pedido (para obtener más información, haga clic [aquí](/permissions-in-multi-enterprise-order-cycles.md)). Después de seleccionar al coordinador, el ciclo de pedido se restringirá según quién haya otorgado permiso a este coordinador para agregarlos a un ciclo (P-OC). Para obtener más información sobre los permisos del Negocio vaya a [aquí](/enterprise-to-enterprise-permissions-e2es.md).
 
