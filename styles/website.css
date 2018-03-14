@@ -10,4 +10,10 @@ a.button-two {
   background-color: #26cb7c;
   color: white;
   width: 40%;
+  
+  width: 100%;
+  position: relative;
+  display: inline-block;
+  //margin: 10px;
+  text-align: center;
 }
