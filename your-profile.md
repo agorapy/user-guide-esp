@@ -12,21 +12,21 @@ Este video le mostrará cómo acceder, editar y agregar información a su perfil
 
 Cada sección del menú "Configuración del negocio se explica a continuación:
 
-* ##### [Detalles primarios](#detalles-primarios)
-* ##### [Usuarios](#usuarios)
-* ##### [Dirección](#dirección)
-* ##### [Contacto](#contacto)
-* ##### [Social](#social)
-* ##### [Acerca de](#acerca-de)
-* ##### [Detalles del Negocio](#detalles-del-negocio)
-* ##### [Imágenes](#imágenes)
-* ##### [Propiedades](#propiedades) (sólo para productores)
+* [Detalles primarios](#detalles-primarios)
+* [Usuarios](#usuarios)
+* [Dirección](#dirección)
+* [Contacto](#contacto)
+* [Social](#social)
+* [Acerca de](#acerca-de)
+* [Detalles del Negocio](#detalles-del-negocio)
+* [Imágenes](#imágenes)
+* [Propiedades](#propiedades) (sólo para productores)
 
 Secciones solo para vendedores/a:
-* ##### [Configuración de inventario](#inventory-settings)
-* ##### [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
-* ##### [Reglas de Etiqueta](#tag-rules)
-* ##### [Preferencias de la tienda](#shop-preferences)
+* [Configuración de inventario](#inventory-settings)
+* [Métodos de Envío, Métodos de Pago y Tarifas del negocio](#Shipping-Methods,-Payment-Methods-and-Enterprise-Fees)
+* [Reglas de Etiqueta](#tag-rules)
+* [Preferencias de la tienda](#shop-preferences)
  
 > Recordatorio: al editar, haga clic en el botón Actualizar **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
 
@@ -55,6 +55,8 @@ Secciones solo para vendedores/a:
 **Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
 
 **Administrador/a:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador/a como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores/as. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
+
+---
 
 #### Dirección
 
