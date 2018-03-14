@@ -2,10 +2,13 @@
 
 Esta guía de usuario proporciona información para los productores/as y centros de ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
 
-## Encuentre el manual de configuración adecuado para usted
-Hemos reunido manuales de configuración únicos que proporcionan una guía de configuración específica dependiendo de cómo desea utilizar la Red Ágora. Eche un vistazo a nuestros manuales de configuración para encontrar el que sea adecuado para usted.
+## Primeros Pasos
+Una vez que haya contactado con nosotros para crearle una cuenta en la Red Ágora, ya podrá empezar a administrar su tienda siguiendo los siguientes pasos: 
 
-> Ver los [Manuales de configuración](/setup-manuals.md)
+<a href="/your-profile.md" class="button">1. Administrar su perfil</a> 
+<a href="/products.md" class="button">2. Administrar su catálogo de productos</a> 
+<a href="/order-cycles-for-producers.md" class="button">3. Administrar sus ciclos de pedido</a> 
+<a href="/orders.md" class="button">4. Administrar sus pedidos</a> 
 
 ## Buscar
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
@@ -16,11 +19,11 @@ El contenido de esta guía está separado en las características básicas y [ca
 ## Preguntas frecuentes
 Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus dudas.
 
-> [Centros de Ventas](/hub-faqs.md)
+<a href="/hub-faqs.md" class="button">Centros de Ventas</a> 
 
-> [Productor/a](/producer-faqs.md)
+<a href="/producer-faqs.md" class="button">Productor/a</a> 
 
-> [Consumidor/a](/costumer-faqs.md)
+<a href="/costumer-faqs.md" class="button">Consumidor/a</a> 
 
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita.
