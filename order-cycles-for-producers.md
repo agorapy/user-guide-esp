@@ -10,7 +10,7 @@ Acceda a Ciclos de pedido desde el menú horizontal en la parte superior de la p
 ## 2. Crear un nuevo ciclo de pedido
 > Tenga en cuenta que no puede crear un ciclo de pedido hasta que haya configurado los métodos de [entrega](/shipping-methods.md) y [pago](/payment-methods.md).
 
-Hacer que un perfil de productor/a se pueda encontrar a través de una categoría de producto. [Aquí](/making-a-producer-profile-searchable.md).
+Hacer que un perfil de productor/a se pueda encontrar a través de una categoría de producto. [Aquí](/making-a-producer-profile-searchable-by-product-category.md).
 
 ![](/assets/nuevo_ciclo.JPG)
 
