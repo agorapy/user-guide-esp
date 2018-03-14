@@ -56,28 +56,27 @@ Haga clic en el ícono editar \([![](https://openfoodnetwork.org/wp-content/uplo
 
 Después de hacer clic en el botón de edición en el lado derecho de un pedido (ver imagen arriba) se le dirigirá a una vista detallada del pedido (abajo). Las funcionalidades dentro de esta página serán discutidas a continuación.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/View-Order.png "Ver Pedido")
+![](/assets/editar_pedido.JPG)
 
 **Agregar y eliminar productos de un pedido**
 
 You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
 Puede seleccionar un producto para agregar al pedido. Para eliminar un producto, haga clic en el icono de cubo de basura en el lado derecho de un producto. También puede cambiar la cantidad ordenada. Recuerde hacer clic en el botón **actualizar y recalcular tarifas** para guardar los cambios.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Order-actions.png "Acciones de Pedidos")
-
+![](/assets/desplegable_pedidos.JPG)
 **Reenviar el correo electrónico de confirmación**
 
 Si realiza cambios en el pedido de un cliente, es posible que desee volver a enviar un correo electrónico de confirmación de pedido actualizado al cliente.
-
-**Imprimir factura**
-
-Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF o enviarla a una impresora.
 
 **Enviar la factura**
 
 Para enviar una factura al cliente, haga clic en el botón 'enviar factura'. Esto enviará un correo electrónico al cliente con un archivo PDF adjunto. El diseño de la factura se muestra a continuación.
 
-**Cancelar una orden**
+**Imprimir factura**
+
+Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF o enviarla a una impresora.
+
+**Cancelar pedido**
 
 Haga clic en el botón cancelar para cancelar un pedido.
 
