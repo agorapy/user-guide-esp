@@ -50,7 +50,7 @@ Haga clic en el ícono de marcar para indicar que se recibió el pago \(![](http
 Haga clic en el ícono de la carretera para indicar que la orden se envió \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shipped.png "Botón de Entrega")\).  
 Haga clic en el ícono editar \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png "Botón de editar pedido")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Edit-order.png)\) para editar un pedido y ver información más detallada al respecto (ver más abajo).
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/tracking-orders.png "Seguimiento y edición de pedidos")
+![](/assets/opciones_pedidos.JPG)
 
 #### Editar un pedido
 
