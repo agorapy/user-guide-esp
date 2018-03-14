@@ -9,6 +9,7 @@ En primer lugar, ¿eres un ** productor/a **? ¿produces, mezclas, cultivas, hor
 
 <button>Botón</button>
 
+
 Si no, se te llama '** Centro de Venta **', lo que significa que no solo estás produciendo alimentos, sino que puedes también estar vendiendo o distribuyendo productos de otros. Siga a la sección:
 * [Centro de Venta](#soy-un-centro-de-venta)
 
