@@ -36,7 +36,7 @@ Seleccione el coordinador del ciclo de pedido. El negocio que coordina un ciclo 
 
 **Cierre de los pedidos:** Esta es la fecha en que su tienda en Red Ágora se cerrará y dejará de aceptar pedidos. Si tiene la intención de tener un ciclo de pedido que esté continuamente abierto, seleccione una fecha de cierre que esté bien en el futuro.
 
-**Añadir cargos de coordinador:** Como tienda en línea, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación con la coordinación. La tarifa adicional se obtendrá de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md).
+**Añadir cargos de coordinador:** Como tienda en línea, lo más probable es que usted sea el coordinador. Aquí puede aplicar tarifas que guarden relación a la coordinación. La tarifa adicional se obtendrá de acuerdo con la calculadora seleccionada en [Tarifas de Empresa](/enterprise-fees.md).
 
 > Solo puede aplicar una tarifa del negocio que se haya creado previamente.
 
