@@ -21,23 +21,23 @@ y quiero...
 
   > Crear un [Perfil](/getting-started.md)
 
-<a href="/getting-started.md" class="transparent">Crear un Perfil</a> 
+<a href="/getting-started.md" class="button transparent">Crear un Perfil</a> 
 
   
 * ** proveer mis productos ** a una tienda en línea de la Red Ágora que es operada por otra persona (soy un proveedor)
 
   > Crear un [Perfil de productor/a](/getting-started.md)
 
-<a href="/getting-started.md" class="transparent">Crear un Perfil de Productor/a</a> 
+<a href="/getting-started.md" class="button transparent">Crear un Perfil de Productor/a</a> 
 
 * ** vender mis propios productos ** con mi propia tienda en línea en la Red Ágora
 
-<a href="/producer-set-up-guide.md" class="transparent">Crear una Tienda en Línea de Productor/a</a> 
+<a href="/producer-set-up-guide.md" class="button transparent">Crear una Tienda en Línea de Productor/a</a> 
 
 * ** vender mis propios productos y productos de otros productores ** con una tienda en línea
 
   > Crear un [Centro de Venta para Productor/a](/hubs-set-up-guide.md)
-<a href="/hubs-set-up-guide.md" class="transparent">Crear un Centro de Venta para Productor/a</a> 
+<a href="/hubs-set-up-guide.md" class="button transparent">Crear un Centro de Venta para Productor/a</a> 
 
   
 ### Soy un Centro de Venta
