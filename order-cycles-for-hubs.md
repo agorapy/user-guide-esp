@@ -65,7 +65,7 @@ Los distribuidores seleccionados en la sección **Saliente** tendrán una tienda
 
 ![](/assets/ciclo_saliente.JPG)
 
-La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Viernes 9' en una tienda.
+La columna de **etiquetas** es donde puede etiquetar el ciclo de su pedido (consulte [Cuentas de clientes y Etiquetado](/customer-accounts-and-tagging.md)). El cuadro **Listo para (fecha / hora)** le informa al cliente cuándo su pedido estará listo para la recolección o la entrega. Si su ciclo de pedido es perpetuo, lo que cumple órdenes de manera individual en lugar de a granel, debe ingresar algo así como '24hs después de la recepción del pedido'. El siguiente ejemplo muestra cómo se muestra 'Recoge tu pedido desde nuestro local. Listo para: 2018/03/15' en una tienda.
 
 ![![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ready-for.png)](/assets/visualizar_ciclo.JPG)
 
