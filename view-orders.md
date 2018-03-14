@@ -1,6 +1,6 @@
 # Ver pedidos
 
-Puede interactuar con pedidos a través de dos páginas dentro de la Red Ágora, la página Listado de Pedidos y la página de Gestión de Pedidos Masivos. Las características de estas dos páginas se analizarán a continuación.
+Puede interactuar con pedidos a través de dos páginas dentro de la Red Ágora, la página **Listado de Pedidos** y la página de Gestión de Pedidos Masivos. Las características de estas dos páginas se analizarán a continuación.
 
 ## Listado de Pedidos
 
@@ -8,18 +8,18 @@ La página de orden de listado muestra una vista de lista de todos los pedidos r
 
 La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Puede filtrar por fecha, estado o el correo electrónico y el nombre del cliente.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Listing-Orders1.png "Listado de Pedidos")
+![](/assets/listado_pedidos.JPG)
 
 **Distribuidor:** Este es el negocio desde cuya tienda en línea se realizó el pedido.
 
 **Completado el:** Esta es la fecha en que se realizó el pedido.
 
-**Código:** este es un número de orden asignado arbitrariamente.
+**Número:** este es un número de orden asignado arbitrariamente.
 
 **Estado:**
 
-* Completo: el cliente finalizó la compra
-* Cancelado: si el administrador edita el pedido y elige 'cancelarlo'
+* Completo: el cliente finalizó la compra.
+* Cancelado: si el administrador edita el pedido y elige 'cancelarlo'.
 * Carrito: El cliente está en proceso de compra, pero no se confirmado aún.
 
 Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su pedido al momento del pago. Pase el mouse sobre el signo de exclamación para ver la nota.
