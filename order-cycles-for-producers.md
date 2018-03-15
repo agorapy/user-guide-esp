@@ -1,6 +1,6 @@
 # Ciclos de pedidos para productores/as
 
-> Si no eres un productor/a, sino un Centro de Venta ve a [Ciclos de pedidos para Centros de venta](/order-cycles.md).
+> Si no eres un productor/a, sino un Centro de Venta ve a [Ciclos de pedidos para Centros de venta](/order-cycles-for-hubs.md).
 
 Muchos productores/as, que están vendiendo pequeñas cantidades de productos, pueden encontrar útil tener un ciclo de pedidos perpetuamente abierto y cumplir con los pedidos individualmente a medida que llegan. A otros productores, que venden grandes cantidades de productos, a múltiples clientes, les resulta útil establecer ciclos periódicos de pedidos, que se cumplen colectivamente al final de un periodo. Por ejemplo, un agricultor/a puede tener un ciclo de pedido abierto (aceptando pedidos) durante dos semanas. Al final de este ciclo de pedido, todos los pedidos se empaquetan, ordenan y distribuyen al mismo tiempo. Una vez que se ha cumplido este lote de pedidos, se abre un nuevo ciclo de pedido. La estructuración de ciclos de pedidos de esta manera puede hacer que las tareas de empaque y entrega sean más eficientes.
 
