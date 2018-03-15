@@ -57,12 +57,12 @@
 <!---    * [Your farm on Facebook](putting-your-farm-on-facebook.md)-->
 <!---  * [Orders](ordres.md)-->
 <!---    * [Create an Order](create-orders.md)-->
-* Primeros Pasos
+* [Primeros Pasos](primeros-pasos.md)
   * [Administrar perfil](/your-profile.md)
   * [Administrar catálogo de productos](/products.md)
   * [Administrar Ciclos de Pedidos](/order-cycles-for-producers.md)
   * [Administrar Pedidos](/view-orders.md)
-* Preguntas frecuentes
+* [Preguntas frecuentes](preguntas-frecuentes.md)
   * [Para consumidores](customer-faqs.md)
   * [Para productores/as](producer-faqs.md)
   * [Para Centros de Venta](hub-faqs.md)
