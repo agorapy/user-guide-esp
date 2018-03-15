@@ -76,17 +76,17 @@ La casilla de verificación **a menos que haya sido sobreescrito arriba** signif
 
 Puede agregar propiedades a un producto además de las que heredada del negocio \(manteniendo marcada la casilla de verificación y agregando una nueva propiedad arriba\). O puede eliminar la propiedad heredada y agregar otras adicionales. Esto permite que los productos lleven una combinación de propiedades individuales y heredadas del negocio.
 
-## How product properties are displayed in the shop
+## Visualizar las propiedades del producto en la tienda en línea
 
-In the shopfront, customers can see product properties by clicking on the product information popout window.
+En la tienda en línea, los clientes pueden ver las propiedades del producto haciendo clic en la ventana emergente de información del producto.
 
 ![](/assets/tienda_ver_propiedades.JPG)
 
-Properties which apply to the product are shown as an icon, next to the product category.
+Las propiedades que se aplican al producto se muestran como un ícono, al lado de la categoría del producto.
 
 ![](/assets/tienda_pop.JPG)
 
-Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
+Los clientes también pueden buscar según las propiedades del producto dentro de una tienda. Esta herramienta se coloca en la esquina superior derecha de la tienda y permite al cliente buscar productos de acuerdo a sus propiedades.
 
 ![](/assets/tienda_abierta.JPG)
 
