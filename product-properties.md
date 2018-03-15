@@ -80,11 +80,11 @@ You can add properties to a product in addition to those inherited from the ente
 
 In the shopfront, customers can see product properties by clicking on the product information popout window.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/corn-cob-properties.png "Corn cob properties in shop")
+![](/assets/tienda_ver_propiedades.JPG)
 
 Properties which apply to the product are shown as an icon, next to the product category.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Corn-cob-pop-out-window.png "Corn cob pop up window")
+![](/assets/tienda_pop.JPG)
 
 Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
 
