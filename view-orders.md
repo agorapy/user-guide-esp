@@ -30,17 +30,17 @@ Se mostrará un símbolo de exclamación si el cliente incluyó una nota con su 
 
 **Estado de Pago:**
 
-* Pago pendiente: si se trata de efectivo, o transferencia bancaria o EFTPOS, el pedido será 'saldo adeudado' por defecto, hasta que el administrador indique que se ha recibido el pago.
-* Pagado: si se paga mediante algún medio de pago electrónico, esto se actualizará automáticamente a 'pagado' después del pago. Si el pago se ha indicado manualmente como si hubiera ocurrido, el estado también será 'pagado'.
-* Crédito adeudado: si alguien ha pagado su pedido, pero luego edita su pedido y elimina un artículo, el costo de ese artículo se convierte en "crédito adeudado".
+* _Pago pendiente_: si se trata de efectivo, cheque o transferencia bancaria, el pedido será 'Pago pendiente' por defecto, hasta que el administrador indique que se ha recibido el pago.
+* _Pagado_: si se paga mediante algún medio de pago electrónico, esto se actualizará automáticamente a 'pagado' después del pago. Si el pago se ha indicado manualmente como si hubiera ocurrido, el estado también será 'pagado'.
+* _Crédito adeudado_: si alguien ha pagado su pedido, pero luego edita su pedido y elimina un artículo, el estado de este pedido se convierte en "crédito adeudado".
 
 **Estado de entrega:**
 
-* Pendiente: cuando el estado de pago es 'pago pendiente', el estado de envío estará pendiente, lo que significa que hasta que se reciba el pago, el envío no debe comenzar.
-* Listo: cuando se ha recibido el pago (estado pagado o acreditado), el estado de envío se convierte en "listo".
-* Enviado: cuando el producto ha sido editado y se ha hecho clic en el botón 'enviar', el estado se vuelve "Enviado".
+* _Pendiente_: cuando el estado de pago es 'pago pendiente', el estado de envío estará pendiente, lo que significa que hasta que se reciba el pago, el envío no debe comenzar.
+* _Listo_: cuando se ha recibido el pago (estado pagado o acreditado), el estado de envío se convierte en "listo".
+* _Enviado_: cuando el pedido ha sido entregado y se ha hecho clic en el botón 'enviar', el estado se vuelve "Enviado".
 
-> Nota: No puede configurar un pedido para 'enviado' a menos que el estado de pago del pedido sea 'Pagado'.
+> Nota: No puede indicar un pedido como 'enviado' a menos que el estado de pago del pedido sea 'Pagado'.
 
 **Correo electrónico del cliente:** el correo electrónico de contacto del cliente. Se puede extraer una lista completa de los correos electrónicos de los clientes en el informe de la [lista de correo](/reports.md).
 
@@ -64,10 +64,12 @@ Después de hacer clic en el botón de edición en el lado derecho de un pedido 
 
 **Agregar y eliminar productos de un pedido**
 
-You can select a product to add to the order. To remove a product click the rubbish bin icon on the right hand side of a product. You can also change the quantity ordered. Remember to click the **update and recalculate fees **button to save changes.
 Puede seleccionar un producto para agregar al pedido. Para eliminar un producto, haga clic en el icono de cubo de basura en el lado derecho de un producto. También puede cambiar la cantidad ordenada. Recuerde hacer clic en el botón **actualizar y recalcular tarifas** para guardar los cambios.
 
+En el menú desplegable "Acciones" (ver imagen de abajo) tiene también las siguientes funciones:
+ 
 ![](/assets/desplegable_pedidos.JPG)
+
 **Reenviar el correo electrónico de confirmación**
 
 Si realiza cambios en el pedido de un cliente, es posible que desee volver a enviar un correo electrónico de confirmación de pedido actualizado al cliente.
@@ -76,15 +78,17 @@ Si realiza cambios en el pedido de un cliente, es posible que desee volver a env
 
 Para enviar una factura al cliente, haga clic en el botón 'enviar factura'. Esto enviará un correo electrónico al cliente con un archivo PDF adjunto. El diseño de la factura se muestra a continuación.
 
+![](/assets/factura.JPG "Ejemplo de Factura")
+
+
 **Imprimir factura**
 
 Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF o enviarla a una impresora.
 
+
 **Cancelar pedido**
 
 Haga clic en el botón cancelar para cancelar un pedido.
-
-![](/assets/factura.JPG)
 
 **Marcar una orden como pagada**
 
