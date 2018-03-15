@@ -4,8 +4,8 @@ La configuración de negocio es donde puede administrar los detalles relacionado
 
 
 ### Acceda a la configuración de su negocio
-1. Haga clic en 'Negocio' en el menú horizontal azul
-2. Haga clic en 'Administrar' al lado del nombre su negocio
+1. Haga clic en **Negocios** en el menú horizontal azul
+2. Haga clic en **Gestionar** al lado del nombre su negocio
 
 Cada sección del menú "Configuración del negocio se explica a continuación:
 
