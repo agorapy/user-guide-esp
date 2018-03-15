@@ -105,7 +105,7 @@ Sus clientes pueden ver una lista de sus pedidos cuando inician sesión en la Re
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png "Login de la cuenta del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Account-login.png)
 
-Aquí sus clientes podrán ver los pedidos y pagos pasados, así como un saldo corriente en su tienda. Esto debe mantenerse actualizado para que los clientes puedan ver un balance preciso.
+Aquí sus clientes podrán ver los pedidos y pagos anteriores, así como un saldo corriente en su tienda. Esto debe mantenerse actualizado para que los clientes puedan ver un balance preciso.
 
 [![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png "Cuenta del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Orders.png)
 
