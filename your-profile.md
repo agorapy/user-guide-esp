@@ -149,7 +149,7 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 
 **Mensaje "cerrado"**: este mensaje se mostrará cuando su tienda en línea esté cerrada \(sin ciclos de pedidos abiertos\). Es una oportunidad para contarles a los clientes cómo funcionan sus pedidos y cuándo se abrirá la tienda y aceptarán pedidos.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/store-closed.png "tienda cerrada")
+![](/assets/tienda_cerrada.JPG)
 
 **¿Tienda en línea visible?**: si selecciona "público", cualquier comprador podrá ver su tienda. Si selecciona 'visible solo para clientes registrados', se les pedirá a los compradores que accedan a su tienda que inicien sesión, y solo aquellos usuarios que estén en su lista de clientes tendrán acceso a su tienda.
 
