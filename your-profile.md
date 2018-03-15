@@ -145,7 +145,7 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 
 **Mensaje de la tienda en línea**: este mensaje es opcional. Se mostrará en la parte superior de su tienda en línea, encima de las listas de productos. Es una oportunidad para proporcionar información básica al cliente sobre cómo funciona su tienda. Por ejemplo, puede explicar cómo se estructuran sus ciclos de pedidos o cualquier requisito de membresía. También podría ser un saludo amistoso o la oportunidad de dar a conocer promociones especiales. Un ejemplo a continuación:
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Shopfront-Message.png "Mensaje de Tienda")
+![](/assets/tienda_ver.JPG)
 
 **Mensaje "cerrado"**: este mensaje se mostrará cuando su tienda en línea esté cerrada \(sin ciclos de pedidos abiertos\). Es una oportunidad para contarles a los clientes cómo funcionan sus pedidos y cuándo se abrirá la tienda y aceptarán pedidos.
 

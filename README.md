@@ -27,4 +27,3 @@ El contenido de esta guía está separado en las características básicas y [ca
 
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita en el [Glosario](GLOSSARY.md).
-
