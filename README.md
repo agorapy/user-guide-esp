@@ -22,8 +22,5 @@ Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus
 
 <a href="/costumer-faqs.md" class="button transparent">Consumidor/a</a>
 
-## Explore nuestras funciones básicas y avanzadas
-El contenido de esta guía está separado en las características básicas y [características avanzadas](/advanced-features.md). Puede navegar por estos capítulos libremente para encontrar lo que le interesa.
-
 ## Glosario
 Explicamos los términos técnicos que usamos en este manual para que pueda comprender más claramente cómo realizar las configuraciones que necesita en el [Glosario](GLOSSARY.md).
