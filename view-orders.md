@@ -80,15 +80,16 @@ Al hacer clic en esto, tendrá la opción de imprimir una factura en formato PDF
 
 Haga clic en el botón cancelar para cancelar un pedido.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Invoice-example.png "Ejemplo de factura")
+![](/assets/factura.JPG)
 
 **Marcar una orden como pagada**
 
-Para marcar un pedido como pagado, haga clic en el ícono de marcar en la página de lista de pedidos. O haga clic en 'Pagos' en el menú a la derecha y luego haga clic en el ícono de marcar \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Tick.png "paid")\).
+Para marcar un pedido como pagado, haga clic en el ícono de marcar en la página de lista de pedidos. O haga clic en 'Pagos' en el menú a la derecha y luego haga clic en el ícono de marcar
+ \(![](/assets/pedido_pagado.JPG)).
 
 **Marque un pedido como enviado**
 
-Una vez recibido el pago, el botón Enviar estará visible en la parte superior de la página \(![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Ship.png "Entrega")\). Haga clic para registrar que el envío ha ocurrido.
+Una vez recibido el pago, el botón **Enviar** estará visible en la parte superior de la página \(![](/assets/pedido_enviado.JPG)). Haga clic para registrar que el envío ha ocurrido.
 
 **Ver detalles del cliente**
 
