@@ -1,6 +1,6 @@
 # Ciclos de pedidos para Centros de Venta
 
- > Si no eres un vendedor/a sino un productor/a ve a [Ciclo de Pedidos para productores](/order-cycles-for-producers.md).
+ > Si no eres un Centro de Venta sino un productor/a ve a [Ciclo de Pedidos para productores](/order-cycles-for-producers.md).
 
 Usted abre su tienda al público creando un Ciclo de Pedido. Cuando realiza un Ciclo de Pedido, selecciona cuándo está abierto (desde y hasta), qué productos estarán disponibles para la venta y las tarifas que aplicarán.
 
