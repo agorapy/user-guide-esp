@@ -74,7 +74,7 @@ Al editar las propiedades de un producto verá la casilla de verificación titul
 
 La casilla de verificación **a menos que haya sido sobreescrito arriba** significa que si tiene un producto con la misma propiedad, tanto heredada como aplicada, la nueva propiedad aplicada sobreescribirá la propiedad heredada del producto. Por ejemplo, un productor/a ofrece principalmente "huevos de gallina", pero también vende "leche de vaca" en menor frecuencia. Se aplicó la propiedad **rango libre** con la **descripción** "población de 50 gallinas por hectárea" al negocio mismo, entonces la "leche de vaca" también hereda la propiedad **rango libre** pero su descripción debe ser "1 individuo por hectárea", al seleccionar la casilla **a menos que haya sido sobreescrito arriba** la propiedad heredada permanece pero se sobre escribe una nueva **descripción** correcta.
 
-You can add properties to a product in addition to those inherited from the enterprise \(by keeping the checkbox ticked and adding a property above\). Or you can remove the inherited property and add additional ones. This allows products to carry a combination of individual properties and enterprise properties.
+Puede agregar propiedades a un producto además de las que heredada del negocio \(manteniendo marcada la casilla de verificación y agregando una nueva propiedad arriba\). O puede eliminar la propiedad heredada y agregar otras adicionales. Esto permite que los productos lleven una combinación de propiedades individuales y heredadas del negocio.
 
 ## How product properties are displayed in the shop
 
