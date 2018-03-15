@@ -88,7 +88,6 @@ Properties which apply to the product are shown as an icon, next to the product 
 
 Customers can also search according to product properties within a shop. This tool is placed in the top right hand corner of the store and allows customer to search for products according to their properties.
 
-![](https://openfoodnetwork.org/wp-content/uploads/2015/05/filter-by-property.png "Filter by property in shop")
-
+![](/assets/tienda_abierta.JPG)
 
 
