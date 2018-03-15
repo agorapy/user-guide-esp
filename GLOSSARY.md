@@ -40,6 +40,8 @@ Un método de pago define la forma en la que será entregado un pedido a los con
 
 ## Tarifa
 
+Una tarifa es una cantidad fija, un porcentaje, una cantidad variable que se cobra por algún bien o servicio ofrecido por una organización. Los tipos de tarifas pueden ser por transporte, por administración, por empaquetamiento o por venta.
+
 ## Proveedor
 
 Un proveedor es un productor/a que provee de productos a los Centros de Venta. Un proveedor debe estar registrado en la Red Ágora y debe conceder permiso para que los Centros de Venta puedan indicarles como proveedores y así poder ver sus productos.
@@ -54,10 +56,21 @@ Una variante de un producto es un producto con características muy similares al
 
 ## Inventario
 
+El inventario alberga los productos de uno o varios proveedores de tal modo que la gestión de los productos se realice de manera independiente a la gestión que realiza el proveedor. No todos los Centros de Venta necesitan la función de inventario y es más relevante para aquellos que necesitan configuraciones más complejas, por ejemplo para editar la descripción, precio y niveles de stock de los productos.
+
 ## Propiedades
+
+Las propiedades son características que poseen los productos, como la técnica de cultivo, el manejo del suelo, el control de plagas, etc. Es una forma de que sus clientes conozcan más sobre lo que están consumiendo. Las propiedades pueden ser: orgánico, agroecológico, convencional, producción campesina, entre otros. Usted puede crear su propia propiedad según necesite.
 
 ## Categoría de producto
 
+La categoría de producto es la información sobre el tipo de producto, por ejemplo: vegetal, fruta, carne, grano, bebida, etc. Esto facilita a los consumidores encontrar los productos que están buscando y a la vez le facilitan a usted la gestión de sus productos y pedidos. 
+
 ## Carrito
 
-## Grupos
+El carrito es una analogía al carrito de supermercado en el que va depositando los productos que posteriormente serán procesados en caja. Asimismo, todos los productos que elija serán puestos en su carrito hasta que procesa a confirmar su pedido.
+
+## Grupos de compra
+
+Un grupo de compra es un conjunto de proveedores y distribuidores que trabajan coordinadamente para ofrecer productos alimenticios bajo un esquema más colaborativo. Un grupo de compra puede ser un **grupo de vecinos** que se organizan para contactar con proveedores y ofrecer alimentos en su vecindario; una **feria** que se realiza periódicamente trayendo productos del campesinado; una cooperativa que nuclea a varios productores y ofrece sus productos en mercados alternativos; entre otros.
+
