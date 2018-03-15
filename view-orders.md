@@ -97,7 +97,7 @@ Al hacer clic en los detalles del cliente \(![](/assets/boton_detalles_cliente.J
 
 **Sumar o restar del saldo de la orden**
 
-Al hacer clic en los ajustes \(![](/assets/boton_ajustes.JPG)). Desde aquí puede eliminar las tarifas que ya están en un pedido, o sumar/restar del total del pedido haciendo clic en + Nuevo ajuste. También tiene la capacidad de seleccionar la configuración de impuestos del ajuste. Recuerde, para que una tarifa incluya impuestos, la empresa debe estar configurada para cobrar impuestos en su configuración de perfil.
+Al hacer clic en los ajustes \(![](/assets/boton_ajustes.JPG)). Desde aquí puede eliminar las tarifas que ya están en un pedido, o sumar/restar del total del pedido haciendo clic en + Nuevo ajuste. También tiene la capacidad de seleccionar la configuración de impuestos del ajuste. Recuerde, para que una tarifa incluya impuestos, el negocio debe estar configurada para cobrar impuestos en su configuración de perfil.
 
 #### Vista del cliente
 
