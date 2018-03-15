@@ -1,4 +1,7 @@
 # Productos
+
+En esta página encontrará toda la información necesaria para administrar sus productos desde la Red Ágora. 
+
 ## Agregar productos
 1. Haga clic en **Productos** en el menú azul horizontal superior, y luego haga clic en **+ Nuevo Producto**.<br><br>
 ![](/assets/cargar nuevo producto.JPG)
