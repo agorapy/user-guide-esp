@@ -14,6 +14,10 @@ Un Centro de Venta es una organización (ej. empresa, cooperativa, grupo de volu
 
 Un Ciclo de Pedido es un periodo de tiempo durante el cual los productos serán visibles al público. Usted abre su tienda al público creando un Ciclo de Pedido. Cuando crea un Ciclo de Pedido, selecciona cuándo está abierto (fecha de apertura y cierre), qué productos estarán disponibles para la venta y las tarifas que aplicarán.
 
+## Pedido
+
+Un pedido es una orden que realiza el consumidor para comprar los productos de una tienda. En un pedido se incluye la lista de los productos seleccionados para la compra, los detalles de la tienda, el ciclo de pedido y los datos del consumidor.   
+
 ## Perfil
 
 Tu perfil es el conjunto de datos y configuraciones de su(s) negocio(s). Por ejemplo, su perfil contiene datos de contacto, descripciones de su(s) negocio(s), los métodos de pago y entrega, etc. 
