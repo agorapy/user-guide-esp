@@ -1,14 +1,18 @@
 # Ver pedidos
 
-Puede interactuar con pedidos a través de dos páginas dentro de la Red Ágora, la página **Listado de Pedidos** y la página de Gestión de Pedidos Masivos. Las características de estas dos páginas se analizarán a continuación.
+Aquí encontrarás una guía sobre cómo ver y administrar tus pedidos en la Red Ágora.
 
 ## Listado de Pedidos
 
-La página de orden de listado muestra una vista de lista de todos los pedidos realizados a través de su(s) tienda(s). Desde aquí puede acceder a detalles de pedidos individuales, editar pedidos y rastrear el estado de su pago y envío. Para detalles sobre cómo crear un nuevo pedido, vea [aquí](/create-an-order.md).
+La página de Pedidos muestra la lista de todos los pedidos realizados a través de su(s) tienda(s). Desde aquí puede acceder a detalles de pedidos individuales, editar pedidos y dar seguimiento al estado de su pago y envío. 
+
+> Si desea crear un pedido de parte de algún consumidor, puede hacerlo desde su cuenta de administración. Para más información vea [aquí](/create-an-order.md).
 
 La página tiene filtros que le permiten seleccionar qué pedidos desea ver. Puede filtrar por fecha, estado o el correo electrónico y el nombre del cliente.
 
-![](/assets/listado_pedidos.JPG)
+![](/assets/listado_pedidos.JPG "Lista de pedidos")
+
+La imagen de arriba muestra una tabla con las siguientes columnas: 
 
 **Distribuidor:** Este es el negocio desde cuya tienda en línea se realizó el pedido.
 
