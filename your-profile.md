@@ -4,10 +4,10 @@ La configuración de negocio es donde puede administrar los detalles relacionado
 
 
 ### Acceda a la configuración de su negocio
-1. Haga clic en **Negocios** en el menú horizontal azul
-2. Haga clic en **Gestionar** al lado del nombre su negocio
+1. Haga clic en **Negocios** en el menú horizontal azul.
+2. Haga clic en **Gestionar** al lado del nombre su negocio.
 
-Cada sección del menú "Configuración del negocio se explica a continuación:
+Cada sección del menú "Configuración del negocio" se explica a continuación:
 
 * [Detalles primarios](#detalles-primarios)
 * [Usuarios](#usuarios)
@@ -25,7 +25,7 @@ Secciones solo para vendedores/a:
 * [Reglas de Etiqueta](#reglas-de-etiqueta)
 * [Preferencias de la tienda en línea](#preferencias-de-la-tienda-en-línea)
  
-> Recordatorio: al editar, haga clic en el botón Actualizar **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
+> RECORDATORIO: al editar, haga clic en el botón "Actualizar" **dentro de cada sección** para guardar sus cambios. Está en la parte inferior de la página.
 
 ---
 
