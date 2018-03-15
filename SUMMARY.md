@@ -1,6 +1,7 @@
-# Summary
+# Índice
 
 * [Manual del usuario de la Red Ágora](README.md)
+<!---
 * [Manuales de configuración](setup-manuals.md)
   * [Primeros pasos](getting-started.md)
   * [Producer \(Profile Only\)](producer-profile-only.md)
@@ -57,6 +58,13 @@
     * [Your farm on Facebook](putting-your-farm-on-facebook.md)
   * [Orders](ordres.md)
     * [Create an Order](create-orders.md)
+    
+-->
+* [Primeros Pasos](/README.md)
+  * [Administrar perfil](/your-profile.md)
+  * [Administrar catálogo de productos](/products.md)
+  * [Administrar Ciclos de Pedidos](/order-cycles-for-producers.md)
+  * [Administrar Pedidos](/view-orders.md)
 * [Preguntas frecuentes](chapter1.md)
   * [Para consumidores](customer-faqs.md)
   * [Para productores/as](producer-faqs.md)
