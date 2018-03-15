@@ -45,16 +45,6 @@ Secciones solo para vendedores/a:
 
 ---
 
-#### Usuarios
-
-**Propietario/a:** Este es el usuario principal responsable de esta empresa.
-
-**Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
-
-**Administrador/a:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador/a como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores/as. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
-
----
-
 #### Dirección
 
 Esta información se utiliza para agregar su negocio al mapa de la Red Ágora.
@@ -63,7 +53,7 @@ Esta información se utiliza para agregar su negocio al mapa de la Red Ágora.
 
 #### Contacto
 
-**Nombre de contacto:** Solicitamos un nombre de contacto para los registros de Red Ágora. Este nombre no se mostrará en su perfil, pero se incluirá en los correos electrónicos de confirmación de pedido si está ejecutando una tienda.
+**Nombre de contacto:** Solicitamos un nombre de contacto para los registros de Red Ágora. Este nombre no se mostrará en su perfil, pero se incluirá en los correos electrónicos de confirmación de pedido.
 
 **Correo electrónico, teléfono y sitio web:** Estos datos de contacto se incluirán en su perfil de Red Ágora y su tienda, como medio para que otros se comuniquen con usted.
 
@@ -71,7 +61,7 @@ Esta información se utiliza para agregar su negocio al mapa de la Red Ágora.
 
 #### Social
 
-**Dirección de Facebook, Instagram, LinkedIn, Twitter:** Los enlaces a estas páginas se crearán en su perfil y tienda.
+**Dirección de Facebook, Instagram, LinkedIn, Twitter:** Los enlaces a estas páginas se mostrarán en su perfil y tienda.
 
 ---
 
@@ -158,3 +148,13 @@ Puede controlar la configuración de las etiquetas de los clientes creando regla
 **Ordenamiento de categoría de la tienda**: los productos dentro de su tienda están ordenados alfabéticamente, dentro de su categoría de producto. Puede ordenar las categorías de productos como desee que aparezcan, de arriba a abajo en su tienda. Por ejemplo, es posible que desee que sus productos cereales aparezcan en la parte superior, y sus conservas menos importantes apareciendo al final de la lista.
 
 **Ordenar ciclos de pedido:** Si su tienda en línea tendrá [más de un ciclo de pedido abierto al mismo tiempo](/opening-more-than-one-order-cycle.md) puede seleccionar el orden en el que aparecen en la tienda. Puede ordenarlos por fecha de cierre \(primero los que cierran más pronto\) o fecha de apertura \(primero los que abrieron más pronto\).
+
+#### Usuarios
+
+**Propietario/a:** Este es el usuario principal responsable de esta empresa.
+
+**Notificaciones:** Esta es la dirección de correo electrónico a la que se dirigirá la correspondencia del sistema de Red Ágora, es decir, confirmaciones de pedidos, etc. Si este correo electrónico difiere de su correo electrónico de inicio de sesión, deberá confirmar la dirección de correo electrónico. Tras la confirmación, este correo electrónico se agregará como administrador \(ver más abajo\).
+
+**Administrador/a:** Otros usuarios de la Red Ágora a quienes se les ha otorgado permiso para administrar esta cuenta. Si aún no tienen una cuenta en Red Ágora, puede escribir el correo electrónico del nuevo administrador/a como el correo electrónico de notificación \(ver arriba\), esto les pedirá que obtengan un correo electrónico de confirmación y, una vez confirmados, se convertirán en administradores/as. Si ya es usuario de la Red Ágora, escriba su correo electrónico completo en el campo del administrador y selecciónelos de la lista desplegable.
+
+---
