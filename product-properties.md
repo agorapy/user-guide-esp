@@ -10,7 +10,6 @@ Puede aplicar propiedades a sus productos, como una forma de que sus clientes co
 * Cultivado localmente
 * Low Food Miles
 * Naturalmente Madurado
-* Sin conservantes
 * Orgánico - certificado
 * Orgánico - no certificado
 * Rango libre
@@ -73,7 +72,7 @@ Como se discutió anteriormente, cuando a un negocio se le asigna una propiedad,
 Al editar las propiedades de un producto verá la casilla de verificación titulada ** "Heredar propiedades de (nombre de la empresa) a menos que se sobrescriba arriba". ** De forma predeterminada, cuando un negocio tiene una propiedad, se atribuirá la misma para todos los productos que pertenecen al negocio. Al desmarcar este recuadro, se eliminarán todas las propiedades que se heredaron.
 
 
-El casilla de verificación **a menos que haya sido sobreescrito arriba** significa que si tiene un producto con la misma propiedad, tanto heredado como aplicado, la nueva propiedad aplicada sobre escribirá la propiedad heredada del producto. Por ejemplo, un productor/a almacena principalmente
+El casilla de verificación **a menos que haya sido sobreescrito arriba** significa que si tiene un producto con la misma propiedad, tanto heredado como aplicado, la nueva propiedad aplicada sobre escribirá la propiedad heredada del producto. Por ejemplo, un productor/a almacena principalmente 
 
 The ‘unless overridden above’ component of the checkbox means that if you have a product with the same property, both inherited and applied, the applied property ‘value’ field will override the inherited one. For example, a producer primarily stocks beef products, in addition to some cartons of eggs. They have applied the free range property to their enterprise, with a value \(description\) of ‘Stocking density of 4 cattle to an acre’. Their ‘carton of egg’ product is also ‘free range’ however the value needs to be ‘our chickens live in a mobile egg van, at a density 50 chickens to an acre’. The carton of egg property can have the ‘Inherit properties..’ checkbox ticked, but will also need a ‘free range’ property created, with the correct value field.
 
