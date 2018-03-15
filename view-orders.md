@@ -93,11 +93,11 @@ Una vez recibido el pago, el botón **Enviar** estará visible en la parte super
 
 **Ver detalles del cliente**
 
-Al hacer clic en los detalles del cliente \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png "Detalles del cliente")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Customer-details.png)\) en el menú de la derecha, accederá a una vista completa de los detalles del cliente.
+Al hacer clic en los detalles del cliente \(![](/assets/boton_detalles_cliente.JPG)) en el menú de la derecha, accederá a una vista completa de los detalles del cliente.
 
 **Sumar o restar del saldo de la orden**
 
-Al hacer clic en los ajustes \([![](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png "Ajustes")](https://openfoodnetwork.org/wp-content/uploads/2015/05/Adjustments.png)\). Desde aquí puede eliminar las tarifas que ya están en un pedido, o sumar/restar del total del pedido haciendo clic en + Nuevo ajuste. También tiene la capacidad de seleccionar la configuración de impuestos del ajuste. Recuerde, para que una tarifa incluya impuestos, la empresa debe estar configurada para cobrar impuestos en su configuración de perfil.
+Al hacer clic en los ajustes \(![](/assets/boton_ajustes.JPG)). Desde aquí puede eliminar las tarifas que ya están en un pedido, o sumar/restar del total del pedido haciendo clic en + Nuevo ajuste. También tiene la capacidad de seleccionar la configuración de impuestos del ajuste. Recuerde, para que una tarifa incluya impuestos, la empresa debe estar configurada para cobrar impuestos en su configuración de perfil.
 
 #### Vista del cliente
 
