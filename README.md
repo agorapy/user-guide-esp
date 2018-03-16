@@ -3,7 +3,7 @@
 Esta guía de usuario proporciona información para los Productores/as y Centros de Ventas que deseen utilizar las herramientas y funcionalidades de la Red Ágora.
 
 ## Primeros Pasos
-Una vez que haya contactado con nosotros para crearle una cuenta en la Red Ágora, ya podrá empezar a administrar su tienda siguiendo los siguientes pasos: 
+Una vez que haya completado el formulario de registro de la Red Ágora (si no lo ha completado, puede hacerlo [Aquí](https://goo.gl/forms/xJIpqfp4WI9EIJKw1)), ya podrá empezar a administrar su tienda siguiendo los siguientes pasos: 
 
 <a href="/your-profile.md" class="button transparent">1. Administrar su perfil</a> 
 <a href="/products.md" class="button transparent">2. Administrar su catálogo de productos</a> 
