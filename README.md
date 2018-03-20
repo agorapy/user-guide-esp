@@ -5,10 +5,11 @@ Esta guía de usuario proporciona información para los Productores/as y Centros
 ## Primeros Pasos
 Una vez que haya completado el formulario de registro de la Red Ágora (si no lo ha completado, puede hacerlo [Aquí](https://goo.gl/forms/xJIpqfp4WI9EIJKw1)), ya podrá empezar a administrar su tienda siguiendo los siguientes pasos: 
 
-<a href="/your-profile.md" class="button transparent">1. Administrar su perfil</a> 
-<a href="/products.md" class="button transparent">2. Administrar su catálogo de productos</a> 
-<a href="/order-cycles-for-producers.md" class="button transparent">3. Administrar sus ciclos de pedido</a> 
-<a href="/orders.md" class="button transparent">4. Administrar sus pedidos</a> 
+<a href="/login.md" class="button transparent">1. Iniciar sesión</a>
+<a href="/your-profile.md" class="button transparent">2. Administrar su perfil</a> 
+<a href="/products.md" class="button transparent">3. Administrar su catálogo de productos</a> 
+<a href="/order-cycles-for-producers.md" class="button transparent">4. Administrar sus ciclos de pedido</a> 
+<a href="/orders.md" class="button transparent">5. Administrar sus pedidos</a> 
 
 ## Buscar
 ¿Busca información sobre algo en específico? Use la barra de búsqueda en la esquina superior izquierda para encontrar la información que necesita.
