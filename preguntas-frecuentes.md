@@ -5,5 +5,5 @@ Hemos reunido algunas preguntas frecuentes que podrían aclararle algunas de sus
 
 <a href="/producer-faqs.md" class="button transparent">Productor/a</a>
 
-<a href="/costumer-faqs.md" class="button transparent">Consumidor/a</a>
+<a href="/customer-faqs.md" class="button transparent">Consumidor/a</a>
 

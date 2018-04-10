@@ -4,6 +4,13 @@
 
 No exactamente. Red Ágora es un sitio web que proporciona un directorio en línea y un software de comercio electrónico para las empresas de alimentos. Todas las tiendas en Red Ágora son de propiedad y operación independientes y ofrecen productos y servicios únicos a los clientes. Si bien algunas tiendas pueden ofrecer entregas mixtas de canastas de frutas y verduras, otras pueden tomar pedidos personalizados, o pedir que recoja su pedido de su granja o local. Para encontrar detalles sobre cómo funciona una tienda específica y qué productos y servicios ofrecen, consulte su perfil.
 
+#### ¿Por qué no veo los productos en la página principal?
+
+La plataforma de Red Ágora es similar a un salón multitienda, en el cual cada tienda es independiente. Para realizar su compra, la persona debe primeramente ingresar a la tienda y seleccionar los productos de su preferencia. Para facilitar su búsqueda, puede filtrar tiendas por nombre, por localidad, por tipos (frutas, verduras) y propiedades (orgánico, artesanal) de productos, y hasta por opciones de entrega (Delivery o Entrega).
+
+#### ¿Qué productos puedo encontrar en la Red Ágora?
+
+
 #### ¿Qué son ciclos de pedido?
 
 Algunas tiendas operan sus pedidos y entregas en 'ciclos de pedido', a diferencia de las tiendas que están abiertas permanentemente y procesan los pedidos uno por uno. Los ciclos de pedido son una forma para que las empresas procesen sus pedidos en grupos, lo que hace que su negocio sea más eficiente, por lo que pueden transferirle ahorros a usted \(piense en lo ineficiente que sería para un agricultor cosechar una lechuga cada vez que realiza un pedido\).
@@ -12,27 +19,31 @@ Un ciclo de pedido comienza con un período de tiempo cuando la tienda está abi
 
 Si ve que una tienda está cerrada, simplemente regrese cuando su próximo ciclo de pedido esté abierto para comenzar a comprar con ellos.
 
-#### ¿Cómo se envían los pedidos?
+#### ¿Cómo se entregan los pedidos?
 
-Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o recoger del local. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central (como una escuela, ferias o lugar de trabajo), colección de un despensa del barrio o distribución a través de un grupo de compra (grupo de clientes). En cada caso se manejan costos distintos y cada tienda establece el precio por el servicio de manera independiente.
+Todas las tiendas en línea en la Red Ágora son operadas de manera independiente y ofrecen diferentes métodos de envío. Algunas tiendas ofrecen métodos de envío más convencionales como entrega a domicilio o recoger del local. Otros tendrán formas más creativas para llevar la comida del agricultor al consumidor, como la recolección desde una ubicación central \(como una escuela, ferias o lugar de trabajo\), colección de un despensa del barrio o distribución a través de un grupo de compra \(grupo de clientes\). En cada caso se manejan costos distintos y cada tienda establece el precio por el servicio de manera independiente.
 
 #### ¿Cuáles son las opciones de pago?
 
-La Red Ágora no impone un método de pago y puede usar cualquier método que funcione para usted. Las opciones de pago manejados actualmente incluyen Efectivo, Giros, Cheque y Transferencia. Estamos en proceso de incluir métodos de pago electrónicos, como tarjetas de crédito.
+La Red Ágora no impone un medio de pago específico y depende de cada tienda aceptar tal o cual medio. Por lo general, las opciones de pago manejadas por las tiendas incluyen Efectivo, Giros, Cheque y Transferencia. A la hora de realizar un pedido, usted puede seleccionar el medio de pago con el que desee pagar. Los detalles para cada medio de pago estarán disponibles al momento de realizar el pedido, ej número de cuenta al que realizar la transferencia.
 
 #### ¿Cuáles son las funciones de transparencia de Red Ágora?
 
 Las cadenas de suministro tradicionales de alimentos están envueltas en misterio, lo que dificulta que los clientes sepan de dónde provienen sus alimentos, cómo han sido producidos y dónde terminará su dinero. La transparencia es central para la Red Ágora, porque creemos que las cadenas de suministro visibles son más saludables que las ocultas. En la Red Ágora, los clientes siempre pueden ver de dónde vienen sus alimentos y qué proporción del precio le corresponde al productor.
 
-En una tienda en línea, el gráfico circular de precios le mostrará cómo se asigna el precio entre el productor y el centro de venta (por ejemplo, 10% del precio queda para el centro de venta y 90% va para el productor). También puede ver las propiedades del producto \(como certificado orgánico, agroecológico, convencional, etc.) para saber más sobre cómo se produjo la comida. También tendrá información acerca de los productores y centros de venta, para conocer sus historias, sus datos de contacto, su zona de operación, etc.
+En una tienda en línea, el gráfico circular de precios le mostrará cómo se asigna el precio entre el productor y el centro de venta \(por ejemplo, 10% del precio queda para el centro de venta y 90% va para el productor\). También puede ver las propiedades del producto \(como certificado orgánico, agroecológico, convencional, etc.\) para saber más sobre cómo se produjo la comida. También tendrá información acerca de los productores y centros de venta, para conocer sus historias, sus datos de contacto, su zona de operación, etc.
 
 #### ¿De qué manera las compras en la Red Ágora traen beneficios a los agricultores, el medio ambiente y mi comunidad local?
 
-Red Ágora vuelve a hacer visibles a los productores, otorgándoles reconocimiento y un precio justo por su arduo trabajo. Un sistema alimentario con un comercio más directo entre los agricultores y las empresas comunitarias locales (en lugar de las grandes cadenas de supermercados, o mercados centralizados de alimentos) mantiene las ganancias en manos de la comunidad y construye lazos de confianza y comprensión. El consumo de productos locales también brinda beneficios al medio ambiente, gracias a que se disminuyen las distancias que deben recorrer los productos hasta llegar al consumidor y se aumenta el consumo de productos de estación.
+Red Ágora vuelve a hacer visibles a los productores, otorgándoles reconocimiento y un precio justo por su arduo trabajo. Un sistema alimentario con un comercio más directo entre los agricultores y las empresas comunitarias locales \(en lugar de las grandes cadenas de supermercados, o mercados centralizados de alimentos\) mantiene las ganancias en manos de la comunidad y construye lazos de confianza y comprensión. El consumo de productos locales también brinda beneficios al medio ambiente, gracias a que se disminuyen las distancias que deben recorrer los productos hasta llegar al consumidor y se aumenta el consumo de productos de estación.
 
-#### ¿En qué se diferencia la Red Ágora de otros servicios en línea de entrega de alimentos?
+#### ¿En qué se diferencia la Red Ágora de los supermercados, las despensas y otras opciones de compra de alimentos?
 
-La mayoría de los servicios en línea todavía se abastecen a través de cadenas de suministro convencionales que están envueltas en misterio, pero en Red Ágora siempre se puede ver de dónde provienen los alimentos. Red Ágora está contribuyendo a algo más grande: un mercado más sencillo, justo y eficiente. Para ello trabaja con varios productores y centros de venta de direfentes lugares para formar una red de comercio en todo el territorio nacional.
+La mayoría de opciones de compra de alimentos todavía se abastecen a través de cadenas de suministro convencionales que están envueltas en misterio. ¿Te haz preguntado de dónde viene el tomate que estás comprado, si está libre de agroquímicos, por cuántos intermediarios ha pasado o si el precio que estás pagando es justo? Por lo general, ninguna de estas informaciones están disponibles.
+
+En contraste, en Red Ágora creemos que el consumidor tiene el derecho de conocer qué está consumiendo. En nuestra plataforma se puede ver de dónde provienen los alimentos, quiénes los produjeron, cómo han sido producidos e incluso la proporción del precio que corresponde al productor. 
+
+Red Ágora no es una "opción más de compra", está contribuyendo algo más grande: un mercado más sencillo, justo y eficiente. Trabajamos para crear una red de productores/as, artesanos/as, centros de venta y distribuidores/as de direfentes lugares y diferentes rubros para cubrir satisfactoriamente la demanda de los consumidores.
 
 #### ¿Cómo pueden los clientes hacer que la Red Ágora sea conveniente para ellos?
 
@@ -50,10 +61,11 @@ Un grupo de compra es un colectivo de consumidores, que realiza un pedido en can
 
 Si una tienda ofrece a un grupo de compra, pregúnteles cómo puede unirse. O si desea comenzar un nuevo grupo de compras, póngase en contacto con una tienda para ver si se puede adaptar y hable con su comunidad para involucrar a otros.
 
-#### Todas las tiendas en el OFN son diferentes, ¿cómo sé cuál es el adecuado para mí?
+#### Todas las tiendas en la Red Ágora son diferentes, ¿cómo sé cuál es el adecuado para mí?
 
 Las tiendas en la Red Ágora son maravillosamente diversas, lo que significa que seguramente encontrará una que se adapte a sus necesidades. Puede utilizar la función de mapa para encontrar empresas ubicadas cerca de usted. Luego, consulte los perfiles de las tiendas para ver si la gama de productos y los métodos de pago y envío satisfacen sus necesidades. Cada tienda tiene enlaces a los perfiles de los proveedores, para que pueda conocer de dónde viene la comida y cómo se produjo. Si las características de producción como orgánica o la agricultura familiar campesina son importantes para usted, puede elegir qué productos y tiendas cumplen con estos estándares.
 
 #### ¿Puedo ver un registro de mis pedidos anteriores?
 
 Puede ver sus pedidos anteriores iniciando sesión en la página de inicio, haciendo clic en el engranaje en la esquina superior derecha y seleccionando Cuenta. Allí verá un resumen de sus pedidos en cada tienda y podrá ver los detalles de cada pedido único.
+
