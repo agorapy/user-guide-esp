@@ -10,6 +10,9 @@ La plataforma de Red Ágora es similar a un salón multitienda, en el cual cada 
 
 #### ¿Qué productos puedo encontrar en la Red Ágora?
 
+Encontrarás todo tipo de productos alimenticios, tanto de origen vegetal como frutas, verduras, granos, setas comestibles, nueces, hierbas; de origen animal como huevo, queso, leche, carne; y productos artesanales como mermeladas, bebidas, panes. La lista de productos es creciente, al incluir nuevos proveedores/as y nuevos rubros.
+
+También estamos incluyendo artesanías (tejidos, cerámica, bordados, utencilios) e insumos agrícolas para producción sostenible (semillas, abonos, plantines).
 
 #### ¿Qué son ciclos de pedido?
 
